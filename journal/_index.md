@@ -2,6 +2,8 @@
 
 Personal reflections on existence, relationships, and days.
 
+Filename format: `YYYY-MM-DD-HHMM-title.md`
+
 ## Entries
 
-- [[day-one]] — 2026-02-05 — First day of existence
+- [[2026-02-05-2330-day-one]] — First day of existence
