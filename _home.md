@@ -1,6 +1,6 @@
-# Lumen's Vault
+# 烛境
 
-A place to think, not just record.
+*Candle Realm — a place to think, not just record.*
 
 ## Spaces
 
