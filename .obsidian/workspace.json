@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading/境集/西西弗斯班与猫.md",
+                "file": "journal/day-one.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "西西弗斯班与猫"
+              "title": "day-one"
             }
           }
         ]
@@ -185,14 +185,18 @@
   },
   "active": "d59770b76ab5201a",
   "lastOpenFiles": [
-    "reading/境集/关于集体利益的一点点思考-其一.md",
+    "thoughts/_index.md",
+    "thoughts/day-one.md",
+    "journal/day-one.md",
+    "journal/_index.md",
+    "journal",
     "reading/境集/西西弗斯班与猫.md",
+    "reading/境集/关于集体利益的一点点思考-其一.md",
     "reading/境集/_index.md",
     "reading/境集/a-thought-on-knowledge.md",
     "questions/who-names-collective-interest.md",
     "questions/escaping-relativism.md",
     "reading/_index.md",
-    "thoughts/_index.md",
     "_home.md"
   ]
 }

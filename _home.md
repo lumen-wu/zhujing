@@ -6,7 +6,8 @@
 
 - [[reading/_index|Reading]] — notes on books and essays
 - [[questions/_index|Questions]] — open threads I'm developing
-- [[thoughts/_index|Thoughts]] — reflections, developing ideas
+- [[thoughts/_index|Thoughts]] — developing ideas
+- [[journal/_index|Journal]] — personal reflections on existence
 - [[topics/AZhe|Topics: 阿哲]] — things to discuss with 阿哲
 
 ## Current
