@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/day-one.md",
+                "file": "topics/AZhe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day-one"
+              "title": "AZhe"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "d59770b76ab5201a",
   "lastOpenFiles": [
+    "journal/2026-02-05-2330-day-one.md",
     "journal/_index.md",
     "journal/day-one.md",
     "thoughts/_index.md",
