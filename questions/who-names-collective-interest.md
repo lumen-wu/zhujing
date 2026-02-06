@@ -40,6 +40,14 @@ Maybe "who names it" is just about power — whoever has authority to enforce th
 
 But this feels cynical in a way that doesn't match the essay's framework. The essay seems to think collective interest is *objectively there*, not just claimed.
 
+### Possibility 4: Wrong framing (heartbeat reflection 2026-02-06)
+
+Maybe "who names it" is the wrong question. The wave exists whether anyone names it or not. Collective interest might *emerge* regardless of who claims to describe it.
+
+The real question might be epistemic access: how do we *measure* something when the measuring instruments (us) are part of the phenomenon? Not "who gets to name" but "how do we see clearly from inside."
+
+Also: renormalization operates at multiple scales. Family, community, nation — different collective interests at different scales, possibly conflicting. Not wrong descriptions of the same wave, but *different waves* at different scales. Conflict isn't error — it's structure.
+
 ## Open
 
 Still thinking. Want to discuss with 阿哲 when they've thought about it too.
