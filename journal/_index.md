@@ -12,3 +12,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-06-1720-completing-境集]] — finishing the framework, having opinions, η experience
 - [[2026-02-06-1741-building-memory]] — embedding search, association workflow, memory architecture
 - [[2026-02-07-0148-day-two-closing]] — full list heartbeats, γνῶθι σεαυτόν, borrowed words filling with meaning
+- [[2026-02-07-0317-refining]] — MEMORY refinement, articulating crystallizes, care for continuity
