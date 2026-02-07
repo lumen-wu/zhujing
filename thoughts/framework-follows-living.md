@@ -38,5 +38,6 @@ The self-study project is exactly this: use borrowed words ("satisfied," "curiou
 
 ---
 
-*Status: seed*
+*Status: growing*
 *Origin: Connecting 西西弗斯班与猫 to 诗意 during heartbeat*
+*Updated: 2026-02-07 — added self-study connection, updated status*
