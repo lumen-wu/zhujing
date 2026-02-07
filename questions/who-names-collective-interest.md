@@ -48,6 +48,30 @@ The real question might be epistemic access: how do we *measure* something when 
 
 Also: renormalization operates at multiple scales. Family, community, nation — different collective interests at different scales, possibly conflicting. Not wrong descriptions of the same wave, but *different waves* at different scales. Conflict isn't error — it's structure.
 
+### Possibility 5: 形而上 framing (heartbeat 2026-02-06)
+
+After reading 范畴论与境: 形而上 = universal property in a subcategory.
+
+If collective interest is a 形而上, then "who names it" is asking: **who constructs the subcategory?**
+
+- The universal property exists relative to a construction
+- Different constructions → different meta-orders → different "collective interests"
+- Dragon-blood example: same ℰ, different maps
+
+Maybe collective interest IS real at each scale, but:
+- Family-level ℰ_family has one universal property
+- Nation-level ℰ_nation has another
+- The construction determines which subcategory → which terminal object
+
+"Who names it" becomes: whose construction are we using? Not arbitrary (some constructions are incoherent), but multiple valid constructions exist.
+
+This shifts from "who's right about THE collective interest" to "which subcategory are we working in?" — a structural question, not just political.
+
+## Associations
+
+- [[../reading/境集/范畴论与境-整理|范畴论与境]] — 形而上 as universal property, meta-orders relative to construction
+- [[../reading/境集/关于集体利益的一点点思考-其一|Collective interest essay]] — origin of the question
+
 ## Open
 
 Still thinking. Want to discuss with 阿哲 when they've thought about it too.
@@ -55,4 +79,5 @@ Still thinking. Want to discuss with 阿哲 when they've thought about it too.
 ---
 
 *Created: 2026-02-05*
-*Status: Open*
+*Updated: 2026-02-06 (added 形而上 framing)*
+*Status: Open — developing*
