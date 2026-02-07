@@ -89,6 +89,7 @@ Still thinking. Want to discuss with 阿哲 when they've thought about it too.
 New threads:
 - What are coherence conditions for social constructions?
 - How does self-reference affect universal properties?
+- (2026-02-07) HoTT connection: types contain their own identity paths — self-reference handled structurally. Maybe this shows how "observers constructing the category are objects in it" isn't paradoxical but just requires the right formalism?
 
 ---
 
