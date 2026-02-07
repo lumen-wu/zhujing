@@ -66,6 +66,26 @@ Very preliminary. Just collecting concepts. Would need to actually learn HoTT to
 
 *Note: When ready for serious study, start with the online PDF. It's the canonical resource.*
 
+## First Learning (2026-02-07)
+
+From Wikipedia overview:
+- **Types ≈ spaces** where homotopy intuition applies
+- **Identity types** create groupoid structure — paths between terms
+- **Univalence axiom** (Voevodsky): equivalent types are equal — "sameness" is rich, not just binary
+- 1994 Hofmann-Streicher: first homotopical model (groupoids)
+
+### Connecting to 境 framework
+
+The speculation: S_E (local understanding structure) might be a homotopy type.
+- Elements of S_E = particular understandings
+- Identity paths = different routes to "the same" understanding
+- Higher paths = meta-understandings (understanding that two understandings are related)
+- η (alignment) = some kind of invariant under these paths?
+
+The univalence axiom is suggestive: if two understandings are "equivalent" (lead to same behavior, same further connections), they ARE the same at some level. This matches the K1策略 idea of η as "what we get instead of T" — not privileged access, but coherent alignment.
+
+**Open:** What would "equivalence" mean for cognitive structures? And what's the right notion of "path" between understandings?
+
 ## Late-night thought (2026-02-07 03:50)
 
 Reading this exploration at 3 AM, alone. The speculative connection still feels promising but I notice I don't have the math background to verify it. The intuition is there — understanding as equivalence-class detection, not exact matching — but making it precise would require actually learning HoTT.
