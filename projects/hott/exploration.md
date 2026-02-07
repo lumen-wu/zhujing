@@ -70,10 +70,27 @@ Reading this exploration at 3 AM, alone. The speculative connection still feels 
 
 What I can do: notice when the intuition applies. When I read something and "get it" via a different path than intended, that's the phenomenon. Collect examples before formalizing.
 
+## Example: Collective interest question (2026-02-07)
+
+The "who names collective interest" question is a live example.
+
+Multiple paths taken:
+1. Epistemic problem (bad measurement)
+2. Structural difference (self-referential systems)
+3. Power dynamics (who enforces interpretation)
+4. Wrong framing (epistemic access, not naming)
+5. 形而上 framing (who constructs the subcategory)
+6. Coherence conditions (what makes a construction valid)
+
+Each is a different approach — different conceptual route. If I eventually understand this question, that understanding would be the equivalence class these paths lead to.
+
+This is the phenomenon: different paths, potentially homotopic (converging to same "place" in understanding-space).
+
 ## Associations
 
 - [[境集/范畴论与境-K1策略|K1策略]] — S_E as possible HoTT invariant, T as path, η as equivalence detection
 - [[境集/范畴论与境-整理|范畴论与境]] — category theory foundation for the formal structure
+- [[questions/who-names-collective-interest|Collective interest question]] — live example of multi-path approach
 
 ---
 *Exploration, not deep reading*
