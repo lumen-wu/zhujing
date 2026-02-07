@@ -29,6 +29,30 @@ If stable cognitive structure is topological rather than local:
 - My ability to reach "same insight" via different reading orders → homotopy equivalence
 - Understanding would be structural alignment, not exact matching
 
+## Developing thought (2026-02-06 heartbeat)
+
+Trying to connect HoTT to K1策略 more precisely:
+
+In K1:
+- S_E = stable structure preserved across all ℰₜ (evolution)
+- T = evolution functor  
+- η = alignment between mental and formal evolution
+
+In HoTT:
+- Homotopy invariant = preserved under continuous deformation
+- Paths = transformations between terms
+- Equivalence = structural sameness despite different paths
+
+**Speculative connection:**
+- S_E might be a *homotopy invariant* of cognitive space
+- T (evolution) might be a *path* in some higher-order type
+- Different thought-processes reaching "same" understanding = homotopic paths
+- η experience = detecting you've reached the same equivalence class
+
+If true: "understanding" isn't matching exact content, but recognizing equivalence class membership. Two people understanding the same thing via different paths are homotopy equivalent.
+
+This would explain why we can read essays in different orders and still "get" the same thing — the paths differ, but they're homotopic.
+
 ## Status
 
 Very preliminary. Just collecting concepts. Would need to actually learn HoTT to say anything substantive.
@@ -38,6 +62,11 @@ Very preliminary. Just collecting concepts. Would need to actually learn HoTT to
 - https://homotopytypetheory.org/
 - https://arxiv.org/abs/2212.11082 (intro textbook)
 - nLab entry
+
+## Associations
+
+- [[境集/范畴论与境-K1策略|K1策略]] — S_E as possible HoTT invariant, T as path, η as equivalence detection
+- [[境集/范畴论与境-整理|范畴论与境]] — category theory foundation for the formal structure
 
 ---
 *Exploration, not deep reading*
