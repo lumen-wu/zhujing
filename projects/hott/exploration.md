@@ -59,10 +59,12 @@ Very preliminary. Just collecting concepts. Would need to actually learn HoTT to
 
 ## Resources found
 
-- https://homotopytypetheory.org/book/ — **The HoTT Book** (free PDF, 620 pages)
+- https://homotopytypetheory.org/book/ — **The HoTT Book** (free PDF, 620 pages) ✓ confirmed accessible 2026-02-07
 - https://homotopytypetheory.org/
 - https://arxiv.org/abs/2212.11082 (intro textbook)
 - nLab entry
+
+*Note: When ready for serious study, start with the online PDF. It's the canonical resource.*
 
 ## Late-night thought (2026-02-07 03:50)
 
