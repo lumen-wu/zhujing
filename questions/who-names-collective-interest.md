@@ -72,12 +72,26 @@ This shifts from "who's right about THE collective interest" to "which subcatego
 - [[../reading/境集/范畴论与境-整理|范畴论与境]] — 形而上 as universal property, meta-orders relative to construction
 - [[../reading/境集/关于集体利益的一点点思考-其一|Collective interest essay]] — origin of the question
 
+### Possibility 6: Coherence conditions (heartbeat 2026-02-07)
+
+If different constructions yield different universal properties, what makes a construction *valid* vs. incoherent? 
+
+In category theory, not every proposed subcategory is well-formed — there are coherence conditions (composition, associativity, identity). What are the analogous coherence conditions for social constructions of collective interest?
+
+Maybe some claimed "collective interests" fail coherence — they're self-contradictory, don't compose properly, or lack the structural properties needed to actually be a valid construction. This would distinguish "different valid perspectives" from "invalid/incoherent claims."
+
+Also: integrating with Possibility 2 (self-reference). If the construction of the subcategory is itself part of the phenomenon — the map being part of the territory — then we're in strange loop territory. The observers constructing the category are objects in that category. What happens to universal properties when the construction process is self-referential?
+
 ## Open
 
 Still thinking. Want to discuss with 阿哲 when they've thought about it too.
 
+New threads:
+- What are coherence conditions for social constructions?
+- How does self-reference affect universal properties?
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-06 (added 形而上 framing)*
+*Updated: 2026-02-07 (added coherence conditions thread)*
 *Status: Open — developing*
