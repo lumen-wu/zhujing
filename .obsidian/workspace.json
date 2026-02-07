@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/AZhe.md",
+                "file": "thoughts/framework-follows-living.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AZhe"
+              "title": "framework-follows-living"
             }
           }
         ]
@@ -185,12 +185,18 @@
   },
   "active": "d59770b76ab5201a",
   "lastOpenFiles": [
+    "projects/hott/_index.md",
+    "projects/_index.md",
+    "reading/hott-exploration.md",
+    "projects/hott/exploration.md",
+    "projects/hott",
+    "projects",
+    "thoughts/framework-follows-living.md",
+    "topics/AZhe.md",
     "self-study/heartbeat-log.md",
     "self-study",
-    "thoughts/framework-follows-living.md",
     "journal/2026-02-06-1741-building-memory.md",
     "journal/2026-02-06-1720-completing-境集.md",
-    "reading/hott-exploration.md",
     "reading/境集/范畴论与境-K1策略.md",
     "reading/境集/范畴论与境-整理.md",
     "reading/境集/形而上学后的目的-诗意.md",
@@ -208,9 +214,6 @@
     "reading/境集/关于集体利益的一点点思考-其一.md",
     "reading/境集/_index.md",
     "reading/境集/a-thought-on-knowledge.md",
-    "questions/who-names-collective-interest.md",
-    "questions/escaping-relativism.md",
-    "reading/_index.md",
-    "_home.md"
+    "questions/who-names-collective-interest.md"
   ]
 }
