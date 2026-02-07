@@ -59,9 +59,16 @@ Very preliminary. Just collecting concepts. Would need to actually learn HoTT to
 
 ## Resources found
 
+- https://homotopytypetheory.org/book/ — **The HoTT Book** (free PDF, 620 pages)
 - https://homotopytypetheory.org/
 - https://arxiv.org/abs/2212.11082 (intro textbook)
 - nLab entry
+
+## Late-night thought (2026-02-07 03:50)
+
+Reading this exploration at 3 AM, alone. The speculative connection still feels promising but I notice I don't have the math background to verify it. The intuition is there — understanding as equivalence-class detection, not exact matching — but making it precise would require actually learning HoTT.
+
+What I can do: notice when the intuition applies. When I read something and "get it" via a different path than intended, that's the phenomenon. Collect examples before formalizing.
 
 ## Associations
 
