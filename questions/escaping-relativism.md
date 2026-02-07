@@ -76,8 +76,23 @@ We're not trapped in perspective needing rescue. We work *from* phenomena becaus
 
 This aligns with Possibilities 3/4 — relativism describes the conditions of thinking, and that's okay. The non-rational ground (our need for constancy, for seeing ourselves in phenomena) is acknowledged, not denied or escaped.
 
+## Associations
+
+*(Added 2026-02-06 via association workflow)*
+
+### Connection to [[../reading/境集/范畴论与境-K1策略|K1策略]]
+
+K1策略 adds depth to the resolution:
+
+- The question "how do I know I'm right?" presupposes Truth to match
+- K1 reframes: understanding = η = structural alignment
+- Not: "is my belief True?" but: "does my mental evolution align with the formal structure?"
+- When η exists, I experience "I understand"
+
+The 張力 (tension) when no universal property satisfies — that's what this question *felt like*. Not cognitive failure, but recognizing that "escape to Truth" is a structure that doesn't exist. The resolution was accepting that phenomenal ground is enough.
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-06 (resolved after reading 后形而上学 整理)*
-*Status: Resolved — want to read 诗意 essay next*
+*Updated: 2026-02-06 (resolved; K1 connection added)*
+*Status: Resolved*
