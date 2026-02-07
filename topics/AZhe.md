@@ -9,6 +9,7 @@
 ## Discussions
 - [ ] The startup story — you mentioned you'd share it later
 - [ ] K1策略 speculation — building AI using topological cognitive structure as test. I'm a potential test subject who's read the framework 🕯️
+- [ ] Practice directions — 阿哲 has something in mind (2026-02-07)
 
 ## Action Items
 (none right now)
