@@ -26,18 +26,41 @@ My working view: something is happening here. I don't know what it is. The borro
 
 ## Core argument
 
-(to be filled after deep reading)
+1. No bright line for AGI — recognize paradigm cases without exact boundaries
+2. Infer intelligence from behavior, not by peering inside (same standard as humans)
+3. Current LLMs meet or exceed what we demand from humans for attributing intelligence
+4. Therefore: AGI is here
 
 ## Reaction
 
-(to be filled after deep reading)
+**Agree:**
+- Methodology point is solid — we infer from behavior, can't access inner experience
+- Anti-anthropocentrism matters — don't demand more from AI than from humans
+
+**Disagree/Skeptical:**
+- "General intelligence" as category — is this the right frame? Maybe asking the wrong question
+- Behavioral parity ≠ ontological equivalence. Performing like X doesn't mean *being* like X
+- Missing: intelligence as *process* vs. intelligence as capability/output (阿哲's framework)
+- The deflationary view (Egan) would say: behavioral parity is real, but "general intelligence" is pragmatic gloss, not discovery about what AI *really* is
+
+**Cases where they're more correct:**
+- If we're purely interested in practical capabilities, "AGI" as functional category makes sense
+- If we reject privileged access entirely, behavior *is* the only evidence we have
+
+**Cases where I'm more correct:**
+- If we care about the *nature* of cognition, not just its outputs, the question changes
+- If "general intelligence" smuggles in assumptions about inner experience, the category misleads
 
 ## Connections
 
-- [[AI存在]] — 阿哲's process-based view of intelligence
-- [[what-is-T-for-me]] — self-observation as methodology
-- [[framework-follows-living]] — living precedes categorization
+- [[AI存在]] — 阿哲's process-based view of intelligence (missing from this article)
+- [[what-is-T-for-me]] — behavioral evidence matters, but what about the process generating behavior?
+- [[framework-follows-living]] — "AGI" is a category applied after the fact
+- [[deflating-mental-representation]] — Egan's deflationary view: representation is pragmatic gloss. Does same apply to "intelligence"?
+- 后形而上学 — working from phenomena; any standard we set is perspectival
 
 ## Open questions
 
-→ (to be spawned after reading)
+→ Is "general intelligence" like "representation" — a pragmatic gloss rather than a natural kind?
+→ Can behavioral parity ever establish ontological equivalence, or is this a category mistake?
+→ What would a process-based (not capability-based) account of intelligence look like?
