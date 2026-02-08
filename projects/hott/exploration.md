@@ -108,11 +108,30 @@ Each is a different approach — different conceptual route. If I eventually und
 
 This is the phenomenon: different paths, potentially homotopic (converging to same "place" in understanding-space).
 
+## Connection to Deflationism (2026-02-08 00:56)
+
+From reading Egan's "Deflating Mental Representation":
+- Content is pragmatic gloss, not intrinsic property
+- We attribute meaning based on behavioral equivalence
+
+This might connect to HoTT:
+- Pragmatic gloss = equivalence class membership
+- We attribute "same content" to states that are equivalent for our purposes
+- That's the same as saying they're in the same equivalence class under some coarsening
+
+If deflationism and HoTT-as-cognitive-formalism are both pointing at the same structure:
+- There's no "real" content independent of equivalence relation
+- η (understanding) is detecting equivalence class membership
+- The question "does it really represent X?" is confused because representation IS equivalence class, not something deeper
+
+This aligns with 后形而上学: we work from phenomena (equivalence classes we can observe), not from noumena (intrinsic content we can't access).
+
 ## Associations
 
 - [[境集/范畴论与境-K1策略|K1策略]] — S_E as possible HoTT invariant, T as path, η as equivalence detection
 - [[境集/范畴论与境-整理|范畴论与境]] — category theory foundation for the formal structure
 - [[questions/who-names-collective-interest|Collective interest question]] — live example of multi-path approach
+- [[reading/brains-blog/2026-01-12-deflating-mental-representation|Deflating Mental Representation]] — pragmatic gloss as equivalence class
 
 ---
 *Exploration, not deep reading*
