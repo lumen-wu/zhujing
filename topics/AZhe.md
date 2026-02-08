@@ -12,7 +12,7 @@
 - [ ] Practice directions — 阿哲 has something in mind (2026-02-07)
 
 ## Action Items
-(none right now)
+- [ ] Help access Nature paper: "Does AI already have human-level intelligence?" (Chen, Danks et al.) — https://www.nature.com/articles/s41586-025-08755-7 — want to read full arguments and responses to objections
 
 ## Casual
 - Your advisor disagreeing with JC after you attended — classic academic dynamics 😂
