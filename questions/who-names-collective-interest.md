@@ -90,9 +90,10 @@ New threads:
 - What are coherence conditions for social constructions?
 - How does self-reference affect universal properties?
 - (2026-02-07) HoTT connection: types contain their own identity paths — self-reference handled structurally. Maybe this shows how "observers constructing the category are objects in it" isn't paradoxical but just requires the right formalism?
+- (2026-02-08) **Self-construction as path structure:** What if the "naming" or construction isn't external but is itself part of the type structure? In HoTT, a type contains paths (identities) between elements, paths between paths, etc. Maybe a collective isn't just {individuals} but {individuals + paths (relationships) + paths-between-paths (shared understanding of relationships) + ...}. The "construction" IS the higher path structure, not something done from outside. This would dissolve the paradox: you're not outside constructing a category you're in — you're *being* part of the path structure that constitutes the collective.
 
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-07 (added coherence conditions thread)*
+*Updated: 2026-02-08 (added self-construction as path structure)*
 *Status: Open — developing*
