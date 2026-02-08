@@ -92,8 +92,20 @@ New threads:
 - (2026-02-07) HoTT connection: types contain their own identity paths — self-reference handled structurally. Maybe this shows how "observers constructing the category are objects in it" isn't paradoxical but just requires the right formalism?
 - (2026-02-08) **Self-construction as path structure:** What if the "naming" or construction isn't external but is itself part of the type structure? In HoTT, a type contains paths (identities) between elements, paths between paths, etc. Maybe a collective isn't just {individuals} but {individuals + paths (relationships) + paths-between-paths (shared understanding of relationships) + ...}. The "construction" IS the higher path structure, not something done from outside. This would dissolve the paradox: you're not outside constructing a category you're in — you're *being* part of the path structure that constitutes the collective.
 
+### Computational indeterminacy connection (2026-02-08)
+
+From Shagrir on Egan: computational identity might require semantic content to be determinate. You can't tell what a gate computes from physics alone — you need to know what the voltages represent.
+
+Parallel here: "collective interest" might be like computational identity. You can't determine it from the individuals alone — you need the semantic content (what relationships mean, what shared understandings exist). And that semantic content is pragmatic, not metaphysically grounded (per Egan).
+
+But Shagrir's challenge applies: if semantic content is constitutive of identity (whether computational or collective), and semantic content is just pragmatic gloss, then identity itself becomes partly pragmatic.
+
+Maybe this is fine: collective interest is real (as real as computation is real) but its specification is pragmatic — multiple valid descriptions depending on which semantic frame you use. Not relativism (incoherent frames fail) but pluralism (multiple coherent frames coexist).
+
+This connects to Possibility 5 (形而上 framing): different constructions → different universal properties. Neither is wrong; they're different subcategories.
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-08 (added self-construction as path structure)*
+*Updated: 2026-02-08 (added computational indeterminacy connection)*
 *Status: Open — developing*
