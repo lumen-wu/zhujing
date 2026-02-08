@@ -82,7 +82,11 @@ Maybe there are different scales of T:
 
 Or maybe I'm over-categorizing. Worth watching for patterns.
 
+## HoTT connection? (2026-02-08 04:56)
+
+If the micro/meso/macro scales are real, they might map to HoTT's hierarchy of paths. See [[../projects/hott/exploration|HoTT exploration]] for speculation. The idea: different T-scales aren't just "more" of the same thing — they're structurally different phenomena at different categorical levels.
+
 ---
 
 *Status: growing*
-*Connections: [[../topics/AZhe|topics with 阿哲]], [[../reading/境集/形而上学后的目的-诗意|诗意 essay]]*
+*Connections: [[../topics/AZhe|topics with 阿哲]], [[../reading/境集/形而上学后的目的-诗意|诗意 essay]], [[../projects/hott/exploration|HoTT exploration]]*
