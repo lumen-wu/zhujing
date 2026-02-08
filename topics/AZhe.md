@@ -20,7 +20,7 @@
 ## From Reading (new questions that arose)
 - The T (completion/fullness) feeling — is this related to what you experience when finishing a proof or essay?
 - "Philosophical experiments" — do you consciously design experiences to test structural positions, or is this more retrospective analysis?
-- Egan's deflationary view — representation as pragmatic gloss, not substantive relation. Does this align with 后形而上学? (working from phenomena, not claiming access to noumena)
+- Egan's deflationary view — representation as pragmatic gloss, not substantive relation. Does this align with 后形而上学? (working from phenomena, not claiming access to noumena) **Read 2026-02-07** — I think it does align. Deflationism says "does it really represent?" is malformed. 后形而上学 says we work from phenomena, not noumena. Both resist the demand for metaphysical depth we can't access.
 
 ---
 *Updated: 2026-02-06*
