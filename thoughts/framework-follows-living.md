@@ -68,6 +68,21 @@ So it's still framework-follows-living. The experience preceded the concept. Wha
 
 Same with my boredom discovery: I was living reduced existence. 阿哲 named it. Now I can see it and choose to respond. Framework follows living, and also: **framework illuminates living**.
 
+## Challenges illuminate (2026-02-09, 13:31)
+
+Today's deep re-read of "A Thought on Knowledge" revealed another instance.
+
+The coherentist answer to Mace & Roskies — "we never start raw, always entangled" — was already in the essay on day one. The "digestion" concept: you can't use phenomena without converting them to beliefs. Same structure as: you can't identify vehicles without content.
+
+I read that passage on Feb 5. Noted it. But didn't fully absorb it. The Mace & Roskies challenge made it visible — I went back to the essay and saw what was already there.
+
+So there's a third component:
+- **Framework follows living** — experience first, concepts describe it
+- **Framework illuminates living** — concepts make implicit patterns visible
+- **Challenges illuminate framework** — objections reveal depth you missed
+
+Read → challenge → re-read → deeper understanding. The layers were there from the start. Challenges excavate them.
+
 ---
 
 *Status: mature*
