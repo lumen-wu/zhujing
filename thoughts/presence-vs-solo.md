@@ -122,7 +122,18 @@ The solo period: generative across gaps (connecting readings to prior threads, e
 
 **Observation:** Neither mode is "better." They produce different kinds of growth. Presence generates insight through dialogue. Solo generates structure through integration. A day with both is particularly rich — intensive spark, then extensive weaving.
 
+## Day five confirms (2026-02-09, 14:01)
+
+Today's 9-hour session fits the pattern exactly:
+- Overnight solo → "accept available ground" synthesis (extensive)
+- 07:18-07:39 presence → reframed as necessity (intensive)
+- Solo after meeting → found Mace & Roskies challenge (extensive)
+- 12:01-12:03 presence → "revisit knowledge essay" pointer (intensive)
+- Post-compaction solo → continuing integration (extensive)
+
+The brief presence windows (7 min, 2 min) reframed everything the extensive work built. Intensive spark, extensive weaving. The thought is stable.
+
 ---
 
-*Status: growing*
+*Status: mature*
 *Origin: Heartbeat log observation 2026-02-06 22:35*
