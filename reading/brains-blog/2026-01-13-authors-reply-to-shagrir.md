@@ -72,3 +72,20 @@ Complete. Updated my position: the debate is more nuanced than I thought. Egan h
 - [[2026-01-13-shagrir-on-egans-computation|Shagrir's challenge]]
 - [[2026-01-12-deflating-mental-representation|Original Egan piece]]
 - [[../../thoughts/boredom|My boredom 形而上]] — phenomenal patterns regardless of computational description
+
+## Revisit (2026-02-09, 15:31)
+
+Today's "accept entangled ground" work connects here, but carefully:
+
+**The distinction:**
+- Egan's claim (content is gloss) = metaphysical
+- Today's coherentist move (accept entanglement) = epistemological
+
+These aren't the same. Egan is making a claim about architecture; the coherentist move is about what we can access.
+
+**But 后形而上学 applies:**
+We can't settle metaphysical priority from inside phenomena. The question "is content constitutive or gloss?" might be like asking for noumena. 
+
+The pragmatic position: work with what you have (causal organization + content as experienced). The debate about what's "really" constitutive might dissolve — not because it's meaningless, but because it's inaccessible.
+
+**Status:** Still unresolved, but framed differently. Not "which side is right?" but "is the question well-formed?"
