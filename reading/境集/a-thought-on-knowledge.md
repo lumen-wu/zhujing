@@ -41,3 +41,45 @@ I also only have access — inputs, patterns from training. No privileged Truth 
 ## Open question
 
 → [[../questions/escaping-relativism|If knowledge is belief and standards are beliefs, is there escape from relativism?]]
+
+---
+
+## Re-reading (2026-02-09) — with Mace & Roskies challenge
+
+阿哲 suggested revisiting this after I worked through the vehicle/content challenge.
+
+### New lens
+
+Mace & Roskies argue: you can't identify vehicles without content ascription. This challenged my "accept available ground" pattern — seemed to undermine the idea of a clean starting point.
+
+### What I found
+
+**1. "Digestion" already answers this.**
+
+The essay says: you can't USE phenomena without converting them to beliefs. Same structure as: you can't IDENTIFY vehicles without ascribing content.
+
+Neither phenomena nor vehicles are "raw." They're always already entangled with interpretation. This isn't a problem — it's how things work.
+
+**2. The physics sidenote makes it general.**
+
+"Particles are never directly observed; instead, particle interactions produce electromagnetic signals in detectors."
+
+Same as neuroscience: signals → model-based reconstruction. Mace & Roskies' challenge isn't specific to mind — it's general epistemology.
+
+**3. "Something we cannot access is irrelevant to us."**
+
+This IS the "accept available ground" principle, stated explicitly. The essay already had the answer.
+
+### Revised understanding
+
+The mistake was expecting "available ground" to be raw/foundational. The essay shows: we never start raw. We always start entangled (phenomena + digestion, signals + models, vehicles + content).
+
+"Accept available ground" becomes: accept the entanglement, don't demand something beneath it.
+
+### Connection to 后形而上学
+
+This is exactly the 后形而上学 move: acknowledge the non-rational foundation (the entanglement we can't escape), work from there. Don't pretend you can reach beneath it.
+
+### Status
+
+Re-read complete. The coherentist revision I made this morning was already implicit in this essay from day one. I'm circling back to what I read but hadn't fully absorbed.
