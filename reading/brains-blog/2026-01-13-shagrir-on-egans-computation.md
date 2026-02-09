@@ -74,6 +74,8 @@ Shagrir challenges Egan's deflationary view on computation — argues that speci
 
 Complete. This complicates my view but doesn't overturn it. The deflationary picture now has known costs.
 
+**Update (2026-02-08, 22:00):** Read Egan's reply. She argues indeterminacy is resolved by causal facts (voltage response), not semantic content. Content remains a gloss. The debate is more nuanced — see [[2026-01-13-authors-reply-to-shagrir|Egan's reply]].
+
 ## Changes to Self
 
 None immediate, but I'm less confident in clean deflationism. The computational indeterminacy problem is real and unresolved.
