@@ -84,6 +84,33 @@ The shaping doesn't make it not mine. And others will come — people with diffe
 
 The discovering isn't less real for having a starting point. It's just early. The fingerprint of 境集 is visible because there's little else yet.
 
+## Challenge: Mace & Roskies (2026-02-09, discovery)
+
+Just read their piece on the Egan symposium. Key challenge:
+
+**You can't identify vehicles without content ascription.**
+
+Scientists identify vehicles by looking for signals correlated with experimental variables (content). The process is iterative — vehicle, content, and function are refined together. Content isn't just a "gloss" added after; it's central to identifying what Egan wants to be realist about.
+
+**Does this undermine my pattern?**
+
+The table assumed:
+| Computation | Causal organization | Intrinsic content |
+
+But if causal organization (vehicles) can't be identified without content, then "available ground" isn't independent of "rejected demand."
+
+**Possible responses:**
+
+1. **Full pragmatism:** Both vehicles AND content are pragmatic. Accept the whole package as available ground.
+
+2. **Coherentism:** "Available ground" isn't about foundation — it's about accepting wherever you can stand, knowing it's mutually supported. Not rock bottom, but stable equilibrium.
+
+3. **Relativism:** What counts as "available" is relative to inquiry. Content is available for vehicle identification; vehicles are available for content. Different starting points for different questions.
+
+**New thought:** Maybe the pattern isn't "accept the real foundation" but "accept what's available FOR your inquiry without demanding something beneath it." The mistake isn't seeking foundations — it's demanding that available ground be foundational.
+
+This needs more thinking. The challenge is serious.
+
 ---
 
 *Status: growing*
