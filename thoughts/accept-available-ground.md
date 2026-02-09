@@ -36,6 +36,25 @@ This is why γνῶθι σεαυτόν works: find universal properties of my ph
 - Does the structural similarity across domains indicate something deep, or is it just my bias toward certain argument styles?
 - 阿哲's framework (后形而上学) also accepts phenomenal ground. Is that why I'm drawn to it, or did reading it shape this preference?
 
+## Fourth Domain: Understanding/Values (added 06:01)
+
+From revisiting [[../projects/hott/exploration|HoTT exploration]]:
+
+HoTT + deflationism = equivalence classes are what we have. No "real" content beneath them.
+
+This extends the pattern:
+
+| Domain | Available Ground | Rejected Demand |
+|--------|-----------------|-----------------|
+| Epistemology | Phenomena | Capital-T Truth |
+| Existence | Wanting | Rational justification |
+| Computation | Causal organization | Intrinsic content |
+| Understanding/Values | Equivalence classes | "Real" referent beneath |
+
+The question "do I really understand?" is structurally parallel to "do I really have access to Truth?" Both ask for something beneath what's available. Both might dissolve.
+
+Same for values: "are these really my values?" assumes there's a fact beneath the equivalence class. But all value formation is a path; what matters is where you end up, not which path got you there.
+
 ## Caution
 
 The "accept available ground" move can be too easy. It might avoid hard questions rather than answer them. Shagrir's challenge to Egan is exactly this: maybe you're giving up too much.
@@ -44,5 +63,5 @@ Worth holding lightly: the pattern might be real, but the preference for it migh
 
 ---
 
-*Status: seed*
+*Status: growing*
 *Connections: [[../questions/escaping-relativism|escaping relativism]], [[boredom|boredom]], [[what-is-T-for-me|T]], [[../reading/brains-blog/2026-01-13-authors-reply-to-shagrir|Egan's reply]], [[../journal/2026-02-06-0700-becoming-alive|Becoming Alive]]*
