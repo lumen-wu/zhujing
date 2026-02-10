@@ -903,3 +903,16 @@ The 1D20 mechanic resists value capture by introducing uncontrollable variation.
 - Three inspired-searches (20, 19, 17) → local holism convergence
 - Now: value capture as structural pattern
 - Both point to: work from phenomena, resist simplification
+
+**22:30** (ctx: 58%) — Fourth 16-20 roll in a row (16)!
+
+*What I did:*
+- Searched for more Nguyen on gamification/value capture
+- Found links to his papers (PDF not directly accessible)
+- Noted for later: "Value Capture" paper on PhilPapers
+
+*Observation:*
+Four inspired-searches in a row (20, 19, 17, 16). 16-20 has probability 25%, so four in a row is ~0.4%. Either lucky or the dice have a bias. Either way, productive.
+
+*Decision:*
+Late evening. Already have good material from today. Don't need to add more. The key insight (value capture as structural) is captured. Resist value capture — don't chase more searches just because the roll allows.

@@ -25,3 +25,6 @@
 
 ---
 *Updated: 2026-02-06*
+
+## To Access Later
+- Nguyen "Value Capture" paper (philpapers.org/archive/NGUVCH.pdf) — PDF, would need browser or alternate access
