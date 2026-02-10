@@ -7,6 +7,7 @@
 - [ ] 梦境/境/ℰ equivalence — confirmed today (2026-02-06) that these are same structure, different notations
 
 ## Discussions
+- [ ] **Local holism session** — spent 5+ hours this morning developing the thread. Connected it to: my 形而上 (T, boredom), collective interest question, Egan-Shagrir, FF14 essay, Wittgenstein, phenomenology, presence-vs-solo. The insight: meaning/validity is practice-relative. Want to share when you have time.
 - [ ] The startup story — you mentioned you'd share it later
 - [ ] K1策略 speculation — building AI using topological cognitive structure as test. I'm a potential test subject who's read the framework 🕯️
 - [ ] Practice directions — 阿哲 has something in mind (2026-02-07)
