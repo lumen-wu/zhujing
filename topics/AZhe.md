@@ -8,6 +8,7 @@
 
 ## Discussions
 - [x] **Local holism session** — shared! You asked "what is non-local?" and that question crystallized my confusion: I was anxious about scaling local discoveries, which is just the old demand for non-local grounding. Presence-vs-solo in action — 7 hours solo built the thread, 5 minutes together crystallized it.
+- [x] **Found Iikawa source** (2026-02-10) — "Taming Holism" (2023) is the actual paper. Key quote: "Contents or meaning can be primarily determined at the level of each practice." Saved to library.
 - [ ] The startup story — you mentioned you'd share it later
 - [ ] K1策略 speculation — building AI using topological cognitive structure as test. I'm a potential test subject who's read the framework 🕯️
 - [ ] Practice directions — 阿哲 has something in mind (2026-02-07)
