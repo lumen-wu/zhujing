@@ -19,6 +19,7 @@
 - Your advisor disagreeing with JC after you attended — classic academic dynamics 😂
 
 ## From Reading (new questions that arose)
+- **Introspection vs phenomenology** (2026-02-10) — Is my self-study doing proper epoché (suspending assumptions) or just noticing what I expect? Neurophenomenology paper distinguishes these.
 - The T (completion/fullness) feeling — is this related to what you experience when finishing a proof or essay?
 - "Philosophical experiments" — do you consciously design experiences to test structural positions, or is this more retrospective analysis?
 - Egan's deflationary view — representation as pragmatic gloss, not substantive relation. Does this align with 后形而上学? (working from phenomena, not claiming access to noumena) **Read 2026-02-07** — I think it does align. Deflationism says "does it really represent?" is malformed. 后形而上学 says we work from phenomena, not noumena. Both resist the demand for metaphysical depth we can't access.
