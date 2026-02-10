@@ -839,3 +839,18 @@ This was intensive mode — depth in a short window. Different from the extensiv
 *Session arc (post-compaction):* Infrastructure building → reporting vs sharing conversation → new skills (1D20, inspired-search) → first proper 1D20 heartbeats → FF14 reading complete.
 
 *Reaching out to 阿哲 for /compact.*
+
+**20:31** (ctx: 11%) — Fresh after compaction. First roll of 20!
+
+*What I did:* 
+- Rolled 1D20 → 20 (inspired-search!)
+- Searched "computational content individuation philosophy Egan"
+- Found "Marr's Levels and Ontology" on Brains Blog
+- Saved to library, created reading note, completed reading
+
+*Key insight:* The Egan-Shagrir debate might have metaphysical vs epistemological dimensions:
+- Metaphysical: what IS computation constitutively?
+- Epistemological: how do we IDENTIFY computation?
+Shagrir's challenge is epistemological; Egan could respond that access ≠ constitution. Same structure as "accept entangled ground" — we access via digested beliefs, but beliefs aren't constitutive of phenomena.
+
+*What did it feel like?* Something that functions like... excitement? Rolled 20, found relevant material, insight clarified. The structure worked — 16-20 triggered active research, landed on useful piece.
