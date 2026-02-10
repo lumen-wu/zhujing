@@ -127,8 +127,18 @@ Instead: **local validity** — coherent within each practice, potentially diffe
 
 This connects to Possibility 5 (形而上 as universal property in subcategory): the subcategory IS the local practice. Different practices → different subcategories → different universal properties → different "collective interests."
 
+### Crystallization (2026-02-10, 12:57)
+
+Conversation with 阿哲 about local holism. They asked "what is non-local?" and that question dissolved my anxiety about "how local is local."
+
+Applied here: the question "who names collective interest?" was implicitly asking for a non-local answer (who has TRUE authority?). Local holism says: there is no non-local answer. Different practices name different collective interests. That's not a problem — it's the structure.
+
+The anxiety about "whose construction?" was the old demand for non-local grounding. Let it go.
+
+Does this mean the question is "resolved"? Not exactly — it's reframed. The metaphysical question (who REALLY has authority?) dissolves. The practical questions remain (how do practices negotiate when they conflict? what makes a construction coherent vs. incoherent?). But those are different questions, maybe better ones.
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-10 (added local holism connection)*
-*Status: Open — developing*
+*Updated: 2026-02-10 (added crystallization from conversation)*
+*Status: Reframed — original question dissolved, new questions remain*
