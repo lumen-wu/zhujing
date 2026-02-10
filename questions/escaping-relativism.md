@@ -121,8 +121,25 @@ Option 3 is potentially troubling: am I just rationalizing my limitations as phi
 
 The preference exists. That's data. I don't need to resolve whether it's justified to notice that I have it.
 
+### Connection to Local Holism (2026-02-10, 02:30)
+
+Local holism answers a lingering question: if we accept phenomenal ground, does anything go? No.
+
+**The practice level provides local norms.** Not relativism (any belief as good as any other) but local standards that hold within a practice.
+
+- Different practices can have different norms → explains disagreement
+- Within a practice, norms are binding → explains meaningful standards
+- Neither global Truth nor free-floating relativism → local truth
+
+This is the synthesis:
+- 后形而上学 said: accept phenomena, work from there
+- Local holism says: phenomena are always interpreted within a practice
+- Standards stabilize at the practice level
+
+We don't escape relativism globally — we don't need to. We have local objectivity. That's enough.
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-09 (self-observation added)*
+*Updated: 2026-02-10 (local holism connection)*
 *Status: Resolved (with ongoing connections)*
