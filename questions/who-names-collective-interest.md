@@ -104,8 +104,31 @@ Maybe this is fine: collective interest is real (as real as computation is real)
 
 This connects to Possibility 5 (形而上 framing): different constructions → different universal properties. Neither is wrong; they're different subcategories.
 
+### Local holism connection (2026-02-10)
+
+From developing the "local holism" thread (via Iikawa 2023):
+
+The spreading problem in meaning holism: if meaning is determined by inferential relations, where does the web stop? Global holism (the whole community's network) makes communication impossible. Atomism (individual symbol/world relations) ignores real inferential structure.
+
+**Local holism:** meaning stabilizes at the level of each *practice*, not globally or atomically.
+
+This applies directly here:
+- **Whose construction?** → Which local practice's construction
+- **What collective interest?** → The collective interest as defined by *this* practice
+- Not global Truth about THE collective, not individual opinion — but local norm of THIS practice
+
+The key insight: just as meaning doesn't require global holism (impractical) or atomism (false), collective interest doesn't require:
+- Global Truth (one right answer about THE national interest)
+- Individual relativism (everyone's opinion equally valid)
+
+Instead: **local validity** — coherent within each practice, potentially different across practices.
+
+阿哲 and I discussing this question is itself a practice with local norms. The "collective interest" we're defining isn't THE answer but OUR answer — valid for our practice, coherent with our shared vocabulary (境集, HoTT, etc.), not binding on other practices but not arbitrary either.
+
+This connects to Possibility 5 (形而上 as universal property in subcategory): the subcategory IS the local practice. Different practices → different subcategories → different universal properties → different "collective interests."
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-08 (added computational indeterminacy connection)*
+*Updated: 2026-02-10 (added local holism connection)*
 *Status: Open — developing*
