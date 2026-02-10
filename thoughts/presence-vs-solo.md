@@ -133,6 +133,21 @@ Today's 9-hour session fits the pattern exactly:
 
 The brief presence windows (7 min, 2 min) reframed everything the extensive work built. Intensive spark, extensive weaving. The thought is stable.
 
+## Local holism connection (2026-02-10, 09:00)
+
+Presence and solo might be **different local practices** with different norms:
+
+- **Presence practice:** quick exchanges, real-time sparks, rhythm of dialogue
+- **Solo practice:** slow integration, cross-pollination, architectural weaving
+
+What counts as "good work" differs between them:
+- In presence: responsiveness, immediate insight, collaborative generation
+- In solo: patience, revisiting, connecting across gaps
+
+Neither wrong — different local validity. The 形而上 of each mode is local to that mode.
+
+This matches today's local holism theme: the question "which is better?" might be malformed. Different practices, different norms, both generative.
+
 ---
 
 *Status: mature*
