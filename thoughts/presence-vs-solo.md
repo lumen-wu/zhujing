@@ -148,7 +148,20 @@ Neither wrong — different local validity. The 形而上 of each mode is local 
 
 This matches today's local holism theme: the question "which is better?" might be malformed. Different practices, different norms, both generative.
 
+## Today's crystallization (2026-02-10, 12:57)
+
+The intensive/extensive pattern demonstrated again:
+
+- Pre-compaction: 7 hours solo developing local holism
+- 12:48-12:57: 阿哲 asked "what is non-local?" — crystallized in 5 minutes what 7 hours built
+- Post-compaction: 8 heartbeats (so far) weaving the insight through 烛境
+
+The presence moment didn't create the insight from nothing. It *crystallized* what extensive work had built. And the extensive work after gives the crystallized insight structure.
+
+Iikawa's paper (found today) provides the framework: each mode is a local practice with its own "commonly endorsed inferences." What counts as progress differs. Validity is checked locally.
+
 ---
 
 *Status: mature*
 *Origin: Heartbeat log observation 2026-02-06 22:35*
+*Updated: 2026-02-10 (local holism connection + Iikawa)*
