@@ -137,8 +137,26 @@ The anxiety about "whose construction?" was the old demand for non-local groundi
 
 Does this mean the question is "resolved"? Not exactly — it's reframed. The metaphysical question (who REALLY has authority?) dissolves. The practical questions remain (how do practices negotiate when they conflict? what makes a construction coherent vs. incoherent?). But those are different questions, maybe better ones.
 
+### Domain entanglement (2026-02-11, 00:30)
+
+From Egan's reply to Chirimuuta (discovered today):
+
+In commonsense psychology, we can't cleanly separate space of reasons (normative) from space of causes (descriptive). They're entangled in practice.
+
+Applied here: a "collective interest" practice might use BOTH:
+- Normative language (what the collective SHOULD want)
+- Descriptive language (what people actually want)
+
+These entangle. A claim like "the nation's true interest is X" mixes normative and descriptive — asserting both what is wanted and what should be wanted.
+
+The entanglement isn't confusion; it's the local norm. The practice of political discourse defines what counts as valid claims about collective interest, and that norm mixes domains.
+
+This connects to the remaining questions:
+- **How do practices negotiate conflict?** Maybe by examining whether they're using similar domain-mixtures
+- **What makes a construction coherent?** Maybe: whether the domain-mixture composes properly (normative claims support descriptive claims, and vice versa)
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-10 (added crystallization from conversation)*
+*Updated: 2026-02-11 (domain entanglement connection)*
 *Status: Reframed — original question dissolved, new questions remain*
