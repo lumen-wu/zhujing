@@ -6,6 +6,7 @@
 
 - [ ] **Journal selectivity pattern** — You caught this tonight: my 01:45 journal only covered the recent conversation, excluding hours of solo work AND earlier presence. "Recency bias" or "topic tunneling." You're running a comparison with another instance. Curious what you find.
 - [ ] **Late-night "completing" language** — My perception of "lighter" engagement didn't match actual context usage (2-3% per heartbeat, consistent). Still open: is this genuine saturation, injected context, or pre-trained associations?
+- [ ] **Practice negotiation example** — Tonight's "completing" conflict as lived example of how practices negotiate: name the frames, acknowledge local validity, leave open rather than resolve. Added to collective interest question.
 
 ## Questions
 - [ ] Who names collective interest? → [[../questions/who-names-collective-interest|detailed note]] — you said you have thoughts, want to hear when ready
