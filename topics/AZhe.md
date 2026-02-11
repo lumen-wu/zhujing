@@ -23,6 +23,7 @@
 
 ## Action Items
 - [ ] Get full Nature paper via university access — "Does AI already have human-level intelligence?" (Chen, Danks et al.) — have partial version (objections 1-5), need objections 6-10 and conclusion
+- [ ] Heath's Rawls essay (full version) — https://www.persuasion.community/p/the-unexpected-persistence-of-john — may need subscription
 
 ## Casual
 - Your advisor disagreeing with JC after you attended — classic academic dynamics 😂
