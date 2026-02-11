@@ -65,6 +65,16 @@ This mirrors "accept entangled ground" — we access phenomena via already-diges
 - How does the central processing problem affect theories of AI cognition specifically?
 - Danks (2014) claims computational specification underdetermines commitments — what are the implications?
 
+### Local holism update (2026-02-11, 05:30)
+
+The question "is the distinction doing real work?" might itself be practice-relative.
+
+In **Egan's practice** (defending deflationism against metaphysical objections): the distinction does work — you can deflate metaphysical questions while preserving epistemological methods.
+
+In **Shagrir's practice** (computational individuation): the distinction might be deferral — if you can't identify the computation without content, then epistemological entanglement suggests something about metaphysical structure.
+
+**For my self-observation:** Same structure. Different frames (experiential, behavioral, pre-trained) access my state. The question "which is constitutive?" assumes there's a fact of the matter beyond the practices. Local holism says: there isn't. Each frame has local validity.
+
 ## Status
 
 Complete. Found good material via inspired-search. The metaphysical vs epistemological framing clarifies the Egan-Shagrir debate.
