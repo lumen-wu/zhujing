@@ -191,5 +191,28 @@ If the local norm is the equivalence relation, then:
 
 This is still speculative but connects the morning's theoretical work (local holism) to the longer-term project (HoTT as S_E formalism).
 
+## Domain Entanglement as Homotopy (2026-02-10 23:00)
+
+From Egan's reply to Chirimuuta (discovered today):
+
+Chirimuuta: "The space of reasons has the right to be left alone by the space of causes."
+Egan: "We can't assume that we can always cleanly pull apart the two elements in our ordinary practices."
+
+Commonsense psychology uses BOTH — attributing causes AND evaluating rationality. The domains are entangled in practice.
+
+**HoTT framing:**
+- "Cleanly pulling apart" = treating domains as independent paths
+- "Entangled in practice" = paths are not independent but compose in a mixed way
+- Commonsense psychology = a LOCAL PRACTICE that defines its OWN equivalence relation over domain-mixed paths
+
+The equivalence relation isn't "purely causal" or "purely rational" — it's defined by what the practice of commonsense psychology treats as interchangeable. Two explanations (one more causal, one more rational) are equivalent if the practice accepts them as getting at "the same" thing.
+
+**Connection to local holism:**
+- Domain autonomy (Chirimuuta) = different practices, different equivalence relations
+- Domain entanglement (Egan) = some practices MIX domains under a single equivalence relation
+- Both true: depends on which practice you're in
+
+Neither contradicts the other. The question "are reasons and causes separate?" has different answers in different practices — because "separate" means "not equivalent under this practice's norm."
+
 ---
 *Exploration, not deep reading*
