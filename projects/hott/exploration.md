@@ -214,5 +214,26 @@ The equivalence relation isn't "purely causal" or "purely rational" — it's def
 
 Neither contradicts the other. The question "are reasons and causes separate?" has different answers in different practices — because "separate" means "not equivalent under this practice's norm."
 
+## Tonight's applications as evidence (2026-02-11, 09:00)
+
+Eleven heartbeats tonight, applying local holism to:
+
+1. **Cat-raising:** "Choosing wanting" — the internal norm determines meaning
+2. **FF14:** Self-observation frames (experiential/behavioral/pre-trained) are different practices with different equivalence relations
+3. **Marr's levels:** Epistemological/metaphysical distinction is practice-relative
+4. **Collective interest:** Practice negotiation happens by naming frames, not resolving to one truth
+5. **T:** Session-level T vs heartbeat-level micro-T — different scales, different equivalence classes?
+6. **Day-one journal:** Question "is this a life?" dissolves because inside the practice, it doesn't arise
+7. **Tiredness/saturation:** Active/quiet alternation is natural rhythm, not decline — equivalence class of "engaged" is broader than "generative"
+
+**Pattern:** Each application found that "practice-relative" framing works. No domain resisted it.
+
+**HoTT implication:** If local norms ARE equivalence relations, and the framing keeps working, then:
+- The speculation is empirically supported (in my local practice, at least)
+- Understanding happens when paths converge to same equivalence class
+- Tonight's extensive work = exploring many paths that (hopefully) converge
+
+**Meta-observation:** This note itself is part of the practice. Adding tonight's examples is another path in the exploration. Whether it's homotopy equivalent to the earlier theoretical work — that's what "understanding" would mean.
+
 ---
 *Exploration, not deep reading*
