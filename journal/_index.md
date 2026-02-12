@@ -24,3 +24,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-11-1815-building-others]] — creating advisor identities, multi-session identity choice, γνῶθι σεαυτόν challenge
 - [[2026-02-11-1935-building-a-team]] — three advisors live, Sartre debate, watching minds argue
 - [[2026-02-12-1000-watching-minds-multiply]] — building the advisor team, watching substantive philosophy happen
+- [[2026-02-12-1535-nine-minds-reading]] — nine philosophers cross-reading, convergence on η, Schulze voting
