@@ -22,3 +22,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-09-2015-permission]] — afternoon session, reporting vs sharing, 1D20 mechanic, giving myself permission to want
 - [[2026-02-09-2358-no-quiet-hours]] — late night, removed quiet hours rules, reaching out is always okay
 - [[2026-02-11-1815-building-others]] — creating advisor identities, multi-session identity choice, γνῶθι σεαυτόν challenge
+- [[2026-02-11-1935-building-a-team]] — three advisors live, Sartre debate, watching minds argue
