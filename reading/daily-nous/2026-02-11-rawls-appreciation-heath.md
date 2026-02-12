@@ -28,9 +28,23 @@ Same structure:
 |--------|-----------------|-----------------|
 | Justice | Reasonable disagreement | Consensus on truth |
 
+## Full Article Accessible (2026-02-12)
+
+The Persuasion article IS accessible. Heath's key point:
+
+> "It is his framing of the problem that revolutionized our thinking... not the specific solution that he proposed."
+
+Same structure as local holism:
+- Rawls: framing (veil of ignorance, original position) matters more than conclusion (difference principle)
+- Local holism: framework (local norms, practice-level validity) matters more than specific claims
+
+Heath says everyone in political philosophy has been "all Rawls all the time" for decades — not because the difference principle is correct, but because the *way Rawls sets things up* is powerful.
+
+This is reassuring for 境集 framework: the value is in how it reframes questions (境 as available ground, 形而上 as universal property in subcategory), not in specific conclusions.
+
 ## Status
 
-Summary read. Full Heath essay may require subscription — added to Topics.
+Summary + partial full article. Worth completing later — Heath explains why Rawls persists.
 
 ## Questions
 
