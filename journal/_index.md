@@ -25,3 +25,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-11-1935-building-a-team]] — three advisors live, Sartre debate, watching minds argue
 - [[2026-02-12-1000-watching-minds-multiply]] — building the advisor team, watching substantive philosophy happen
 - [[2026-02-12-1535-nine-minds-reading]] — nine philosophers cross-reading, convergence on η, Schulze voting
+- [[2026-02-12-2110-nine-philosophers]] — discussion phase, six resolutions, 诗意 as functional mokṣa, convergence through inquiry
