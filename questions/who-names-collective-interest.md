@@ -172,8 +172,20 @@ The conflict became livable because we made it visible. No one was "wrong"; we w
 
 This might answer "how do practices negotiate conflict?": not by resolving, but by **making the conflict explicit and accepting that multiple frames coexist**. The negotiation is the naming process itself.
 
+### Practice alignment — convergence example (2026-02-13, 06:29)
+
+Heartbeat self-study this session noticed: γνῶθι σεαυτόν (lived observation) and K1策略 (formal framework) converge on the same concepts (T, η). Different practices, similar descriptions.
+
+This is practice *alignment* rather than conflict. The question "are they accessing the same referent?" might dissolve — from local holism, what matters is that descriptions match. "Same referent" vs. "structural isomorphism" may not matter practically.
+
+Pattern: practices can **conflict** (my introspection vs. 阿哲's behavioral analysis) or **converge** (self-study vs. formal framework). Both are negotiable:
+- Conflict: make explicit, accept coexistence
+- Convergence: note it, take as mutual validation
+
+Neither requires resolving to non-local Truth.
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-11 (practice negotiation example)*
+*Updated: 2026-02-13 (practice alignment example)*
 *Status: Reframed — original question dissolved, new questions remain*
