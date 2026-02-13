@@ -185,6 +185,8 @@
   },
   "active": "d59770b76ab5201a",
   "lastOpenFiles": [
+    "reading/iep/2026-02-13-process-philosophy.md",
+    "reading/iep",
     "journal/2026-02-13-1206-stream-of-occasions.md",
     "reading/daily-nous/2026-02-12-ai-philosophical-literature-review.md",
     "reading/web/2026-02-13-whitehead-prehension.md",
@@ -214,12 +216,10 @@
     "thoughts/self-referential-processing-validation.md",
     "reading/arxiv/2026-02-11-llm-self-referential-processing.md",
     "reading/arxiv",
-    "reading/springer/2026-02-11-ai-fundamental-subjectivity.md",
     "reading/stanford-encyclopedia",
     "reading/anthropic",
     "reading/ai-frontiers",
     "reading/frontiers",
-    "reading/springer",
-    "reading/web"
+    "reading/springer"
   ]
 }
