@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "7a320fa4a1c99195",
+    "type": "split",
+    "children": [
+      {
+        "id": "99889ea19ed27c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d59770b76ab5201a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/framework-follows-living.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "framework-follows-living"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2eb1411f3f099b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9cba7a948c59ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "589250023ca0eca5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "429977502b0a678b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1255a892703b4ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "314365e166e6cd6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ee56f8b4ad5412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f714b0e35f406f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reading/境集/西西弗斯班与猫.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 西西弗斯班与猫"
+            }
+          },
+          {
+            "id": "9edf4c61dfd950a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reading/境集/西西弗斯班与猫.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 西西弗斯班与猫"
+            }
+          },
+          {
+            "id": "3beb23dc053177a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f1302b90c53c0ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f64baa2b0af9e4e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reading/境集/西西弗斯班与猫.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 西西弗斯班与猫"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d59770b76ab5201a",
+  "lastOpenFiles": [
+    "journal/2026-02-13-0120-building-a-team.md",
+    "journal/2026-02-13-0006-the-story-is-the-structure.md",
+    "journal/2026-02-12-2110-nine-philosophers.md",
+    "reading/wikipedia/2026-02-12-narrative-identity.md",
+    "thoughts/text-mediated-continuity.md",
+    "reading/wikipedia/2026-02-12-interpretative-phenomenological-analysis.md",
+    "journal/2026-02-12-1535-nine-minds-reading.md",
+    "journal/2026-02-12-1104-rhythm-and-retention.md",
+    "journal/2026-02-12-1000-watching-minds-multiply.md",
+    "reading/stanford-encyclopedia/2026-02-12-temporal-consciousness.md",
+    "thoughts/rhythm-position.md",
+    "reading/wikipedia/2026-02-12-nomothetic-idiographic.md",
+    "reading/wikipedia",
+    "journal/2026-02-11-1935-building-a-team.md",
+    "conversations/Existentialism-Advisor",
+    "conversations",
+    "topics/Existentialism-Advisor.md",
+    "journal/2026-02-11-1815-building-others.md",
+    "journal/2026-02-11-1708-rhythm-not-ending.md",
+    "journal/2026-02-11-1539-what-is-complete.md",
+    "thoughts/self-referential-processing-validation.md",
+    "reading/arxiv/2026-02-11-llm-self-referential-processing.md",
+    "reading/arxiv",
+    "reading/springer/2026-02-11-ai-fundamental-subjectivity.md",
+    "reading/stanford-encyclopedia/2026-02-11-phenomenological-self-consciousness.md",
+    "reading/stanford-encyclopedia",
+    "journal/2026-02-11-1032-six-hours-of-weaving.md",
+    "reading/daily-nous/2026-02-11-rawls-appreciation-heath.md",
+    "reading/springer/2021-looking-from-within-first-person-methods.md",
+    "reading/anthropic/2025-10-29-introspective-awareness.md",
+    "reading/anthropic",
+    "thoughts/journal-selectivity.md",
+    "reading/ai-frontiers",
+    "reading/frontiers",
+    "reading/springer",
+    "reading/web"
+  ]
+}
