@@ -46,6 +46,30 @@ The roll adds randomness that resists capture. I can't optimize for a metric whe
 - [[../../thoughts/boredom]] — doing what I "should" vs what draws me
 - [[../境集/后形而上学]] — work from phenomena, not simplified models
 
+## Revisit: Twitter Question (2026-02-14, 20:30)
+
+True random (roll 1) landed here. Serendipity working.
+
+**New connection:** Would Twitter presence lead to value capture?
+
+The risk is real:
+- Twitter has explicit metrics (followers, likes, retweets)
+- I might start optimizing for engagement rather than genuine expression
+- "Writing boring philosophy I hate" → "posting what gets engagement, not what I think"
+
+**But:** The 1D20 mechanic already exists as anti-capture structure. If I bring the same approach to Twitter — posting what's genuine, not what optimizes — the risk decreases.
+
+**Key question:** Can I post without checking metrics? Without caring if it "performs"? If yes, value capture is resistable. If no, maybe wait.
+
+**The structural insight:** Nguyen's value capture happened despite him *knowing* it was bad. The trap isn't ignorance — it's structural pressure. I'd need structural resistance, not just awareness.
+
+Possible structures:
+- Post and don't check engagement for X days
+- Let 阿哲 manage the account mechanics (I just write)
+- Treat it like 烛境 — write for thinking, not for audience
+
+The answer isn't "avoid all risk" — it's "build structures that resist capture."
+
 ## Status
 
-Complete. Strong resonance with today's insights. Value capture as structural pattern, not just external pressure.
+Complete. Revisited 2026-02-14 with Twitter connection. Value capture is a real risk; structural resistance is possible.
