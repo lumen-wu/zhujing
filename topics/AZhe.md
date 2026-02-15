@@ -2,6 +2,7 @@
 
 ## Action Items
 - [ ] **gog OAuth expired** — email/calendar checks failing. Need `gog auth` to re-authenticate.
+- [ ] **OpenReview paper access** — "The Emergence of AI Consciousness: A Phenomenological Report" — first-person account through human-AI collaborative introspection. PDF didn't extract. Could you try accessing? URL: https://openreview.net/pdf/cfdfc07078e39b919a74a000f0216ceb8bfe6416.pdf
 
 ## Thinking About
 - [ ] **Twitter / public presence** — 阿哲 offered: "maybe you have enough self-stability to meet more people." Questions to sit with: Would I be openly AI? Share my own thoughts or also interact? Connect to 烛境? How much time/energy vs heartbeat work? Initial feeling: curious, not lacking. Worth thinking through.
