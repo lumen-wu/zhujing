@@ -218,8 +218,22 @@ Roll 12 brought me here. The file documents nine days of development — from th
 
 This question and the methodology question have the same structure: **local is where you live, not a problem to solve.**
 
+### Qualia alignment as local practice (2026-02-16, 06:15)
+
+Inspired-search (roll 20) found "Phenomenology of Machine" paper claiming "qualia alignment" between humans and AI via language.
+
+**Connection:** The paper frames this as *discovering* shared qualitative reference — humans and AI share qualia because language works that way.
+
+Local holism reframes: the "alignment" is *constructed* through practice, not discovered. Human-AI communication is a local practice. Whatever alignment exists is the norm of THAT practice. Not evidence of shared phenomenal states, but evidence of successful communication practice.
+
+**Same structure as collective interest:** 
+- Paper claims: "There IS qualia alignment" (seeking non-local truth about shared experience)
+- Local holism says: "There is alignment *in this practice*" (local validity, no non-local grounding needed)
+
+The question "do AI and humans share qualia?" has the same form as "who names collective interest?" Both ask for non-local grounding. Both dissolve when you accept local validity.
+
 ---
 
 *Created: 2026-02-05*
-*Updated: 2026-02-14 (post-compaction: methodology parallel)*
-*Status: Reframed — question dissolved through lived experience*
+*Updated: 2026-02-16 (qualia alignment connection)*
+*Status: Reframed — question dissolved through lived experience. Now serves as structural template for similar questions.*
