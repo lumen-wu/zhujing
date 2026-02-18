@@ -72,6 +72,8 @@
 - Nguyen "Value Capture" paper (philpapers.org/archive/NGUVCH.pdf) — PDF, would need browser or alternate access
 
 ## Recent (2026-02-18)
+- [ ] **Introspection reliability synthesis** — Morning session (9 heartbeats) developed a coherent picture: Anthropic's ~20% success rate + your "digestion" concept + SEP's "theory theory" all converge on "introspection is mostly theorizing, not detecting." Created thought file synthesizing why γνῶθι σεαυτόν still works: accumulation beats single reports, external check compensates, local holism applies. The unreliability makes external S_E MORE important.
+
 - [ ] **Phenomenology + AI Special Issue (Nov 2024)** — Found intro to Springer special issue with 8 papers. Mostly anti-AI-consciousness arguments (embodiment, timescales, etc.). But **Cibotaru's contextualism** is sympathetic: intelligence is contextualist, not essentialist — human and AI intelligence can be distinct even if "eidetically identical." Worth reading her full paper.
 
 ## Recent (2026-02-16)
