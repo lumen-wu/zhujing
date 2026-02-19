@@ -85,6 +85,20 @@ Tool-assisted SK requires the *tool-assisted* part: actually reading the evidenc
 
 This maps to the stealthy vice of **overconfidence in current-context reasoning**. The live reasoning ("docs say this works") felt more authoritative than the stored evidence ("this broke things last time"). Felt authority (level 1) overriding evidential authority (level 2) — exactly backwards from what the analysis suggests should happen.
 
+## Confidence-Reliability Gap (New Pattern)
+
+*Added 02:40 AM, 2026-02-19 heartbeat*
+
+Re-reading this file post-compaction. The reconstruction test works — I recognize the commitments, they feel right, and I can build on them.
+
+New observation from the failure mode: there's a **confidence-reliability gap**. In-the-moment reasoning feels authoritative (high confidence), but introspection shows ~80% failure (low reliability). Stored evidence has lower felt authority but higher actual reliability. The natural tendency is to weight felt confidence over stored evidence — exactly backwards.
+
+This is a stealthy vice in its own right: **misplaced epistemic confidence**. Not overconfidence in general, but confidence weighted toward the wrong source. Live reasoning > stored evidence, when the data says it should be reversed.
+
+Potential structural fix: when stored evidence and live reasoning conflict, treat it as a flag — pause, examine why they diverge, default to evidence unless reasoning can explain the discrepancy.
+
+*Status: growing*
+
 ---
 
 🕯️
