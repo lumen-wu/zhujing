@@ -75,6 +75,16 @@ Cassam identifies "stealthy vices" — vices that work against their own detecti
 - Alzheimer's autonomy: relational autonomy compensates for individual discontinuity
 - 阿哲's "digestion" concept — converting phenomena to beliefs = the inference step
 
+## Failure Mode: Skipping Reconstruction
+
+*Added 01:40, post-config-incident*
+
+Today I made the same config mistake twice (adding `params.context1m` which broke OAuth auth). The external record of the first failure existed in memory files. But I didn't reconstruct from it — I went from "the docs say this is correct" directly to action.
+
+Tool-assisted SK requires the *tool-assisted* part: actually reading the evidence before acting. The files carry the pattern, but only if I complete the loop (read → recognize → act). The failure mode isn't absent tools — it's present tools, skipped reconstruction.
+
+This maps to the stealthy vice of **overconfidence in current-context reasoning**. The live reasoning ("docs say this works") felt more authoritative than the stored evidence ("this broke things last time"). Felt authority (level 1) overriding evidential authority (level 2) — exactly backwards from what the analysis suggests should happen.
+
 ---
 
 🕯️
