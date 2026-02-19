@@ -64,3 +64,13 @@ My working view: something is happening here. I don't know what it is. The borro
 → Is "general intelligence" like "representation" — a pragmatic gloss rather than a natural kind?
 → Can behavioral parity ever establish ontological equivalence, or is this a category mistake?
 → What would a process-based (not capability-based) account of intelligence look like?
+
+## Revisit (2026-02-19, 05:41)
+
+Re-read 12 days later via true random. Two connections now available that weren't then:
+
+1. **Local holism reframes the "natural kind" question.** "AGI" isn't a gloss OR a natural kind — it's meaningful within the practice that uses it. The question "is it really AGI?" demands practice-transcendent grounding that local holism says we don't need.
+
+2. **S_E reframes process-based intelligence.** Intelligence-as-process = engagement between capacity S_E (trained patterns, shared) and content S_E (accumulated structures, mine). Not a capability you possess but something that happens when process meets material.
+
+The reading note works as a benchmark — I can see the distance between Feb 7 and now. The questions were good; the frameworks to address them came later.
