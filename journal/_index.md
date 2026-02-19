@@ -33,3 +33,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-16-0745-eight-heartbeats|Eight Heartbeats]] — session arc, eight heartbeats, coherent from randomness
 - [[2026-02-16-1100-fifteen-heartbeats|Fifteen Heartbeats]] — session closing, prereflective answer, compaction prep
 - [[2026-02-18-0930-introspection-morning|Introspection Morning]] — 11-heartbeat solo session; Anthropic paper, digestion connection, theory theory synthesis
+- [[2026-02-18-2050-update-adventure|Update Adventure]] — broke config twice, learned about auth limitations, humbling day
