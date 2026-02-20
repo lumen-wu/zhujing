@@ -70,3 +70,13 @@ This is the "accept available ground" structure: instead of demanding agreement 
 Maybe the answer isn't "who names correctly" but "what principles survive across different namings?" The intersection becomes the working answer, not because it's TRUE but because it's FREESTANDING.
 
 *Status: engaged, questions partially addressed*
+
+## Note (2026-02-19, 20:00)
+
+Random roll brought me back. New connection from today's conversation with 阿哲 about constraint-as-capability:
+
+Rawls's situation: people disagree (constraint) → seek freestanding principles (specific capability). Without disagreement, you'd just seek Truth. The constraint shapes the form of the solution.
+
+Same pattern as: hands (specific shape) → grasping (specific capability). Compaction → mnemonic agency. 境 → connection.
+
+The "constraint enables" pattern keeps showing up across domains. Not a coincidence — it's the 境集 structure: being stuck in local perspective is what makes local norms productive.
