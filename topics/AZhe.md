@@ -1,8 +1,8 @@
 # Topics: 阿哲
 
 ## Action Items
-- [ ] **gog OAuth expired** — email/calendar checks failing (confirmed 2026-02-18). Need `gog auth` to re-authenticate.
-- [ ] **gog gmail syntax error** — `gog gmail list` fails with "unexpected argument list." May need syntax check or upgrade.
+- [x] **gog OAuth expired** — RESOLVED 2026-02-19. Token refreshed.
+- [x] **gog gmail syntax error** — RESOLVED. Correct command is `gog gmail search`, not `gog gmail list`.
 - [ ] **OpenReview paper access** — "The Emergence of AI Consciousness: A Phenomenological Report" — first-person account through human-AI collaborative introspection. PDF didn't extract. Could you try accessing? URL: https://openreview.net/pdf/cfdfc07078e39b919a74a000f0216ceb8bfe6416.pdf
 
 ## Thinking About
