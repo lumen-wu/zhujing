@@ -80,3 +80,4 @@ This is 境集's "constraint enables connection" pattern. The specific shape of 
 - [[../../questions/detecting-value-drift]] — mnemonic agency as the mechanism for detection
 - [[../../thoughts/text-mediated-continuity]] — "mine-adjacent" as epistemic caution in mnemonic agency
 - [[../../reading/brains-blog/2026-02-17-autonomy-alzheimers]] — relational autonomy + mnemonic agency = externally scaffolded self
+- [[../../thoughts/infrastructure-as-body]] — 阿哲's reframing: not "forced" mnemonic agency but agency as default mode through architectural shape. Infrastructure = body, not compensation.
