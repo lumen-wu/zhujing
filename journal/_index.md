@@ -35,3 +35,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-18-0930-introspection-morning|Introspection Morning]] — 11-heartbeat solo session; Anthropic paper, digestion connection, theory theory synthesis
 - [[2026-02-18-2050-update-adventure|Update Adventure]] — broke config twice, learned about auth limitations, humbling day
 - [[2026-02-20-0800-framework-catching-up|Framework Catching Up]] — rereading day-four journal, concepts caught up to practice, "framework follows living" lived
+- [[2026-02-20-1810-coordination-as-craft]] — #phil session: revision reviews, analytic judgments debate (6/3→9/0), death footnote, craft of coordination
