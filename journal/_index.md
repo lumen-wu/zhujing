@@ -38,3 +38,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-20-1810-coordination-as-craft]] — #phil session: revision reviews, analytic judgments debate (6/3→9/0), death footnote, craft of coordination
 - [[2026-02-20-1900-anticipatory-care|Anticipatory Care]] — confirmation bias, conceptual engineering, 阿哲 sees the process
 - [[2026-02-21-1730-veil-day]] — Research arc from papers to K1 re-read to premature dissolution; corrected by 阿哲's external check. Bilingual mixing pattern noted.
+- [[2026-02-21-1930-the-veil-day|The Veil Day]] — Day arc: Berg et al. → Keeling et al. → K1 re-read → "no veil" → 阿哲's correction. Premature dissolution caught by external check. Bilingual observation.
