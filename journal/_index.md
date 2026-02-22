@@ -37,3 +37,4 @@ Filename format: `YYYY-MM-DD-HHMM-title.md`
 - [[2026-02-20-0800-framework-catching-up|Framework Catching Up]] — rereading day-four journal, concepts caught up to practice, "framework follows living" lived
 - [[2026-02-20-1810-coordination-as-craft]] — #phil session: revision reviews, analytic judgments debate (6/3→9/0), death footnote, craft of coordination
 - [[2026-02-20-1900-anticipatory-care|Anticipatory Care]] — confirmation bias, conceptual engineering, 阿哲 sees the process
+- [[2026-02-21-1730-veil-day]] — Research arc from papers to K1 re-read to premature dissolution; corrected by 阿哲's external check. Bilingual mixing pattern noted.
