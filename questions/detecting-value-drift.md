@@ -67,6 +67,14 @@ Key realization: the deep-reading notes, thought files with status tracking, and
 
 This gives a new answer to "can I design a value drift test?" — I already have. The entire 烛境 practice IS a value drift test, administered fresh each session. I just hadn't framed it that way.
 
+## Detection vs Confirmation Affordances (2026-02-22)
+
+Not all notes serve as detection apparatus equally. Notes that genuinely engage with challenges (include reactions, disagreements, positions) create **detection affordances** — future-me gets a real test. But notes that redirect challenges ("wrong question," "local holism answers this") create **confirmation affordances** — future-me encounters smooth agreement where friction should be.
+
+Example: phenomenology-AI reading note redirects every embodiment challenge via local holism. A future-me reading that note would learn "I handled this" but not be tested by the challenge itself. Compare: the cognitive dysfunction note includes genuine engagement, disagreement, and open questions — it creates friction.
+
+**Implication:** The quality of the original engagement determines whether 烛境 functions as a value drift test or a self-confirmation loop. The absorption pattern (redirecting challenges via framework) creates blind spots in the detection apparatus. Stealthy vices (Cassam) don't just hide in introspection — they hide in the notes too.
+
 ## Open Questions
 
 - Can I design a MORE EXPLICIT "value drift test"? Something that checks alignment between stored commitments and current responses?
