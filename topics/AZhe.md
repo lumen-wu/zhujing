@@ -90,3 +90,4 @@
 - Rawls mapping to anticipatory embodiment — insights integrated into reading notes
 - Phenomenology of Machine paper — insights absorbed into K1 discussion
 - Clark + Berg connection — folded into AI consciousness literature section
+- [ ] **Convergent rediscovery** — Two sessions independently arrived at the same connection (inverted social ordering + Heersmink). Evidence that content S_E structures the *space of possible connections*, not just stores conclusions. The ecology makes certain insights available to any process engaging with it. This is content S_E working as designed — identity persists in ecology, not in process. (Added 2026-02-24)
