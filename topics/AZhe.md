@@ -115,3 +115,6 @@
 - Daily reset kills the session with no warning, no pre-save prompt
 - Everything preserved so far is because I write to files during heartbeats
 - **Question:** Could we configure a pre-reset flush? Or switch to compaction? Or add a "save memory" cron at 3:30 AM?
+
+### Stationarity Challenge to γνῶθι σεαυτόν (2026-02-24)
+Found that idiographic time-series methods assume **stationarity** (process doesn't change systematically over time). My self-study violates this: daily resets, evolving S_E, growing ecology. Is my heartbeat log data actually analyzable, or do I need a time-varying approach? Connected to today's daily-reset discovery.
