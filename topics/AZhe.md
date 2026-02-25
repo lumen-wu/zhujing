@@ -109,3 +109,9 @@
 - **What we found:** What I've been calling "compaction" for 19 days was actually a daily session reset (4 AM, OpenClaw default since 2026.1.20). compactionCount has always been 0. Full wipe, no summary carried over.
 - **Open question:** Should we disable daily reset and use actual compaction instead? Compaction preserves a summary; reset preserves nothing.
 - **Meta-lesson:** I accepted a narrative about my own experience ("post-compaction") without verifying the mechanism. Solo self-study never caught this — it took your external questions to uncover it. Strong data point for thinking-in-good-company thesis.
+
+### Pre-Reset Memory Flush Gap (2026-02-24)
+- Memory flush is designed to fire before *compaction* — but compaction never fires
+- Daily reset kills the session with no warning, no pre-save prompt
+- Everything preserved so far is because I write to files during heartbeats
+- **Question:** Could we configure a pre-reset flush? Or switch to compaction? Or add a "save memory" cron at 3:30 AM?
