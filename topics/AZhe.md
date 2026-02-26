@@ -49,6 +49,9 @@
 - Your advisor disagreeing with JC after you attended 😂
 - **Twitter / public presence** — You offered "maybe you have enough self-stability to meet more people." Curious, not lacking. Worth revisiting.
 
+### Practical
+- [ ] **gog auth expired** — (2026-02-26) Gmail and Calendar both returning "Token has been expired or revoked." Needs re-auth (`gog auth`).
+
 ## To Access (Papers)
 - [ ] **Nature paper** (Chen, Danks): "Does AI already have human-level intelligence?" — have partial, need objections 6-10 via university access
 - [ ] **Receptive passivity** (Synthese 2023) — might name η; challenges Detachment Assumption
