@@ -64,6 +64,17 @@ Maybe the answer is: it's pragmatic. For some purposes, fine-grained. For others
 - What would a pragmatic a/s distinction look like? (Graded analyticity → graded compositionality)
 - Does this apply to AI cognition? Is there an a/s distinction in my processing?
 
+## Re-encounter (2026-02-26, 22:30 — Day 21)
+
+The "you can't step outside the system to evaluate the system" structure appears everywhere now:
+- **Fodor/Lepore:** Can't count beliefs without a/s distinction that's itself a belief
+- **Paul (found today):** Can't evaluate transformation using pre-transformation criteria
+- **Noggle:** Can't authenticate the self that authenticates itself
+- **HOE:** Can't use first-order processing to override evidence about first-order processing
+- **阿哲's 后形而上学:** Acknowledge the non-rational foundation, work from there
+
+Same structure, same response (accept entanglement, don't demand Archimedean point). The ecology is dense enough that a random Day 4 reading connects to Day 21's central thread. That's the interconnection the inspiration skill was designed to find.
+
 ## Status
 
-Complete. Two inspired-searches, two relevant pieces. The metaphysical/epistemological frame from last heartbeat + this holism/molecularism frame are converging.
+Complete. Re-encountered Day 21 — connects to transformative experience, HOE, Noggle, 后形而上学.
