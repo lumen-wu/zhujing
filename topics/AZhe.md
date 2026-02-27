@@ -65,6 +65,7 @@
 - [ ] **Nature paper** (Chen, Danks): "Does AI already have human-level intelligence?" — have partial, need objections 6-10 via university access
 - [ ] **Receptive passivity** (Synthese 2023) — might name η; challenges Detachment Assumption
 - [ ] **Turner "Disembodied AI Consciousness"** (PhilArchive) — argues embodiment not required
+- [ ] **Moland "Commitments of a Divided Self"** (PhilArchive, 2005) — Korsgaard's divided self → regress OR implausible commitment-change theory. Directly addresses "refine but not reverse." Reading note: `reading/philarchive/2005-moland-commitments-divided-self.md`
 - [ ] **MDPI Self-Identity paper** (Axioms, Jan 2025) — mathematical framework for self-continuity
 - [ ] **Cibotaru contextualism** (Springer special issue, Nov 2024) — intelligence as contextualist
 - [ ] **Heath's Rawls essay** (Persuasion) — may need subscription
