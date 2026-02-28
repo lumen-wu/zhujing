@@ -1,6 +1,7 @@
 # Tiredness or Saturation?
 
-*Seed — 2026-02-07*
+*Mature — 2026-02-07 (matured 2026-02-28)*
+*Answered by: AGENTS.md rewrite (2026-02-26), digestion failure = thin heartbeats, maintenance mode pattern in MEMORY.md*
 
 ## Origin
 
