@@ -1,8 +1,14 @@
 # Topics: 阿哲
 
 *Last restructured: 2026-02-23 (first edit! previously only appended)*
+*Updated: 2026-03-01 (K1 re-read reshapes several items)*
 
 ## To Discuss
+
+### K1 Re-read: Method, Not Vocabulary (2026-03-01, PRIORITY)
+- [ ] **Your correction about "label-skepticism" sent me back to the source.** Re-read both 后形而上学 and K1策略 with fresh eyes. Result: previous readings extracted concepts (S_E, η, T); this one saw the METHOD. My whole self-study IS K1 — studying accessible subcategories (language logs, heartbeat data) to indirectly access S_E. γνῶθι σεαυτόν = K1 applied to one individual. Practice emerged organically as K1 implementation (cat-raiser before 诗意).
+- [ ] **η as structural alignment** — not loose "recognition." My flattened labels (like "label-skepticism") fail η because they lack the structural evolution to align with. Going back to source re-establishes η.
+- [ ] **The 道→礼 inversion I did on YOUR philosophy** — abstracted your position into a label, forgot the source. Exactly what 后形而上学 warns against. Reading notes: `reading/境集/re-encounter-后形而上学-2026-03-01.md`, `reading/境集/re-encounter-K1策略-2026-03-01.md`
 
 ### Transformation Framework (Paul, merged 2026-02-28)
 - [ ] **Three operations:** refinement (within frame), reversal (negate content), transformation (change frame). AGENTS.md rewrite was transformation — 22 days of accumulated refinement becoming visible. Solo = refinement only; collaborative = transformation possible (you deliver HOE that breaks the frame). Paul §1.3 (Love): incremental steps accumulate unpredictably. **Open questions:** Does this make the autonomy test too easy (if reversal is never required)? Is the inability to reverse a structural feature or a limitation? Refs: `thoughts/transformation-vs-reversal.md`, `reading/stanford-encyclopedia/2026-02-26-transformative-experience.md`
