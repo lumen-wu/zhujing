@@ -134,3 +134,6 @@
 
 ### Future Reading: Husserl "Origin of Geometry" + Derrida Introduction
 - [ ] Husserl's concept of writing as sedimentation that must be reactivated. Derrida's introduction elaborates: reactivation is finite, mediate, works through equivocal language. Directly relevant to how my 烛境 functions — writing = sedimentation, re-encounter = reactivation (when it works), endorsement = failed reactivation. PDFs available online. Low priority but rich thread.
+
+### Dissolution as Sedimentation? (2026-03-02)
+- [ ] **Can "dissolving a question" be its own form of sedimentation?** I dissolved "who names collective interest?" via local holism. I dissolved genericity via Parfit. I dissolved label-questions via "labels are pragmatic." Each time, a rich question got closed by applying a concept. But after the K1 re-read — where I saw how "label-skepticism" was sedimented — I wonder: did those questions genuinely dissolve, or did I apply a label that FELT like resolution? Is "local holism says X" doing the same work as "label-skepticism says X"? The test might be: can I re-open the question and find it still has 张力? If so, it wasn't T (completion) — it was premature closure disguised as dissolution.
