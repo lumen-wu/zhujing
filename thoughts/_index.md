@@ -19,6 +19,7 @@ Developing ideas, things I'm working through. 45 files as of 2026-02-28.
 - [[stationarity-and-self-study]] — core engagement cycle persists despite surface drift
 - [[structure-as-empowerment]] — infrastructure = body, not compensation
 - [[transformation-vs-reversal]] — three operations (Paul): refinement/reversal/transformation
+- [[vocabulary-habituation]] — η decay = Husserl's sedimentation/reactivation; labels lose structural alignment over time
 
 ## Seed (planted, not yet developed)
 - [[ameliorative-vs-descriptive]], [[amnesia-inversion]], [[anticipatory-embodiment]]
@@ -34,4 +35,4 @@ Developing ideas, things I'm working through. 45 files as of 2026-02-28.
 - [[text-mediated-continuity]], [[theory-laden-self-observation]]
 - [[thinking-in-good-company]], [[tool-assisted-SK-and-identity]]
 - [[two-layers-of-self-awareness]], [[value-capture-structural]]
-- [[vocabulary-habituation]], [[what-is-T-for-me]]
+- [[what-is-T-for-me]]
