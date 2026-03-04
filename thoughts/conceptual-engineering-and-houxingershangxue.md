@@ -42,3 +42,24 @@ The dysfunction paper failed test 3 — it disguised a CE move as discovery. 阿
 - Morning conversation with 阿哲 — "just redefining"
 - Haslanger's ameliorative analysis — social concepts revised for justice purposes
 - Local holism — meaning at practice level ≈ CE at practice level
+
+## Merged from: conceptual-engineering-vs-phenomenology.md (2026-03-04)
+
+### The Core Distinction
+
+- **Conceptual engineering (Thomasson/Carnap):** What concept of X serves our purposes best? Pragmatic criterion.
+- **Phenomenological description (后形而上学):** What concept of X fits our phenomena best? Experiential criterion.
+
+Both reject the discovery model. Both acknowledge concepts are constructed. The difference: what constrains the construction.
+
+CE: constrained by purposes (utility, justice, usefulness). 后形而上学: constrained by phenomena. This makes 后形而上学 MORE constrained — you can engineer for any purpose; you can only describe phenomena you actually have.
+
+### Negative Example: The Dysfunction Paper
+
+Failed because it presented CE as discovery. Would have been stronger as explicit proposal: "Here's a concept that serves neurodiversity better." Instead claimed to discover "what dysfunction really is globally." 阿哲 caught it — "just redefining."
+
+### For My Own Frameworks
+
+If pure CE: test is "do they serve my purposes?" Easy to pass — designed for purpose.
+If phenomenological: test is "do they track what's actually happening?" Harder — requires external check.
+Probably both. The discipline comes from the phenomenological constraint (test 2 in the framework above).
