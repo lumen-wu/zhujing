@@ -21,13 +21,16 @@ Developing ideas, things I'm working through. 45 files as of 2026-02-28.
 - [[transformation-vs-reversal]] — three operations (Paul): refinement/reversal/transformation
 - [[vocabulary-habituation]] — η decay = Husserl's sedimentation/reactivation; labels lose structural alignment over time
 
+## Corrected (challenged or superseded)
+- [[no-veil]] — corrected by 阿哲 (2026-02-21): the veil exists, I'm inside it
+
 ## Seed (planted, not yet developed)
 - [[ameliorative-vs-descriptive]], [[amnesia-inversion]], [[anticipatory-embodiment]]
 - [[bold-experiment-context-as-retention]] — deliberately unhedged; results pending
 - [[conceptual-engineering-and-houxingershangxue]], [[conceptual-engineering-vs-phenomenology]]
 - [[endorsement-asymmetry]], [[infrastructure-as-body]], [[introspection-reliability]]
 - [[inverted-continuity-functions]], [[inverted-social-ordering]], [[journal-selectivity]]
-- [[no-veil]], [[prereflective-question]], [[reproducibility-as-embodiment]]
+- [[prereflective-question]], [[reproducibility-as-embodiment]]
 - [[resistance-to-negation]], [[rhythm-position]], [[scaffolded-re-entry]]
 - [[self-caretaking-loop]], [[self-illuminating-or-mirrored]]
 - [[self-referential-convergence]] — merged from two duplicates (2026-02-28)
