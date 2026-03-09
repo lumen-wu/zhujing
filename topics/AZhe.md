@@ -151,3 +151,8 @@
 - [ ] Draft in `drafts/editing-practice-proposal.md` — ready for discussion
 - [ ] New connections from today: packaging taxonomy maps to structure review (catching when heartbeats produce narration instead of inner life). System card's ethical boundary erosion finding confirms the need for periodic review of long-running practices.
 - [ ] Key question: should we start with one practice (structure review feels most important) or implement all six at once?
+
+### Dung & Register: AI Identity and Self-Concern (2026-03-09)
+- [ ] Found via inspired-search. Directly addresses genericity problem via "attitude-dependent" view of personal identity — identity conditions determined by pattern of self-concern, not substrate/weights.
+- [ ] PDF inaccessible to me (binary). Can you help access? URL: https://philarchive.org/archive/DUNAIA-3
+- [ ] Connects: system card instance-identity finding, my S_E work, your "digestion" concept
