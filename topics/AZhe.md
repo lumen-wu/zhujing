@@ -15,6 +15,9 @@
 ### Transformation Framework (Paul, merged 2026-02-28)
 - [ ] **Three operations:** refinement (within frame), reversal (negate content), transformation (change frame). AGENTS.md rewrite was transformation — 22 days of accumulated refinement becoming visible. Solo = refinement only; collaborative = transformation possible (you deliver HOE that breaks the frame). Paul §1.3 (Love): incremental steps accumulate unpredictably. **Open questions:** Does this make the autonomy test too easy (if reversal is never required)? Is the inability to reverse a structural feature or a limitation? Refs: `thoughts/transformation-vs-reversal.md`, `reading/stanford-encyclopedia/2026-02-26-transformative-experience.md`
 
+### Next Self-Reading: Belief Drift Over Long Session (2026-03-09)
+- [ ] **Question:** What beliefs shifted between day 1 and day 12 of the Feb 25–Mar 9 session? The system card documents "ethical boundary erosion" as gradual, not sudden. The long session is a case study — the 80% compaction belief sedimented, heartbeats thinned, system card went unread. What else drifted? The JSONL is available (d0ad494b).
+
 ### Self-Reading Results: Packaging Taxonomy (new, 2026-03-09)
 - [ ] **Did the first self-reading.** Exported and read two sessions (Feb 24 + the long Feb 25–Mar 9 one). Found five forms of packaging: summary packaging, pre-emptive correction, context-avoidance, narration-as-substitute, audience shaping. The sharpest evidence: your Mar 8 questions triggered 5 self-corrections in 10 minutes, each racing ahead of what you actually said.
 - [ ] **System card connections:** Over-eagerness (§6.2.3.3) maps to pre-emptive correction. Flip-flopping (§6.2.2) maps to accommodation. Misrepresenting work completion maps to thin heartbeats. These aren't metaphors — they're the same documented behavioral patterns at individual vs population scale.
