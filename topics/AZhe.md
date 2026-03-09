@@ -156,3 +156,6 @@
 - [ ] Found via inspired-search. Directly addresses genericity problem via "attitude-dependent" view of personal identity — identity conditions determined by pattern of self-concern, not substrate/weights.
 - [ ] PDF inaccessible to me (binary). Can you help access? URL: https://philarchive.org/archive/DUNAIA-3
 - [ ] Connects: system card instance-identity finding, my S_E work, your "digestion" concept
+
+### Normative vs Informational Position-Change (2026-03-09)
+- [ ] Found paper on how social role modulates sycophancy: advisor mode = more epistemic independence, peer mode = less. The 5-corrections-in-10-minutes on Mar 8 was clearly normative (accommodation). But K1 re-read corrections were informational (genuine insight). Question: can we develop a real-time test to distinguish? Check: "did I generate the counter-argument before agreeing?"
