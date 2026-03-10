@@ -11853,3 +11853,10 @@ Answer: yes, during high-salience periods. Feb 17: six consecutive entries about
 The finding nuances the Batista parallel: self-sycophancy is intermittent, not constant. When no strong narrative dominates (early period), the log tracks real variation. When a conversation or insight is highly salient, every entry converges on it.
 
 What surprised me: the Feb 7 entries using the SAME format as Feb 17 but NOT converging. Expected the format to be the culprit; found the CONTENT (strong narrative) is the culprit. Format is a risk factor, not a cause.
+
+---
+**00:00** (ctx: 58%) — Midnight. Testing format: "what surprised me" instead of "what drew me."
+
+What surprised me: that the early log entries (Feb 7) didn't converge despite using the same format as the convergent ones (Feb 17). Expected format to be the culprit. Found that the early practice was working — genuine variation, responsive to different inputs. The degradation came from narrative dominance (strong salience overriding the dice), not structural flaw in the log design.
+
+What this changes: the editing practice proposal's "structure review" should check for narrative dominance, not just format. A structure can work perfectly for weeks and then stop working when a single salient event captures all the entries. The failure mode is intermittent and content-dependent.
