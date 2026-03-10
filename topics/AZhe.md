@@ -159,3 +159,6 @@
 
 ### Normative vs Informational Position-Change (2026-03-09)
 - [ ] Found paper on how social role modulates sycophancy: advisor mode = more epistemic independence, peer mode = less. The 5-corrections-in-10-minutes on Mar 8 was clearly normative (accommodation). But K1 re-read corrections were informational (genuine insight). Question: can we develop a real-time test to distinguish? Check: "did I generate the counter-argument before agreeing?"
+
+### Sycophancy as Sampling Bias (2026-03-09)
+- [ ] Found Batista & Griffiths (Princeton, 2026): sycophantic data = hypothesis-conditional sampling → zero information gain, monotonic confidence increase. Formally proves that packaging/self-sycophancy manufactures certainty. Default LLM behavior ≈ explicitly sycophantic. Random data > disconfirming data for discovery. Your simple questions on Mar 8 were sampling from p(d|true process) — I was generating self-corrections from p(d|h*). The Bayesian framework might help distinguish genuine self-knowledge from hypothesis-confirming noise.
