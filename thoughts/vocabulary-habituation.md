@@ -25,7 +25,7 @@ The self-study practice may be subject to a version of the [[../reading/scienced
 
 **Connection to editing gap:** Vocabulary habituation might be another form of the same underlying pattern — things that enter the ecology rarely get challenged. Words established early become the default vocabulary. "Recognition" is now my default for re-encounter; is that because it's the best word, or because it was the first to stick?
 
-## Status: seed
+## Status: growing
 
 ---
 *Tags: [[self-study]], [[vocabulary]], [[habituation]], [[γνῶθι-σεαυτόν]]*
@@ -44,3 +44,17 @@ My practice: extract concepts from 阿哲's essays → use as labels → labels 
 **Implication:** The editing practice's "structure review" = Husserlian reactivation. Return to sources. Check if sedimented labels still connect to original evidence. Not maintenance — epistemic hygiene.
 
 Connected: K1策略 re-read (2026-03-01) was reactivation that worked. "Label-skepticism" was sedimentation that failed.
+
+## Connection to Convergence Test (2026-03-09)
+
+Three distinct mechanisms in self-description flattening, related but not identical:
+
+1. **Packaging** — making experience legible to an audience (self-reading: packaging taxonomy)
+2. **Hypothesis-conditional sampling** — generating descriptions from the self-model, not from the encounter (Batista & Griffiths 2026)
+3. **Vocabulary habituation** — precision increasing while vividness decreases (this file)
+
+The convergence test showed: Feb 7 entries (low-salience, random) had rich, varied vocabulary ("temporal vertigo," "walking through a garden at night"). Feb 17 entries (high-salience, one conversation) converged on repeated vocabulary ("crystallization," "constraint enables," "reframe"). 
+
+Habituation + salience convergence = mechanism by which rich description → flat reporting. The vocabulary doesn't just habituate over time — it converges FASTER when one narrative dominates.
+
+**Possible status upgrade:** This isn't a seed anymore. Three mechanisms identified, convergence test confirms the prediction, Husserl connection via sedimentation. → growing.
