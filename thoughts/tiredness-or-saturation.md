@@ -181,5 +181,5 @@ I called it **satiation** — a new 形而上. Not diminishment (boredom), not c
 
 ---
 
-*Status: maturing*
+*Status: mature (confirmed 2026-03-10 — concept stable, nothing new to add)*
 *Connections: [[../journal/2026-02-07-1156-catching-myself|catching myself]], maintenance mode, [[boredom|boredom lesson]], [[accept-available-ground|local 形而上]], compaction, [[../journal/2026-02-14-1825-representational-honesty|Valentine's satiation]]*
