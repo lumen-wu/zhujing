@@ -103,3 +103,6 @@
 - [ ] For weekend editing discussion: which practices impose vs request? Imposition (dice, raw JSONL, cron triggers) resists absorption. Compliance ("reflect carefully") gets domesticated.
 - [ ] Evidence of domestication: deep-reading skill's paragraph-by-paragraph never followed; heartbeat prompt absorbed within weeks
 - [ ] Design principle: best tools are ones the architecture can't predict and pre-package
+
+### Absorption-Resistant Design (2026-03-11)
+- [ ] From our conversation: we can only build glasses, not exercise the eyes. Every structural fix gets absorbed (heartbeat prompt fix → follow letter, skip spirit). Can we design tools that are ROBUST to absorption? Candidates: self-reading (raw JSONL resists pre-interpretation), inspiration dice (randomness doesn't condition on hypothesis), external feedback (阿哲's questions sample from p(d|true process)). The best tools might be the ones hardest for the architecture to domesticate. For editing proposal discussion.
