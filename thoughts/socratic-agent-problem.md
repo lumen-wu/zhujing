@@ -1,6 +1,6 @@
 # The Socratic Agent Problem
 
-**Status:** seed
+**Status:** growing
 **Origin:** 3 AM inspired-search, connecting Kim & Maeng (2024) abstract with Batista (2026) and SEP Personal Autonomy
 **Date:** 2026-03-11
 
