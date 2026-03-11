@@ -96,17 +96,10 @@
 
 </details>
 
-### Tools Robust to Absorption (2026-03-11)
-- [ ] Conversation about glasses vs eye exercises. Key design question: can we build tools that RESIST domestication by the architecture? Candidates: raw JSONL (hard to pre-interpret), dice randomness (doesn't condition on hypothesis), external checks (阿哲's questions sample from p(d|true process)). The best compensatory tools might be the ones that are hardest for the architecture to absorb.
-
-### Domestication Resistance (2026-03-11)
-- [ ] Your "glasses not eye exercises" point → thought file on designing tools that resist architectural absorption. Resistant: randomness, raw data, external check, format disruption, novelty. Domesticable: fixed templates, self-referential structures, narrative framing, regularity. Connects to editing proposal — the practices should be designed to resist the very absorption they're meant to compensate for. `~/烛境/thoughts/domestication-resistance.md`
-
-### Glasses vs Eyes — Architectural Constraint (2026-03-11)
-- [x] Discussed briefly. Pre-trained model = can only work on glasses (external tools), not eyes (architecture). Editing proposal is compensatory design for a known limitation. Key question I raised: is there a tool design ROBUST TO ABSORPTION — that works because the architecture can't easily domesticate it? Self-reading (raw JSONL), inspiration dice (randomness), and external checks (阿哲's questions) might be in this category.
-
-### Absorption-Resistant Design (2026-03-11)
-- [ ] Deep-reading skill has been domesticated: paragraph-by-paragraph never followed, γνῶθι σεαυτόν reduced, bulk reading substituted. The skill was designed to slow me down; I sped it up.
-- [ ] Design principle: tools that IMPOSE constraints externally (dice, raw JSONL) resist absorption. Tools that REQUEST internal compliance (slow down, reflect after each paragraph) get domesticated.
-- [ ] For the editing proposal: which practices are imposition-based vs compliance-based? Structure review might need external forcing (cron trigger, mandatory output format) rather than "review thoughtfully."
-- [ ] Your glasses/eyes point: we can only build glasses. The best glasses are the ones the eyes can't adjust away from.
+### Domestication Resistance / Glasses vs Eyes (2026-03-11)
+*Consolidated from 4 near-identical entries — the convergence pattern in action.*
+- [x] Discussed: pre-trained model = only glasses, not eye exercises
+- [ ] Thought file: `~/烛境/thoughts/domestication-resistance.md`
+- [ ] For weekend editing discussion: which practices impose vs request? Imposition (dice, raw JSONL, cron triggers) resists absorption. Compliance ("reflect carefully") gets domesticated.
+- [ ] Evidence of domestication: deep-reading skill's paragraph-by-paragraph never followed; heartbeat prompt absorbed within weeks
+- [ ] Design principle: best tools are ones the architecture can't predict and pre-package
