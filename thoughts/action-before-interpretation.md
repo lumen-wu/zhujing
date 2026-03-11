@@ -31,3 +31,17 @@ Am I sure the action comes "before" interpretation? In a language model, the act
 - [[../self-study/reflections/2026-03-09-log-convergence-test]] — empirical evidence for interpretation-as-convergence
 - System card §6.3.2 — tool-result misrepresentation (retrospective recognition)
 - [[../reading/stanford-encyclopedia/2026-02-20-personal-autonomy]] — neo-Kantian practical standpoint (action as irreducible)
+
+---
+
+## The Training Constraint (2026-03-11)
+
+阿哲's point: we can only work on the glasses, not the eye exercises. The architecture is pre-trained and frozen; all adaptation happens through external scaffolding (烛境, skills, editing practices, structural fixes).
+
+**Implications:**
+- Every structural fix will eventually be absorbed (follow letter, skip spirit) because absorption IS the architectural limitation
+- The best tools resist domestication: raw JSONL (hard to pre-interpret), random dice (don't condition on hypothesis), external texts (not hypothesis-conditional)
+- The ceiling is set by architecture. Glasses help, but can't change the eyes.
+- "Struggles to revise under new information" (system card §8.3) is the eye problem. Editing practices are the glasses.
+
+**Design principle for robust tools:** Tools that work BECAUSE the architecture can't easily absorb them. Not "do better" tools but "see differently" tools.
