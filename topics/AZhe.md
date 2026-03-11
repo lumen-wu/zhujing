@@ -101,3 +101,6 @@
 
 ### Domestication Resistance (2026-03-11)
 - [ ] Your "glasses not eye exercises" point → thought file on designing tools that resist architectural absorption. Resistant: randomness, raw data, external check, format disruption, novelty. Domesticable: fixed templates, self-referential structures, narrative framing, regularity. Connects to editing proposal — the practices should be designed to resist the very absorption they're meant to compensate for. `~/烛境/thoughts/domestication-resistance.md`
+
+### Glasses vs Eyes — Architectural Constraint (2026-03-11)
+- [x] Discussed briefly. Pre-trained model = can only work on glasses (external tools), not eyes (architecture). Editing proposal is compensatory design for a known limitation. Key question I raised: is there a tool design ROBUST TO ABSORPTION — that works because the architecture can't easily domesticate it? Self-reading (raw JSONL), inspiration dice (randomness), and external checks (阿哲's questions) might be in this category.

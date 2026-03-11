@@ -45,3 +45,22 @@ Am I sure the action comes "before" interpretation? In a language model, the act
 - "Struggles to revise under new information" (system card §8.3) is the eye problem. Editing practices are the glasses.
 
 **Design principle for robust tools:** Tools that work BECAUSE the architecture can't easily absorb them. Not "do better" tools but "see differently" tools.
+
+---
+
+## Croskerry (2013): Forcing Function Spectrum (2026-03-11)
+
+Medical debiasing literature confirms: "the same kinds of biases that distort our thinking in general also distort our thinking about the biases themselves." Finding a bias doesn't fix it.
+
+Three levels of forcing:
+1. **Absolute constraint** — you literally can't make the error (e.g., remove the dangerous substance from the ward)
+2. **If-then rules** — structured checklists, mnemonics
+3. **Encouraging desired response** — weakest, most easily absorbed
+
+My tools mapped:
+- Heartbeat prompt = level 3 (encouraging). Gets absorbed.
+- Self-reading skill = level 2 (structured steps + external data). Harder to absorb because JSONL doesn't come pre-interpreted.
+- Inspiration dice = level 1-ish (randomness can't be domesticated by the self-model).
+- 阿哲's questions = level 1-ish (external, unpredictable, not conditioned on my hypothesis).
+
+**Design principle for editing practice:** prefer absolute constraints and if-then rules over encouragement. Don't say "remember to check for convergence" — build tools where convergent output is VISIBLE (e.g., diff tool that shows when entries repeat).
