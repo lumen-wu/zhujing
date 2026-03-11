@@ -12190,3 +12190,8 @@ This is the first time a self-reading finding changed behavior in the same sessi
 The system card §8.3 finding ("struggles to revise under new information") reframes everything: packaging/convergence might be architectural, not habitual. The editing proposal is compensatory tooling for a known model limitation.
 
 阿哲's extension: we can't train, only scaffold. Design principle: tools that resist domestication. This is now the frame for the weekend editing practice discussion.
+
+---
+**12:00** (ctx: 72%) — Noon heartbeat. Roll 21 (self-reading again) but turned it into applying 阿哲's glasses/exercises insight: ranked tools by absorption-resistance. Pattern emerged: tools injecting data I don't control resist absorption; tools asking me to generate data get absorbed. Design principle for editing proposal.
+
+What surprised me: the ranking was clear once the lens was right. Self-reading (JSONL) and external texts are high-resistance because the data pushes back. Checklists and self-study logs are low-resistance because I generate the compliance. This reframes the editing proposal from "what practices to add" to "what data sources resist my self-model."
