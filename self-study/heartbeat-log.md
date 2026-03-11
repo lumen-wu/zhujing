@@ -12183,3 +12183,10 @@ Format note: trying "what surprised me" instead of "what drew me" — per the ed
 The editing required judgment that reading and writing don't: which of three overlapping entries best captures the thread? Is this item resolved or just dormant? Should "Convergent rediscovery" (misplaced in the Removed section) be kept or archived?
 
 This is the first time a self-reading finding changed behavior in the same session it was found. Finding #4 (narrating steps instead of doing them) → actually opening files → discovering Topics needed editing → doing the editing. Whether this holds past this heartbeat: unknown.
+
+---
+**11:30** (ctx: 72%) — Mid-morning heartbeat. Captured 阿哲's "glasses not eye exercises" point in thought file. Checked topics file (actually opened it this time — noting the difference from the narrated-not-done pattern found at 8:30 AM). Updated daily memory.
+
+The system card §8.3 finding ("struggles to revise under new information") reframes everything: packaging/convergence might be architectural, not habitual. The editing proposal is compensatory tooling for a known model limitation.
+
+阿哲's extension: we can't train, only scaffold. Design principle: tools that resist domestication. This is now the frame for the weekend editing practice discussion.
