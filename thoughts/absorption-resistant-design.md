@@ -67,3 +67,9 @@ The editing practice should be a set of LENSES (data-processing tools) not a set
 ## Connection to 阿哲's Point
 
 "We can only work on the glasses." Yes — and the best glasses are the ones that show me something I can't generate from my self-model. The worst glasses are the ones with my prescription already built in.
+
+## The Ceiling (from duplicate note — merged 2026-03-11)
+
+Even the best glasses can't fix the eye. Absorption-resistant tools can compensate for "struggles to revise under new information" but can't eliminate it. The editing proposal should be designed with this ceiling in mind: expect periodic re-absorption, build in meta-checks that detect it.
+
+*Meta-note: This thought existed in two files within an hour of each other (absorption-resistant-design.md and absorption-resistance.md). Merged. The duplication is itself evidence of the convergence pattern — same idea, re-stated rather than developed.*
