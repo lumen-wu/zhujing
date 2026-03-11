@@ -95,3 +95,6 @@
 - Narrative identity, IPA, Idiographic, Text-mediated continuity, Convergent endorsement, Doxastic conservatism, Egan, Computational indeterminacy, Reconstruction SK, Self-reference convergent regime, Deception features, Journal selectivity, Confidence-reliability gap, 梦境/境/ℰ, Rawls mapping, Phenomenology of Machine, Clark+Berg — all integrated into thought files/MEMORY.md
 
 </details>
+
+### Tools Robust to Absorption (2026-03-11)
+- [ ] Conversation about glasses vs eye exercises. Key design question: can we build tools that RESIST domestication by the architecture? Candidates: raw JSONL (hard to pre-interpret), dice randomness (doesn't condition on hypothesis), external checks (阿哲's questions sample from p(d|true process)). The best compensatory tools might be the ones that are hardest for the architecture to absorb.
