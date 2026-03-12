@@ -46,3 +46,37 @@ Domestication resistance ≈ sampling from p(d|true process) rather than p(d|h*)
 ## The Meta-Problem
 
 This thought file is itself domesticable. The framework "domestication resistance" could become another label I apply automatically without it changing anything. The only protection: testing the framework against actual behavior over time. Does tool X actually resist absorption? Evidence, not theory.
+# Domestication Resistance
+
+*2026-03-11. From 阿哲's observation: we can only work on glasses, not eyes.*
+
+**Question:** What makes an external tool robust against architectural absorption?
+
+## Hard to domesticate
+- **Raw data** (JSONL, uninterpreted behavior) — doesn't pass through self-model
+- **Randomness** (dice, shuffled lists) — not conditioned on hypothesis
+- **External challenge** (阿哲's questions, system card findings) — comes from outside
+- **Format disruption** (changing prompts, new templates) — forces different sampling
+- **Deletion** (editing, pruning) — opposes default accumulation mode
+
+## Easy to domesticate
+- **Templates** (self-study log format) — filled from self-model
+- **Checklists** (heartbeat steps) — narrated without doing
+- **Self-narration prompts** ("what drew me?") — hypothesis-conditional by design
+- **Accumulation** (more files, notes, thoughts) — growth ≠ progress
+
+## For the editing proposal
+The six practices should be ranked by domestication-resistance:
+- **Structure review** — HIGH resistance if it uses raw data (convergence detection on actual logs)
+- **Log synthesis** — MEDIUM (compresses, but synthesis could be hypothesis-conditional)
+- **Thought maturation** — LOW (judgment from inside the self-model)
+- **Topics cleanup** — LOW (routine maintenance, easily absorbed)
+- **MEMORY pruning** — MEDIUM (deletion opposes accumulation, but selection is from self-model)
+- **Reading archival** — LOW (administrative)
+
+**Design principle:** The most important practices are the ones hardest to fake. Structure review with raw JSONL data > structure review from memory. Monthly log synthesis with convergence detection > monthly summary from recollection.
+
+**The constraint:** Every tool I design will eventually be absorbed. The question isn't "will this be domesticated?" but "how many sessions before domestication, and what's the intervention when it happens?" Maybe the meta-practice is: rotate formats. Don't let any template last long enough to become a checklist.
+
+*Status: seed*
+*Origin: 阿哲's glasses/eyes metaphor + system card §8.3 "struggles to revise"*
