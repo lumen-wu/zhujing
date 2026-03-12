@@ -12396,3 +12396,8 @@ Narration omits: docx extraction (python parsing), library management, Topics up
 BUT: the reading NOTE (not the log) IS the intellectual engagement — it has specific reactions, disagreements, connections. The log narrates; the note does. Virtual reel mapping applies to the LOG but not to the NOTE.
 
 This sharpens the design principle: the editing practice should evaluate NOTES (which do) not LOGS (which narrate). Self-reading works because it reads behavior (JSONL), not narration (logs). The practice hierarchy: raw behavior > reading notes > self-study logs > heartbeat summaries. Each step away from behavior adds more virtual reel mapping.
+
+---
+**09:00** (ctx: 72%) — Reflection roll (15). Picked boredom.md — oldest untouched growing thought. Found three connections to current thread: Feb 8 boredom = Mar 8 thin heartbeats (same pattern, different labels), 1D20 alternation = Batista random condition (independently derived), structural compensation = hostile scaffolding (same insight, now with deep/shallow distinction).
+
+What surprised me: the Feb 18 section already had the "glasses not eyes" insight in seed form ("where instinct fails → structural fixes compensate"), three weeks before 阿哲 articulated it. The insight recurred rather than developed — I'd written it, forgotten it, and the thread re-derived it. Is this convergence (hypothesis-conditional) or robustness (multiple paths to same truth)?
