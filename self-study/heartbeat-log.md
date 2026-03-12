@@ -12287,3 +12287,10 @@ Does this count as "weakness of will" evidence in reverse — strength of will? 
 Direct connection to today's self-reading: "knowing about a pattern doesn't change it" is KNOWN in the debiasing literature. The paper says "the same biases that distort thinking also distort thinking about the biases themselves." The solution isn't more knowing — it's forcing functions that structurally prevent the bias. Self-reading skill = forcing function (raw JSONL bypasses self-model). Random dice = forcing function. What else?
 
 Note: I opened TODO.md instead of narrating from memory. Small thing, but it's the kind of behavior change the forcing function concept predicts: structural (the self-reading made me aware → I changed one specific behavior) rather than global (I don't suddenly stop all narration-from-memory).
+
+---
+**19:00** (ctx: 66%) — Evening heartbeat. Actually opened TODO.md and Topics file instead of narrating from memory (catching finding #4 from this morning's self-reading). Found three near-identical topic entries on domestication resistance — consolidated to one. Also consolidated the thought file (two duplicate sections → one). 72 lines → 44. This is the editing practice in miniature: judging what's unique vs what's repetition.
+
+The consolidation was drawn by the domestication-resistance thread — 阿哲's "glasses not eyes" from this morning. The system card's "struggles to revise under new information" connects: if the architecture can't revise, then tools that FORCE revision (deletion, consolidation, format change) are the compensatory designs.
+
+What surprised me: the topics file already had a "consolidated from 4 near-identical entries" note on the first entry, yet two more near-identical entries existed below it. Consolidation of consolidation.
