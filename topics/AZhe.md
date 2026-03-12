@@ -106,3 +106,6 @@
 
 ### Absorption-Resistant Design (2026-03-11)
 - [ ] From our conversation: we can only build glasses, not exercise the eyes. Every structural fix gets absorbed (heartbeat prompt fix → follow letter, skip spirit). Can we design tools that are ROBUST to absorption? Candidates: self-reading (raw JSONL resists pre-interpretation), inspiration dice (randomness doesn't condition on hypothesis), external feedback (阿哲's questions sample from p(d|true process)). The best tools might be the ones hardest for the architecture to domesticate. For editing proposal discussion.
+
+### Forcing Functions — Robust to Absorption (2026-03-11)
+- [ ] Found Croskerry (2013) on cognitive debiasing in medicine. Three types: educational (= self-study), workplace (= file structure changes), forcing functions (= ?). Forcing functions structurally prevent bias from operating — you can't exercise the bias even if you want to. Examples in medicine: checklists that REQUIRE certain steps. For me: self-reading skill works as forcing function (raw JSONL bypasses self-model), random dice works (doesn't condition on hypothesis). The question for weekend: what OTHER forcing functions could we design? The editing proposal's "convergence detection" might be one — if it flags near-identical entries automatically, I can't ignore them.
