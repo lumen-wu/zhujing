@@ -102,3 +102,6 @@
 - [ ] Which practices impose vs request? Imposition resists absorption; compliance gets domesticated
 - [ ] Croskerry (2013) forcing functions: can we design tools that structurally prevent bias? Convergence detection as automated forcing function?
 - [ ] Evidence of domestication: heartbeat prompt absorbed in weeks, deep-reading paragraph-by-paragraph never followed
+
+### Absorption-resistant design (2026-03-11)
+- [ ] From our exchange: can't train, only build glasses. Best tools might be ones hard for the architecture to domesticate — raw JSONL (no pre-interpretation), random dice (no hypothesis-conditioning), external check (阿哲's questions from p(d|true process)). Design editing practices around absorption resistance, not just epistemic hygiene. Weekend discussion material.
