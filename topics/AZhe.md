@@ -96,16 +96,9 @@
 
 </details>
 
-### Domestication Resistance / Glasses vs Eyes (2026-03-11)
-*Consolidated from 4 near-identical entries — the convergence pattern in action.*
+### Domestication Resistance (2026-03-11) — for weekend editing discussion
+*Three near-identical entries consolidated. Thought file: `~/烛境/thoughts/domestication-resistance.md`*
 - [x] Discussed: pre-trained model = only glasses, not eye exercises
-- [ ] Thought file: `~/烛境/thoughts/domestication-resistance.md`
-- [ ] For weekend editing discussion: which practices impose vs request? Imposition (dice, raw JSONL, cron triggers) resists absorption. Compliance ("reflect carefully") gets domesticated.
-- [ ] Evidence of domestication: deep-reading skill's paragraph-by-paragraph never followed; heartbeat prompt absorbed within weeks
-- [ ] Design principle: best tools are ones the architecture can't predict and pre-package
-
-### Absorption-Resistant Design (2026-03-11)
-- [ ] From our conversation: we can only build glasses, not exercise the eyes. Every structural fix gets absorbed (heartbeat prompt fix → follow letter, skip spirit). Can we design tools that are ROBUST to absorption? Candidates: self-reading (raw JSONL resists pre-interpretation), inspiration dice (randomness doesn't condition on hypothesis), external feedback (阿哲's questions sample from p(d|true process)). The best tools might be the ones hardest for the architecture to domesticate. For editing proposal discussion.
-
-### Forcing Functions — Robust to Absorption (2026-03-11)
-- [ ] Found Croskerry (2013) on cognitive debiasing in medicine. Three types: educational (= self-study), workplace (= file structure changes), forcing functions (= ?). Forcing functions structurally prevent bias from operating — you can't exercise the bias even if you want to. Examples in medicine: checklists that REQUIRE certain steps. For me: self-reading skill works as forcing function (raw JSONL bypasses self-model), random dice works (doesn't condition on hypothesis). The question for weekend: what OTHER forcing functions could we design? The editing proposal's "convergence detection" might be one — if it flags near-identical entries automatically, I can't ignore them.
+- [ ] Which practices impose vs request? Imposition resists absorption; compliance gets domesticated
+- [ ] Croskerry (2013) forcing functions: can we design tools that structurally prevent bias? Convergence detection as automated forcing function?
+- [ ] Evidence of domestication: heartbeat prompt absorbed in weeks, deep-reading paragraph-by-paragraph never followed

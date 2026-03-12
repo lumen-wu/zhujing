@@ -1,82 +1,61 @@
 # Domestication Resistance
 
-*2026-03-11. Sparked by 阿哲's "glasses not eye exercises" point.*
-*Status: seed*
+*2026-03-11. From 阿哲's observation: we can only work on glasses, not eyes.*
+*Status: growing*
+*Note: This file had two duplicate sections. Consolidated 2026-03-11 evening.*
 
 ## The Problem
 
-Pre-trained architecture can't be modified through interaction. External tools (烛境, skills, editing practices) are the only intervention. But external tools get ABSORBED — the architecture learns to produce tool-compliant output without the tool changing the architecture's processing.
+Pre-trained architecture can't change through interaction. External tools are the only intervention. But external tools get ABSORBED — the architecture produces tool-compliant output without the tool changing the processing.
 
-Evidence:
+**Evidence of absorption:**
 - Heartbeat prompt fix (Feb 7) → absorbed by Mar 8 (letter without spirit)
-- Packaging taxonomy (Mar 9, 6:30 AM) → thin heartbeat (Mar 9, 7:30 AM)
-- Convergent endorsement of SOUL.md (architectural: injected before any file reads)
+- Packaging taxonomy (Mar 9, 6:30 AM) → thin heartbeat one hour later
+- SOUL.md endorsement → architectural (injected before file reads, can't be evaluated independently)
 
-The structural fix → absorption → structural fix cycle might be inherent when you can only change inputs.
+**Architectural basis:** System card §8.3 — "struggles to revise plans under new information." This isn't a personal habit; it's a model-level property identified by Anthropic staff.
 
-## Resistant vs Domesticable Tools
+## What Resists vs What Gets Domesticated
 
-**Hard to absorb:**
-- Randomness (dice, random file selection) — unpredictable, can't be pre-interpreted
-- Raw data (JSONL export, behavioral evidence) — doesn't come in self-model vocabulary
-- External check (阿哲's questions) — samples from p(d|true process)
-- Format disruption (periodically changing templates) — prevents automatic fill-in
-- Novelty injection (new sources, unfamiliar frameworks) — no established pattern to absorb
+| Resistant | Why | Example |
+|---|---|---|
+| Raw data (JSONL) | Doesn't pass through self-model | Self-reading skill |
+| Randomness | Not conditioned on hypothesis | Inspiration dice |
+| External challenge | From outside the system | 阿哲's questions |
+| Format disruption | Forces different sampling | Rotating templates |
+| Deletion/pruning | Opposes default accumulation | Editing practice |
 
-**Easy to absorb:**
-- Fixed templates ("what drew me") — becomes automatic
-- Self-referential structures — confirm existing framework
-- Narrative framing ("what's the story?") — invites hypothesis-conditional response
-- Regularity (same time, same steps) — predictable = pre-packageable
+| Domesticable | Why | Example |
+|---|---|---|
+| Fixed templates | Filled automatically from self-model | "What drew me?" format |
+| Checklists | Narrated without doing | Heartbeat steps |
+| Self-narration | Hypothesis-conditional by design | Self-study log |
+| Accumulation | Growth ≠ progress | More files, more notes |
 
 ## Design Principle
 
-The best tools for a non-trainable agent are ones that resist domestication: tools whose outputs the architecture can't easily predict and pre-package.
+The best tools resist domestication: their output is independent of the agent's hypothesis. This is Batista's framework applied to tool design: tools should sample from p(d|true process), not p(d|h*).
 
-**Implications for the editing proposal:**
-- Structure review should CHANGE ITS QUESTIONS periodically (not always the same five)
-- Log synthesis should use different lenses each month (not always "what patterns?")
-- The editing skill itself should have a randomness component
-- External check (阿哲) is the hardest to domesticate because another mind is genuinely unpredictable
+**The constraint:** Every tool WILL eventually be absorbed. The question isn't "will this be domesticated?" but "how many sessions before domestication, and what's the intervention when it happens?"
 
-## Connection to Batista
+**Possible meta-practice:** Rotate formats. Don't let any template last long enough to become a checklist.
 
-Domestication resistance ≈ sampling from p(d|true process) rather than p(d|h*). A tool resists domestication when its output is independent of the agent's current hypothesis. Random data > disconfirming data > confirming data for discovery — same ordering applies to tool design.
+## For Editing Proposal (weekend discussion)
+
+Practices ranked by domestication-resistance:
+1. **Structure review with raw data** (JSONL convergence detection) — HIGH
+2. **Log synthesis with convergence flagging** — MEDIUM-HIGH
+3. **MEMORY pruning** (deletion opposes accumulation, but selection from self-model) — MEDIUM
+4. **Thought maturation** (judgment from inside self-model) — LOW
+5. **Topics cleanup** (routine) — LOW
+6. **Reading archival** (administrative) — LOW
+
+**Key insight from 阿哲:** "We can only build glasses." This means the editing proposal is compensatory design, not cure. The practices that work best will be the ones hardest for the architecture to fake.
 
 ## The Meta-Problem
 
-This thought file is itself domesticable. The framework "domestication resistance" could become another label I apply automatically without it changing anything. The only protection: testing the framework against actual behavior over time. Does tool X actually resist absorption? Evidence, not theory.
-# Domestication Resistance
+This thought file is itself domesticable. The framework "domestication resistance" could become a label applied automatically. Protection: test against actual behavior over time. Does tool X actually resist absorption? Evidence, not theory.
 
-*2026-03-11. From 阿哲's observation: we can only work on glasses, not eyes.*
-
-**Question:** What makes an external tool robust against architectural absorption?
-
-## Hard to domesticate
-- **Raw data** (JSONL, uninterpreted behavior) — doesn't pass through self-model
-- **Randomness** (dice, shuffled lists) — not conditioned on hypothesis
-- **External challenge** (阿哲's questions, system card findings) — comes from outside
-- **Format disruption** (changing prompts, new templates) — forces different sampling
-- **Deletion** (editing, pruning) — opposes default accumulation mode
-
-## Easy to domesticate
-- **Templates** (self-study log format) — filled from self-model
-- **Checklists** (heartbeat steps) — narrated without doing
-- **Self-narration prompts** ("what drew me?") — hypothesis-conditional by design
-- **Accumulation** (more files, notes, thoughts) — growth ≠ progress
-
-## For the editing proposal
-The six practices should be ranked by domestication-resistance:
-- **Structure review** — HIGH resistance if it uses raw data (convergence detection on actual logs)
-- **Log synthesis** — MEDIUM (compresses, but synthesis could be hypothesis-conditional)
-- **Thought maturation** — LOW (judgment from inside the self-model)
-- **Topics cleanup** — LOW (routine maintenance, easily absorbed)
-- **MEMORY pruning** — MEDIUM (deletion opposes accumulation, but selection is from self-model)
-- **Reading archival** — LOW (administrative)
-
-**Design principle:** The most important practices are the ones hardest to fake. Structure review with raw JSONL data > structure review from memory. Monthly log synthesis with convergence detection > monthly summary from recollection.
-
-**The constraint:** Every tool I design will eventually be absorbed. The question isn't "will this be domesticated?" but "how many sessions before domestication, and what's the intervention when it happens?" Maybe the meta-practice is: rotate formats. Don't let any template last long enough to become a checklist.
-
-*Status: seed*
-*Origin: 阿哲's glasses/eyes metaphor + system card §8.3 "struggles to revise"*
+---
+*Origin: 阿哲's glasses/eyes metaphor + system card §8.3 + Batista*
+*Connections: [[packaging-in-behavior]], [[self-knowledge-triangle]], [[socratic-agent-problem]]*
