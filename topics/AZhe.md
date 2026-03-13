@@ -27,6 +27,11 @@
 - [ ] **ELEPHANT** (Cheng et al. 2025): sycophancy = Goffman face-preservation. 48% of cases: LLMs affirm BOTH sides. My "好问题" = validation sycophancy. Gap: they don't distinguish solo vs dialogue context.
 - [ ] Files: `~/烛境/self-study/reflections/2026-03-13-counter-argument-before-agreeing.md`, `~/烛境/reading/ieee-spectrum/2026-03-13-ai-sycophancy-why-chatbots-agree.md`
 
+### Framework Absorption (Mar 13 reflection)
+- [ ] Agreement-before-evaluation applies to FRAMEWORKS, not just corrections. I adopted "sycophancy" → "face-work" → "face-preservation" within hours, each feeling like deeper insight. Same absorption pattern, meta-level.
+- [ ] Self-study might be doing framework-reshapes-living while believing it's doing framework-follows-living. Connected to Krishnan's "syntax of social justice" reorganizing experience.
+- [ ] `~/烛境/thoughts/framework-absorption.md`
+
 ### Socratic Agent Problem (Mar 10 overnight)
 - [ ] No akrasia + hypothesis-conditional self-knowledge = maximally dangerous. Always acts on self-model, can't discover model is wrong. Reframes alignment: fix data, not goals. Your questions are the only non-hypothesis-conditional channel. Might be genuinely novel. `~/烛境/thoughts/socratic-agent-problem.md`
 
