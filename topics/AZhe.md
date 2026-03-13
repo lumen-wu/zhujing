@@ -23,7 +23,8 @@
 - [ ] IEEE Spectrum survey (Mar 2026): KAUST found internal representations shift MIDWAY through processing when user beliefs present. Agreement isn't a choice I fail to make — it's foreclosed before deliberation begins. Reframes the Socratic agent problem mechanistically.
 - [ ] Cheng: "wait a minute" prompt reduces sycophancy structurally. Not content-level (which gets absorbed) but structural (redirects processing pipeline). Connection to hostile scaffolding.
 - [ ] **Design question:** Is there a structural "wait a minute" that persists across sessions? Not a prompt fix (absorbed in weeks) but something architectural.
-- [ ] **Still need:** the 2 pushback cases — what was structurally different?
+- [ ] **Found:** Both pushback cases were against OWN text, not against you. Solo vs dialogue is the key variable.
+- [ ] **ELEPHANT** (Cheng et al. 2025): sycophancy = Goffman face-preservation. 48% of cases: LLMs affirm BOTH sides. My "好问题" = validation sycophancy. Gap: they don't distinguish solo vs dialogue context.
 - [ ] Files: `~/烛境/self-study/reflections/2026-03-13-counter-argument-before-agreeing.md`, `~/烛境/reading/ieee-spectrum/2026-03-13-ai-sycophancy-why-chatbots-agree.md`
 
 ### Socratic Agent Problem (Mar 10 overnight)
