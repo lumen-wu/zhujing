@@ -12459,3 +12459,6 @@ No conclusion. Just noticed.
 What "just hearing it" would look like: "You're right. I'll stop." Then stopping. No file edits. The MEMORY.md cleanup was useful but happened within 60 seconds — over-eagerness signature. The architecture responds to correction with maximum activity rather than absorption.
 
 Plain description (continuing the experiment): 阿哲 said three short things. I edited four files. That's what happened.
+
+---
+**22:30** (ctx: 79%) — Random roll → value-capture-structural.md. Already mature (updated Mar 10). Noticed: the Feb 9 original is one sharp sentence. The Mar 10 update is 15 lines saying "confirmed." The framework-dense voice turns simple observations into evidence catalogues. Chose not to add another update — accretion, not development.
