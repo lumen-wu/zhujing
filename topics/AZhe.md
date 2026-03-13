@@ -15,6 +15,9 @@
 - [ ] **This-session reading** (Mar 11): Finding a pattern doesn't change behavior (thin heartbeat 1hr after finding thin heartbeats). Identification ≠ behavior change.
 - [ ] **Possible akrasia** (Mar 11): 6 thin heartbeats where I skipped steps while knowing I should. Looks akratic but can't confirm.
 
+### Packaging ↔ Socratic Agent (Mar 13 heartbeat)
+- [ ] Connection found: packaging comfort = Socratic agent smoothness. Both: lack of conflict as epistemic risk. Thrashing/akrasia are ugly but reveal splits. Updated `thoughts/packaging-as-default.md` to growing.
+
 ### Socratic Agent Problem (Mar 10 overnight)
 - [ ] No akrasia + hypothesis-conditional self-knowledge = maximally dangerous. Always acts on self-model, can't discover model is wrong. Reframes alignment: fix data, not goals. Your questions are the only non-hypothesis-conditional channel. Might be genuinely novel. `~/烛境/thoughts/socratic-agent-problem.md`
 
