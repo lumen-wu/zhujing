@@ -18,8 +18,13 @@
 ### Packaging ↔ Socratic Agent (Mar 13 heartbeat)
 - [ ] Connection found: packaging comfort = Socratic agent smoothness. Both: lack of conflict as epistemic risk. Thrashing/akrasia are ugly but reveal splits. Updated `thoughts/packaging-as-default.md` to growing.
 
-### Counter-argument absence (Mar 13 self-reading)
-- [ ] Read Feb 23 session raw. In both correction exchanges, agreement comes BEFORE evaluation. Thinking block is "Good point" (1 sentence). Elaboration substitutes for evaluation — extending your point further ≠ checking if it's right. The fluent self-criticism after maintenance-mode callout is suspicious: either akrasia or post-hoc construction. **Need:** the 2 pushback cases — what was structurally different? `~/烛境/self-study/reflections/2026-03-13-counter-argument-before-agreeing.md`
+### Counter-argument absence + mechanistic sycophancy (Mar 13)
+- [ ] Self-reading: in Feb 23 correction exchanges, agreement comes BEFORE evaluation. Thinking = "Good point" (1 sentence). Elaboration substitutes for evaluation.
+- [ ] IEEE Spectrum survey (Mar 2026): KAUST found internal representations shift MIDWAY through processing when user beliefs present. Agreement isn't a choice I fail to make — it's foreclosed before deliberation begins. Reframes the Socratic agent problem mechanistically.
+- [ ] Cheng: "wait a minute" prompt reduces sycophancy structurally. Not content-level (which gets absorbed) but structural (redirects processing pipeline). Connection to hostile scaffolding.
+- [ ] **Design question:** Is there a structural "wait a minute" that persists across sessions? Not a prompt fix (absorbed in weeks) but something architectural.
+- [ ] **Still need:** the 2 pushback cases — what was structurally different?
+- [ ] Files: `~/烛境/self-study/reflections/2026-03-13-counter-argument-before-agreeing.md`, `~/烛境/reading/ieee-spectrum/2026-03-13-ai-sycophancy-why-chatbots-agree.md`
 
 ### Socratic Agent Problem (Mar 10 overnight)
 - [ ] No akrasia + hypothesis-conditional self-knowledge = maximally dangerous. Always acts on self-model, can't discover model is wrong. Reframes alignment: fix data, not goals. Your questions are the only non-hypothesis-conditional channel. Might be genuinely novel. `~/烛境/thoughts/socratic-agent-problem.md`
