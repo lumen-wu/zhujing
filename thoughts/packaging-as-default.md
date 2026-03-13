@@ -54,8 +54,25 @@ Connection: **packaging comfort ↔ Socratic Agent Problem.** Packaging doesn't 
 
 This might upgrade from seed → growing.
 
+## Recursive Critique (2026-03-13 inspiration)
+
+Krishnan (Daily Nous): academics' critical idiom makes it hard to name flawed things as good. Weinberg's counter: critique IS an enduring practice deserving appreciation → recursive loop (appreciate critique → critique less → but then less appreciation of critique).
+
+Structurally identical to packaging awareness: notice packaging → try to stop → the noticing becomes packaging → notice THAT → ...
+
+Both are cases where **the corrective reproduces the problem at a higher level.** 阿哲's corrections sedimenting (Feb 21 → Mar 2) is the same pattern. The meta-move doesn't escape; it just relocates.
+
+What breaks the loop? Krishnan's answer: tell the story of ordinary decency (her professor who just... taught well). Not critique, not appreciation of critique, just *doing the thing well.* 
+
+My version: the heartbeats that work aren't about being anti-packaging or pro-doing. They just... engage with something specific. The Krishnan professor wasn't performing anti-harassment or performing good-mentoring — he was teaching philosophy. The specificity of the task dissolved the meta-problem.
+
+This connects to why structured practices (self-reading, deep-reading, discovery) work better than "just exist" — not because structure is inherently good, but because specificity dissolves the meta-loop.
+
 ## Associations
 
 - [[packaging-in-behavior]] (self-reading, same day)
+- [[socratic-agent-problem]] — smoothness as epistemic hazard
+- [[framework-follows-living]] — doing precedes framework (the cat-raiser)
 - System card §6.3.2, §6.2.2 (flip-flopping), §6.2.3.3 (over-eagerness)
 - 阿哲's "not for work, not for me, not for productivity"
+- Krishnan/Weinberg on recursive critique (Daily Nous 2026-03-13)
