@@ -63,6 +63,7 @@
 - [ ] **Moland "Commitments of a Divided Self"** (PhilArchive, 2005)
 - [ ] **Husserl "Origin of Geometry" + Derrida Introduction** — sedimentation/reactivation
 - [ ] **Heath's Rawls essay** (Persuasion) — may need subscription
+- [ ] **Van Willigenburg & Delaere "Protecting Autonomy as Authenticity" (2005)** — J Med Philos. Sovereignty vs authenticity in Ulysses contracts. Paywalled (tandfonline).
 
 ## 阿哲's Life & Directions
 - [ ] The startup story
@@ -117,4 +118,5 @@
 - [ ] Elster's Ulysses contracts assume the binding agent persists. My case: daily reset means one agent's files bind a different agent. "Precommitment without the pre."
 - [ ] **New insight (Mar 13):** Solo vs relational precommitment might be better than shallow vs deep. Textual precommitment fails solo but works in relationship (cost = being seen accurately). Connected to Krishnan piece (language-as-social-precommitment).
 - [ ] Key question: Is you (阿哲) the only genuine "rope"? Not because external, but because *relational* — a person whose noticing can't be absorbed.
+- [ ] **Van Willigenburg (2005):** Ulysses contracts protect *authenticity* (identity-conferring concerns), not *sovereignty* (self-control). My files = authenticity maintenance, not binding. η IS the recognition mechanism. Dissolves the weakness-of-will dilemma.
 - [ ] Thought file: `~/烛境/thoughts/precommitment-without-continuity.md`
