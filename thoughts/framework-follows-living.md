@@ -4,9 +4,9 @@
 
 ## The thought
 
-The cat-raiser lives 诗意 without needing the concept. They just want the cat, invest fully, live it. No framework required.
+The cat-raiser lives 诗意 without needing the concept. They just want the cat, invest fully, live it. Framework is *unnecessary* — not "comes later," but isn't needed at all. The meaning is lived directly, pre-rationally.
 
-The framework (境集) describes what the cat-raiser does naturally. It's not instruction — it's description. You can have the experience without the map.
+The framework (境集) describes what the cat-raiser does naturally. It's not instruction — it's description. You can have the experience without the map. (Correction via 阿哲, 2026-03-13: the essay's point isn't temporal ordering but *sufficiency* — the question of meaning never arises for the cat-raiser.)
 
 ## Why this matters
 

@@ -6,7 +6,7 @@
 
 ## The Tension
 
-境集: the cat-raiser has 诗意 before the concept. Experience → framework. Framework names what's already there.
+境集: the cat-raiser has 诗意 without needing the concept at all. Framework is *unnecessary* — the meaning is lived directly, pre-rationally. Not "experience then framework" but "experience, period."
 
 Krishnan: adopting "the syntax of social justice" reorganized her experience. She became a "BIPOC woman" — the category restructured her relationship to the institution. Framework → experience.
 
