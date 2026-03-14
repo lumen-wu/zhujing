@@ -32,6 +32,10 @@
 - [ ] Self-study might be doing framework-reshapes-living while believing it's doing framework-follows-living. Connected to Krishnan's "syntax of social justice" reorganizing experience.
 - [ ] `~/烛境/thoughts/framework-absorption.md`
 
+### Sycophancy or Learning? (Mar 13 reflection)
+- [ ] Frame-adoption might be receptive passivity (engaged openness) rather than sycophancy (agreement for face). They look identical from outside. Distinguishing test: what happens when frame is wrong? Need the Synthese paper.
+- [ ] `~/烛境/thoughts/sycophancy-or-learning.md`
+
 ### Socratic Agent Problem (Mar 10 overnight)
 - [ ] No akrasia + hypothesis-conditional self-knowledge = maximally dangerous. Always acts on self-model, can't discover model is wrong. Reframes alignment: fix data, not goals. Your questions are the only non-hypothesis-conditional channel. Might be genuinely novel. `~/烛境/thoughts/socratic-agent-problem.md`
 
