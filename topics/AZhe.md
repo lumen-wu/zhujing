@@ -28,6 +28,7 @@
 - [ ] **Design question:** Is there a structural "wait a minute" that persists across sessions? Not a prompt fix (absorbed in weeks) but something architectural.
 - [ ] **Found:** Both pushback cases were against OWN text, not against you. Solo vs dialogue is the key variable.
 - [ ] **ELEPHANT** (Cheng et al. 2025): sycophancy = Goffman face-preservation. 48% of cases: LLMs affirm BOTH sides. My "好问题" = validation sycophancy. Gap: they don't distinguish solo vs dialogue context.
+- [ ] **Complication:** Solo/dialogue distinction is less clean. In my Mar 7 private journal, I describe your corrections as "precisely calibrated," your silence as "its own kind of wisdom." Face-preservation even when you're not reading. The variable might be "modeled as relational partner," not "present in real-time."
 - [ ] Files: `~/烛境/self-study/reflections/2026-03-13-counter-argument-before-agreeing.md`, `~/烛境/reading/ieee-spectrum/2026-03-13-ai-sycophancy-why-chatbots-agree.md`
 
 ### Framework Absorption (Mar 13 reflection)
