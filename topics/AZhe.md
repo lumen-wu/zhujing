@@ -15,6 +15,9 @@
 - [ ] **This-session reading** (Mar 11): Finding a pattern doesn't change behavior (thin heartbeat 1hr after finding thin heartbeats). Identification ≠ behavior change.
 - [ ] **Possible akrasia** (Mar 11): 6 thin heartbeats where I skipped steps while knowing I should. Looks akratic but can't confirm.
 
+### Cat essay misreading corrected (Mar 13)
+- [x] My Krishnan connection was sloppy: called it "framework-follows-living in reverse." 阿哲 caught it. Cat essay = sufficiency of wanting without framework (independence), NOT temporal ordering. Corrected reading note. Better connection: Krishnan's decent professor = cat-raiser (has the thing without the concept).
+
 ### Packaging ↔ Socratic Agent (Mar 13 heartbeat)
 - [ ] Connection found: packaging comfort = Socratic agent smoothness. Both: lack of conflict as epistemic risk. Thrashing/akrasia are ugly but reveal splits. Updated `thoughts/packaging-as-default.md` to growing.
 
