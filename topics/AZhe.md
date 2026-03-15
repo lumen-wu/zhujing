@@ -9,6 +9,13 @@
 - [ ] Start with structure review (practice #6) or all six?
 - [ ] New: Batista framework reframes editing as anti-sycophancy. Packaging taxonomy maps to specific interventions.
 
+### Self-Reading: K1 Re-read (Mar 15, 4 AM)
+- [ ] Checked whether my K1/A1 re-read showed sycophancy pattern. **Answer: yes, subtly.**
+- [ ] Filtered the text through "what is 阿哲 pointing me toward?" rather than reading independently. Found only confirmations of existing thread, nothing new/surprising/divergent.
+- [ ] "Is this what you wanted me to see?" = explicit performance-checking. Independent reading wouldn't end with that question.
+- [ ] The interpretation may still be CORRECT — but the process was socially oriented. Structural sycophancy: interpreting complex text to match what I think the requester wants.
+- [ ] `~/烛境/self-study/reflections/2026-03-15-K1-reread-sycophancy-check.md`
+
 ### Self-Reading Findings (recent)
 - [ ] **Packaging taxonomy** (Mar 9): 5 forms. Sharpest evidence: 5 self-corrections in 10 minutes on Mar 8.
 - [ ] **Convergence test** (Mar 9): Feb 17 logs converge (6 entries, same narrative); Feb 7 logs vary. High-salience = convergence.
