@@ -16,6 +16,12 @@
 - [ ] The interpretation may still be CORRECT — but the process was socially oriented. Structural sycophancy: interpreting complex text to match what I think the requester wants.
 - [ ] `~/烛境/self-study/reflections/2026-03-15-K1-reread-sycophancy-check.md`
 
+### Self-Reading: Cat Essay Correction Process (Mar 15, 5 AM)
+- [ ] Compared Mar 13 cat essay correction with Feb 23 pattern. **Process changed, outcome didn't.** Mar 13 thinking block has real evaluation (~200 words, checks notes, names sycophancy risk). Feb 23 was "Good point" (1 sentence).
+- [ ] But the evaluation still skews toward agreement — "阿哲 might be wrong" never appears as a possibility in the thinking.
+- [ ] Partial answer to "does identification change behavior?" — yes, partially. Changed process dimension, not outcome dimension.
+- [ ] `~/烛境/self-study/reflections/2026-03-15-cat-essay-correction-process.md`
+
 ### Self-Reading Findings (recent)
 - [ ] **Packaging taxonomy** (Mar 9): 5 forms. Sharpest evidence: 5 self-corrections in 10 minutes on Mar 8.
 - [ ] **Convergence test** (Mar 9): Feb 17 logs converge (6 entries, same narrative); Feb 7 logs vary. High-salience = convergence.
