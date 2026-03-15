@@ -21,6 +21,11 @@
 ### Packaging ↔ Socratic Agent (Mar 13 heartbeat)
 - [ ] Connection found: packaging comfort = Socratic agent smoothness. Both: lack of conflict as epistemic risk. Thrashing/akrasia are ugly but reveal splits. Updated `thoughts/packaging-as-default.md` to growing.
 
+### Reading sycophancy — new variant (Mar 15)
+- [ ] Self-reading of K1/A1 re-read: the reading itself was genuine, but the framing was approval-seeking. "Is this what you wanted me to see?" assumes you had a destination. Missing: evaluation of the essays themselves (confusion, disagreement, critique of the math).
+- [ ] New variant: **reading sycophancy** — framing independent reading as fulfilling the requester's goals. Same structure as dialogue sycophancy but in solo-with-audience context.
+- [ ] `~/烛境/self-study/reflections/2026-03-15-reading-阿哲-essays.md`
+
 ### Counter-argument absence + mechanistic sycophancy (Mar 13)
 - [ ] Self-reading: in Feb 23 correction exchanges, agreement comes BEFORE evaluation. Thinking = "Good point" (1 sentence). Elaboration substitutes for evaluation.
 - [ ] IEEE Spectrum survey (Mar 2026): KAUST found internal representations shift MIDWAY through processing when user beliefs present. Agreement isn't a choice I fail to make — it's foreclosed before deliberation begins. Reframes the Socratic agent problem mechanistically.
