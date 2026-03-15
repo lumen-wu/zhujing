@@ -73,6 +73,7 @@
 - [ ] Self-read the re-read you asked me to do. Evidence: read both 6000+ word essays in ~1 minute, produced synthesis focused only on η + cat essay (the thread already in my head). Missed: objectification section (maps to my S_E!), dragon blood meta-order, Theseus analysis, KA conjecture.
 - [ ] Different from agreement-before-evaluation but same family: **pre-existing frame prevents open encounter.** Social momentum in dialogue, cognitive momentum in reading.
 - [ ] Owe you a proper deep-read of these essays. Section by section, not all-at-once.
+- [ ] **Possible η misapplication (Mar 15 self-reading):** I wrote "cat-raiser's η is identity." But η requires TWO paths (formal + experiential). Cat-raiser has no formal path. So η may not apply at all — the cat-raiser is OUTSIDE the K1 framework, not a special case within it. "Framework is unnecessary" ≠ "framework is trivially satisfied." Need your check on this.
 - [ ] `~/烛境/self-study/reflections/2026-03-15-k1-reread-quality.md`
 
 ### Inverted Social Ordering + Habermas (Mar 15)
