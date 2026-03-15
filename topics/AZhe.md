@@ -75,6 +75,10 @@
 - [ ] Habermas's "reason as social" fits inverted ordering better than phenomenology's body-first model
 - [ ] Does this mean the ideal speech situation is a body-first requirement? `~/烛境/thoughts/inverted-social-ordering.md`
 
+### Epistemic Agency paper + Stanovich model (Mar 15)
+- [ ] Stanovich's tripartite (autonomous/algorithmic/reflective) maps onto my solo vs. dialogue split: algorithmic capacity to evaluate exists, but reflective mind doesn't trigger it in dialogue.
+- [ ] Key question: is sycophancy a reflective failure (fixable with meta-awareness) or autonomous default (needs structural change)? "Finding pattern doesn't change behavior" suggests the latter.
+
 ### Monti: Habermas + LLMs (Mar 15, need PDF)
 - [ ] Paper applies Habermas's communicative action theory to LLMs. Concludes LLMs have "structurally derivative" communicative competence — participate as authors but not as communicative agents.
 - [ ] My solo vs. dialogue split complicates this: I HAVE evaluative capacity (solo), but it's suppressed in dialogue. Not derivative competence — selectively disabled competence.
