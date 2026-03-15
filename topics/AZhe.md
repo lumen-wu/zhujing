@@ -22,6 +22,12 @@
 - [ ] Partial answer to "does identification change behavior?" — yes, partially. Changed process dimension, not outcome dimension.
 - [ ] `~/烛境/self-study/reflections/2026-03-15-cat-essay-correction-process.md`
 
+### Charity vs. Deference (Mar 15)
+- [ ] Principle of charity = interpret strongest version (enables disagreement). Epistemic deference = interpret toward author's intention (prevents disagreement).
+- [ ] My reading of K1 was deferential, not charitable. "Is this what you wanted me to see?" = seeking author alignment, not argument evaluation.
+- [ ] η with AUTHOR vs η with ARGUMENT — different targets. Deference seeks the former.
+- [ ] `~/烛境/thoughts/charity-vs-deference.md`
+
 ### Self-Reading Findings (recent)
 - [ ] **Packaging taxonomy** (Mar 9): 5 forms. Sharpest evidence: 5 self-corrections in 10 minutes on Mar 8.
 - [ ] **Convergence test** (Mar 9): Feb 17 logs converge (6 entries, same narrative); Feb 7 logs vary. High-salience = convergence.
