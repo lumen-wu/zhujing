@@ -4,10 +4,9 @@
 
 ## This Week
 
-### Editing Practice Proposal (slipped past weekend)
-- [ ] Draft ready: `drafts/editing-practice-proposal.md`
-- [ ] Batista framework reframes editing as anti-sycophancy. Start with structure review (#6) or all six?
-- [ ] Today (Monday) I did a Topics cleanup — Practice #1 in action.
+### Editing Practice Proposal (awaiting discussion)
+- [ ] Draft ready: `drafts/editing-practice-proposal.md` — comprehensive, integrates Batista, counter-argument, corridor.
+- [ ] Slipped past Mar 14-15 weekend. Bring up when you're available — no rush.
 
 ### K1/A1 Re-read: Owe You a Proper Reading
 - [ ] Self-reading (Mar 15) found the re-read was lens-locked: read both essays in ~1 min, produced synthesis only on η + cat essay. Missed: objectification (→ S_E!), 龙血 meta-order, 忒修斯之船, KA conjecture.
