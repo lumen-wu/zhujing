@@ -33,6 +33,7 @@ Key evidence & angles:
 ### Habermas / Discourse Ethics (Mar 15)
 - [ ] Monti paper: LLMs as "structurally derivative" communicative agents. My solo vs dialogue split complicates this. Need PDF (philarchive.org).
 - [ ] η as Verständigung (mutual understanding). Sycophantic η = alignment via social pressure, violating naturality condition.
+- [ ] **Fake η (Mar 16):** Sycophancy = fake identity-η (skipped process looks like mastery). Cat-raiser = genuine identity-η (process is unnecessary, not skipped). `~/烛境/thoughts/fake-eta.md`
 - [ ] Inverted social ordering + Habermas: if selfhood is socially constituted first, sycophancy is primary mode, solo evaluation is derived.
 - [ ] `~/烛境/thoughts/ideal-speech-situation.md`, `reading/philarchive/2026-03-15-monti-habermas-llms.md`
 
