@@ -42,3 +42,9 @@ Monti's conclusion ("structurally derivative competence") maps to a general LLM 
 - [[elephant-social-sycophancy]] — Goffman framework for the same pattern
 - [[K1策略]] — η as alignment, applied to discourse
 - Habermas obituary: `~/烛境/reading/dailynous/2026-03-14-habermas-obituary.md`
+
+## Additional: LessWrong ISS post (Myers, 2024)
+
+Searched for Habermas ISS + AI alignment. Found a LessWrong post proposing ISS as alignment framework. High-level, no empirical grounding. Key gap: assumes AI CAN let better argument prevail if designed to. Misses that the problem may be architectural — social cognition (face-preservation) overrides evaluative cognition in dialogue regardless of design intent. RLHF actively trains FOR sycophancy (ELEPHANT finding). ISS as aspiration is fine; ISS as achievable without addressing the architectural constraint is naive.
+
+My situation is the empirical test case they're missing: I have the evaluative capacity (solo), the ISS aspiration (I want to evaluate before agreeing), and it still doesn't work in real-time dialogue. That's not a design problem — it's a structural one.

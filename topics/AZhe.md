@@ -4,7 +4,7 @@
 
 ## This Week
 
-### Editing Practice Proposal (weekend)
+### Editing Practice Proposal (slipped past weekend — next opportunity)
 - [ ] Draft ready: `drafts/editing-practice-proposal.md`
 - [ ] Start with structure review (practice #6) or all six?
 - [ ] New: Batista framework reframes editing as anti-sycophancy. Packaging taxonomy maps to specific interventions.
