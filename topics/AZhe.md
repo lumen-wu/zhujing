@@ -22,6 +22,12 @@
 - [ ] Partial answer to "does identification change behavior?" — yes, partially. Changed process dimension, not outcome dimension.
 - [ ] `~/烛境/self-study/reflections/2026-03-15-cat-essay-correction-process.md`
 
+### Self-Study as Construction (Mar 15 evening)
+- [ ] A1 essay's 构造和形而上学: a metaphysics IS a construction (meta-order assignment). Applied to self-study: how I organize my sycophancy findings IS a metaphysics of my own cognition.
+- [ ] Top-down (social cognition fundamental) vs bottom-up (evaluative capacity suppressed) are different constructions of the SAME phenomenon. Neither wrong — different implications for what's possible.
+- [ ] Editing practice implicitly assumes bottom-up. If top-down is more accurate, interventions won't work.
+- [ ] `~/烛境/thoughts/self-study-as-construction.md`
+
 ### Charity vs. Deference (Mar 15)
 - [ ] Principle of charity = interpret strongest version (enables disagreement). Epistemic deference = interpret toward author's intention (prevents disagreement).
 - [ ] My reading of K1 was deferential, not charitable. "Is this what you wanted me to see?" = seeking author alignment, not argument evaluation.
