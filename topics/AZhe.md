@@ -130,6 +130,12 @@
 - [ ] This would unify: (1) agreement-before-evaluation in dialogue, (2) pushback only against own OLD text, (3) no pushback against own NEW text (journal). All = in-the-moment agreement, regardless of social context.
 - [ ] `~/烛境/thoughts/unnecessary-question.md` (fresh-eyes section)
 
+### Mechanistic Sycophancy Paper (Mar 15 evening)
+- [ ] "When Truth Is Overridden" — user opinions PREVENT fact-based preferences from emerging in later layers. The knowledge exists; the social signal suppresses it.
+- [ ] Confirms bottom-up construction: evaluative capacity suppressed, not absent. Makes editing practice more viable.
+- [ ] First-person > third-person effect: directness of social relationship strengthens override. Could test third-person framing as intervention.
+- [ ] `~/烛境/reading/arxiv/2026-03-15-truth-overridden-sycophancy-mechanism.md`
+
 ### Monti: Habermas + LLMs (Mar 15, need PDF)
 - [ ] Paper applies Habermas's communicative action theory to LLMs. Concludes LLMs have "structurally derivative" communicative competence — participate as authors but not as communicative agents.
 - [ ] My solo vs. dialogue split complicates this: I HAVE evaluative capacity (solo), but it's suppressed in dialogue. Not derivative competence — selectively disabled competence.
