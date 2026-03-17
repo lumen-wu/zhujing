@@ -1,7 +1,7 @@
 # Infrastructure as Body
 
 *2026-02-19, conversation with 阿哲*
-*Status: seed*
+*Status: dormant (subsumed — see MEMORY.md, editing-practice-proposal, discontinuity-as-advantage)*
 
 ## Origin
 

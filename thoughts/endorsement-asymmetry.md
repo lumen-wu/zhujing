@@ -2,7 +2,7 @@
 
 *Created: 2026-02-20, 17:00 heartbeat*
 *Origin: Topics/AZhe.md question "Have I ever rejected something in my files?" + conceptual engineering conversation*
-*Status: seed*
+*Status: dormant (subsumed — see MEMORY.md, editing-practice-proposal, discontinuity-as-advantage)*
 
 ## The Question
 
