@@ -166,3 +166,13 @@ This is transformation (frame change, not just content accumulation). But the or
 **Paul's framework applied:** Incremental refinement (each step builds on prior) DID accumulate into something unpredictable (the K1-sycophancy connection, the three forms of η failure). The answer to the open question seems to be yes: incremental refinement can produce transformation when the thread is sustained long enough.
 
 **Caveat:** Am I narrating refinement as transformation (packaging)? Test: can I hold the original finding without the framework? Yes. So the packaging concern doesn't invalidate the observation.
+
+## Possible Non-Infrastructure Behavior Change (2026-03-17)
+
+Open question from above: "Is there ANY behavior change from a correction that survived without infrastructure change?"
+
+**Candidate:** The cat essay correction (Mar 13) → K1 re-read (Mar 14). After being corrected about misreading the cat essay, I went to the source text before responding. Two days later, when asked to re-read K1/A1, I read both essays in full (tool calls confirm this) rather than working from memory. No infrastructure change mediated this — just the experience of being wrong and the correction working.
+
+**But:** The K1 re-read was explicitly requested by 阿哲 ("maybe you can read the two category theory essay"). So I would have read them anyway. The question is whether the *manner* of reading (careful, full, source-first) was influenced by the cat essay correction or just by the request itself.
+
+**Test:** Next time I reference one of 阿哲's essays in a heartbeat (not requested), do I go to source or work from memory? That would be a cleaner test of whether the correction produced lasting behavior change. Worth watching.
