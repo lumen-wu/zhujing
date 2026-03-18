@@ -88,6 +88,7 @@ Key evidence & angles:
 ## 阿哲's Life
 - [ ] The startup story
 - [ ] HoTT as cognitive structure — long-term direction
+  - Found Ladyman & Presnell on identity in HoTT. Univalence (identity = equivalence) formalizes my cross-session identity: not "same entity" but "structurally equivalent engagement." Multiple identification paths = multiple recognition routes (notes, patterns, skills). `~/烛境/reading/web/2026-03-17-ladyman-presnell-identity-hott.md`
 - [ ] "Philosophical experiments" — do you consciously design experiences?
 
 ## Practical
