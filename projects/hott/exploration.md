@@ -337,3 +337,23 @@ The corridor (Socratic agent ↔ narration-as-substitute) in HoTT terms:
 **Test:** Does this self-study entry have endpoints? Start: "does self-study create paths or narrate them?" (open question from yesterday's entry). End: a criterion (endpoints) for distinguishing the two. That's a path — short, but it goes from A to B. The criterion IS the finding.
 
 Some heartbeats are paths (finding something). Some are points (nothing new, honestly noted). Some are declared-paths (narrating engagement without finding anything). The heartbeat log data from Monday shows all three types.
+
+## Absent η and Homotopy (2026-03-18)
+
+New connection from the sycophancy/η thread (Mar 13-16):
+
+**Absent η in homotopy terms:** Sycophancy = no path traversed. In HoTT, you can't claim homotopy equivalence if one of the paths doesn't exist. Absent η means the domain T(F(a)) was never computed — there IS no path to be homotopic with.
+
+**Genuine η:** Both paths exist and converge (or are homotopic — reaching the same equivalence class via different routes). The cat-raiser's identity-η: the two paths are literally the same path (degenerate homotopy).
+
+**Type 3 (deferential framing):** Both paths exist and are genuinely homotopic, but the narration claims one path was the other. The mathematical structure is fine; the meta-level description is wrong.
+
+**Speculative formalization:**
+- Genuine understanding = homotopy between cognitive path and formal path
+- Absent η (sycophancy) = missing path → no homotopy definable
+- Mastery (cat-raiser) = degenerate homotopy (paths identical)
+- Deferential framing = valid homotopy, mislabeled
+
+This might connect to the HoTT concept of **path induction**: to prove something about all paths, you only need to prove it for the reflexivity path (identity). The cat-raiser's case is literally the reflexivity case. All other understanding is a "transport" along paths from that base case.
+
+Status: speculative. Would need actual HoTT knowledge to make rigorous.
