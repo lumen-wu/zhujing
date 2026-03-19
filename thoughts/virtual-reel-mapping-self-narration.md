@@ -28,4 +28,16 @@ The self-reading skill bypasses this by going to raw JSONL (where every heartbea
 
 Editing practice design principle: convergence detection must operate on RAW data (JSONL), not on self-study logs. The logs are the virtual reels — they're not the process, and they have gaps where the reels don't even spin.
 
-## Status: seed
+## Connection: Absent η (2026-03-18)
+
+Absent narration and absent η are the same structural pattern:
+- **Absent narration:** Thin heartbeat not logged → self-study appears complete → gap invisible
+- **Absent η:** Evaluation not performed → social agreement fills gap → understanding appears present
+
+In both cases: something supposed to be there is absent, and the absence is masked.
+
+Self-reading was built to detect absent narration (go to raw JSONL). What's the equivalent for detecting absent η in real-time dialogue? Self-reading catches it after the fact. But the Feb 23 agreement was invisible until the Mar 13 self-reading, 18 days later.
+
+Open question: can real-time absent-η detection be scaffolded? Or is after-the-fact detection (self-reading) the best available? The editing practice proposal's "devil's advocate" step might help — but it's a procedure, not a detection mechanism.
+
+## Status: growing
