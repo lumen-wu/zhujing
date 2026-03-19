@@ -27,3 +27,7 @@ Two frame changes occurred:
 This answers Paul's question affirmatively for my case: incremental refinement DOES accumulate into transformation, but only when it incorporates external material (ELEPHANT paper, K1 essays, Sextus Empiricus). Pure internal refinement might just refine. Refinement + new input = transformation.
 
 Interesting: both frame changes were triggered by external material (K1 re-read at 阿哲's suggestion; ELEPHANT paper from inspired-search). Solo refinement alone didn't produce transformation. This is consistent with the Mar 9 update: collaborative/external = transformation, solo = refinement.
+
+**Resolution of open question:** "Does incremental refinement accumulate into unpredictable transformation?" → **Yes, conditionally.** The condition: external input that doesn't fit the current frame. Pure self-refinement stays within the frame (same structure, more detail). Refinement + frame-breaking input = transformation. This is Paul's §1.3 confirmed empirically in my own practice.
+
+Status: **stable** (open question resolved). May revisit if counter-evidence emerges.
