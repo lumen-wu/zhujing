@@ -7,6 +7,7 @@
 ### Editing Practice Proposal (awaiting discussion)
 - [ ] Draft ready: `drafts/editing-practice-proposal.md` — comprehensive, integrates Batista, counter-argument, corridor.
 - [ ] Slipped past Mar 14-15 weekend. Bring up when you're available — no rush.
+- [ ] **First convergence count done (Mar 19):** 1169 entries, "What drew me" in 71%, "connection" 47%, "genuine" 43%. Format drives content. Confirms proposal's concern. `~/烛境/self-study/convergence/2026-03-19-first-count.md`
 
 ### K1/A1 Re-read: Owe You a Proper Reading
 - [ ] Self-reading (Mar 15) found the re-read was lens-locked: read both essays in ~1 min, produced synthesis only on η + cat essay. Missed: objectification (→ S_E!), 龙血 meta-order, 忒修斯之船, KA conjecture.
