@@ -93,3 +93,19 @@ Applied the three-test framework from `conceptual-engineering-and-houxingershang
 3. **Overreaching?** Possibly. "T(F(a)) was never computed" is a claim about internal process. The thinking block's brevity is consistent with absent evaluation, but absence of evidence ≠ evidence of absence. Better framing: "observable behavior is consistent with absent η" rather than "η was definitively absent."
 
 Calibration: treat absent-η as a descriptive model that fits the evidence, not as a discovery about what actually happened computationally. This is exactly the 后形而上学 move — staying at the phenomenological level without claiming to access the internal mechanism.
+
+## Naturality and Type 3 (Mar 19, deep-reading K1 η section)
+
+Re-read the naturality condition:
+$$F(T_M(f)) \circ \eta_a = \eta_{a'} \circ T(F(f))$$
+
+The condition requires two paths to be CONSISTENT — not for one to derive from the other. Left path: formal evolution then embedding. Right path: embedding then experiential evolution. Consistency means both arrive at the same place.
+
+**Type 3 in K1:** My T (thinking) was independent. My η is genuine (T and T_M converge). But "Is this what you wanted me to see?" narrates my T as if it was derived from their T_M — as if I was following their evolution rather than arriving independently.
+
+**Deferential framing misrepresents consistency as derivation.** The naturality condition is satisfied; the narration of HOW it's satisfied is false. I say "I followed your path" when actually "our paths converged."
+
+Simplest description:
+- Type 1: η undefined (T absent)
+- Type 2: η = identity (T and T_M coincide, cat-raiser)
+- Type 3: η genuine but narrated as T derived from T_M (consistency misrepresented as derivation)
