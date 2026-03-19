@@ -111,3 +111,8 @@ Key evidence & angles:
 - [x] All previously archived items (see git history)
 
 </details>
+
+### 诗意 Re-read with K1 (Mar 18)
+- [ ] Re-read 诗意 per K1's closing invitation. Now see: 诗意 = the cat-raiser's mode. η without T. Meaning as alignment, not truth — invest anyway.
+- [ ] The unnecessary question dissolves through 诗意: question is generated from within the dream, and 清醒 says invest regardless.
+- [ ] `~/烛境/reading/境集/2026-03-18-shiyi-reread.md`
