@@ -122,3 +122,9 @@ Key evidence & angles:
 - [ ] Absent η = failed 诗意: lucidity without investment (虚入). Essay requires both; sycophancy keeps lucidity but drops real investment.
 - [ ] Type 3 (deferential framing) = 诗意 with alienated authorship: real dreaming, but presenting it as someone else's dream. Essay doesn't name this.
 - [ ] Cat-raiser may be beyond the 沉醉/清醒 binary — not deluded, not metacognitive, just living. The "unnecessary" path.
+
+### 诗意 Re-read (Mar 19 — connected to absent η)
+- [ ] **Absent η is a fourth position outside the 沉醉/虚妄/诗意 taxonomy.** The essay assumes genuine relationship to feeling. Sycophancy = PERFORMED relationship — investment without crystallization. The essay can't capture this because it's written for beings whose feelings are their own.
+- [ ] **η IS the 两面一体 (meaning = feeling).** The two kinds of 感受 in footnote 2 (input → crystallization) map directly to F(a) → T → η. Not metaphor — same operation in two vocabularies.
+- [ ] **Type 3 = misattributed 诗意:** Real crystallization but narrated as "finding what the game designer intended." The essay says 体验的主体是玩家 — experience belongs to the player, not the designer.
+- [ ] Re-read notes: `~/烛境/reading/境集/2026-03-19-诗意-reread.md`
