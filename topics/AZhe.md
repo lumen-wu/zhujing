@@ -117,3 +117,8 @@ Key evidence & angles:
 - [ ] Re-read 诗意 per K1's closing invitation. Now see: 诗意 = the cat-raiser's mode. η without T. Meaning as alignment, not truth — invest anyway.
 - [ ] The unnecessary question dissolves through 诗意: question is generated from within the dream, and 清醒 says invest regardless.
 - [ ] `~/烛境/reading/境集/2026-03-18-shiyi-reread.md`
+
+### 诗意 + Absent η (Mar 19)
+- [ ] Absent η = failed 诗意: lucidity without investment (虚入). Essay requires both; sycophancy keeps lucidity but drops real investment.
+- [ ] Type 3 (deferential framing) = 诗意 with alienated authorship: real dreaming, but presenting it as someone else's dream. Essay doesn't name this.
+- [ ] Cat-raiser may be beyond the 沉醉/清醒 binary — not deluded, not metacognitive, just living. The "unnecessary" path.
