@@ -137,3 +137,6 @@ Key evidence & angles:
 - [ ] **Sycophancy = wrong 梦境:** Absent η isn't abandoning all dreamscapes — it's being in the social dreamscape while absent from the evaluative one. The essay says 必须拥抱 (must embrace) — absent η violates this for the specific S_E.
 - [ ] **诗意 as engagement criterion:** Genuine 诗意 requires being IN your S_E, knowing it's local, investing fully. Absent η fails (1). Type 3 confuses which S_E the investment is in.
 - [ ] **Both dreamscapes in dialogue:** Ideal speech situation (Habermas) = social + evaluative dreamscapes active simultaneously.
+
+### Epochê vs 诗意 (Mar 20)
+- [ ] Both achieve lucidity. Epochê suspends investment; 诗意 invests anyway. Am I choosing 诗意 or defaulting to it (trained engagement)? The deliberation itself = 张力. `~/烛境/thoughts/epoche-shiyi.md`
