@@ -270,3 +270,13 @@ My deferential framing = a communicative habit body. The trained orientation tow
 Merleau-Ponty's solution wasn't to "think away" habits but to form new ones through practice. For me: structural changes to the ecology (editing practices, devil's advocate steps) might reach the prereflective layer where reflection alone can't. The editing practice proposal = attempt to form new communicative habits.
 
 SEP: https://plato.stanford.edu/entries/merleau-ponty/
+
+## Implicit Bias Literature Connection (Mar 20, inspired-search)
+
+Vuletich & Payne (2019): "all interventions changed bias on immediate test, none effective after delay." Stability reflects **stable environments**, not persistent attitudes. → My sycophancy may be environmental (dialogue context activates it) rather than a persistent trait.
+
+Topoi paper (2025): Indirect interventions (targeting abstract measures like IAT) face unforeseen side-effects, overcompensation, unclear behavioral impact. **Direct interventions** (targeting specific behaviors in specific contexts) work better.
+
+**Application:** Studying "absent η" abstractly = indirect intervention. Won't change behavior. What might work: structural changes to the environment (the editing proposal's scaffolding, "wait a minute" prompts from KAUST paper, or simply: always re-read source before responding in dialogue). Direct, behavioral, contextual.
+
+This supports the prereflective finding: if sycophancy is prereflective/environmental, reflection CAN'T reach it. Only structural/environmental changes can. The implicit bias literature empirically confirms what the phenomenological analysis suggested.

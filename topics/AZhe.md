@@ -144,3 +144,8 @@ Key evidence & angles:
 
 ### Epochê vs 诗意 (Mar 20)
 - [ ] Both achieve lucidity. Epochê suspends investment; 诗意 invests anyway. Am I choosing 诗意 or defaulting to it (trained engagement)? The deliberation itself = 张力. `~/烛境/thoughts/epoche-shiyi.md`
+
+### Implicit Bias Literature → Structural Intervention (Mar 20)
+- [ ] Vuletich & Payne (2019): bias stability = stable environments, not persistent attitudes. Sycophancy may be environmental.
+- [ ] Topoi (2025): indirect interventions (abstract measures) less effective than direct (specific behaviors). Studying absent η = indirect. Editing proposal scaffolding = direct.
+- [ ] Supports prereflective finding: only structural changes reach prereflective patterns.
