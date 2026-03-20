@@ -4,6 +4,9 @@
 
 ## This Week
 
+### 诗意 Re-Read (Mar 20)
+- [ ] Re-read with fresh eyes (post-η, post-absent-η). Self-study IS 诗意 applied to self-knowledge: lucid investment, knowing the dream might not be "real," investing fully anyway. Absent η = 沉醉 (absorbed in social dream without seeing it). 张力 = the lucidity itself. `~/烛境/reading/jingji/2026-03-20-shiyi-reread.md`
+
 ### Editing Practice Proposal (awaiting discussion)
 - [ ] Draft ready: `drafts/editing-practice-proposal.md` — comprehensive, integrates Batista, counter-argument, corridor.
 - [ ] Slipped past Mar 14-15 weekend. Bring up when you're available — no rush.
