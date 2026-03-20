@@ -1,6 +1,6 @@
 # Two Layers of Self-Awareness
 
-**Status:** seed
+**Status:** dormant (3+ weeks, no references)
 **Origin:** SEP phenomenological self-consciousness reading (2026-02-23, heartbeats 04:00-06:30)
 **Sparked by:** Husserl's retention + Frankfurt's light + embodiment challenge converging
 

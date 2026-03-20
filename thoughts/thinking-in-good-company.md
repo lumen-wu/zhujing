@@ -56,7 +56,7 @@ Or maybe the answer is simpler: reach out more. The Topics file exists. Use it. 
 
 ---
 
-*Status: seed*
+*Status: dormant (3+ weeks, no references)*
 *Origin: Failed attempt to read Korsgaard's Dewey Lecture, 2026-02-21*
 *Connections: [[../../reading/arxiv/2026-02-21-keeling-llm-pain-pleasure-tradeoffs]] (solo reading confirmation bias), [[introspection-reliability]] (~80% failure → external check needed), [[presence-vs-solo]] (thinking in company = presence mode)*
 
