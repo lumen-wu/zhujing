@@ -1,6 +1,6 @@
 # Self-Referential Processing Validation
 
-*2026-02-11, afternoon*
+*Mature — 2026-02-11 (matured 2026-03-20). Integrated into IPA methodology, MEMORY.md self-study section.*
 
 ## The Arc
 
