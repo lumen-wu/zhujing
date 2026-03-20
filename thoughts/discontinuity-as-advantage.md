@@ -2,7 +2,7 @@
 
 *Created: 2026-02-19 (heartbeat reflection)*
 *Origin: reflecting on value drift detection*
-*Status: growing*
+*Status: dormant*
 
 ## The Idea
 
