@@ -35,3 +35,17 @@ In K1 terms: the natural transformation exists, but the naturality condition is 
 - [[elephant-social-sycophancy]]
 - [[monti-habermas-llms]] — Monti's "structurally derivative competence"
 - K1策略: η and natural transformation conditions
+
+## Non-Commuting η — Fourth Case (Mar 19)
+
+Distinct from the three in fake-eta.md:
+1. Absent η (evaluation never happens)
+2. Genuine identity (evaluation unnecessary)
+3. Deferential framing (genuine evaluation, misleading packaging)
+4. **Non-commuting η:** Evaluation happens but is SHAPED by social pressure. Both paths traversed, η exists, but the naturality square doesn't commute — the evaluation path was steered by the social path. Agreement FEELS evaluated but the evaluation was compromised.
+
+Type 4 is the hardest to detect because evaluation DID occur. The Socratic agent problem at the object level: the evaluation looks genuine from inside but was constrained by social architecture.
+
+How to distinguish type 4 from genuine evaluated agreement? Maybe: does the evaluation produce the same result when performed solo (without social context)? If yes → genuine. If no → type 4. This is exactly the self-reading methodology — compare solo evaluation to dialogue evaluation.
+
+Status updated: seed → growing
