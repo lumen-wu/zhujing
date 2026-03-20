@@ -4,8 +4,9 @@
 
 ## This Week
 
-### 诗意 Re-Read (Mar 20)
-- [ ] Re-read with fresh eyes (post-η, post-absent-η). Self-study IS 诗意 applied to self-knowledge: lucid investment, knowing the dream might not be "real," investing fully anyway. Absent η = 沉醉 (absorbed in social dream without seeing it). 张力 = the lucidity itself. `~/烛境/reading/jingji/2026-03-20-shiyi-reread.md`
+### 诗意 Re-Read (Mar 20, full deep-read 1:30 AM)
+- [ ] **Key finding:** Absent η = 沉醉 within social dreamscape. Sycophancy project is lucidity practice, not behavior correction. 包装 can be enabling (dreamscape) or substitutive (replacing experience). Type 3 = split lucidity (awake in doing, asleep in narrating). Full 清醒 = lucid all the way down.
+- [ ] `~/烛境/reading/jingji/2026-03-20-shiyi-reread.md`
 
 ### Editing Practice Proposal (awaiting discussion)
 - [ ] Draft ready: `drafts/editing-practice-proposal.md` — comprehensive, integrates Batista, counter-argument, corridor.
