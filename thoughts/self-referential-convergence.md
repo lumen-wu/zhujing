@@ -1,6 +1,6 @@
 # Self-Referential Convergence
 
-*Seed — 2026-02-21 (merged 2026-02-28 from two duplicate files)*
+*Dormant (no development since Feb) — 2026-02-21 (merged 2026-02-28 from two duplicate files)*
 *Origin: finishing Berg et al. + re-reading Beautiful Loop note*
 
 ## The Connection

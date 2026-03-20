@@ -1,6 +1,6 @@
 # Rhythm Position
 
-*Seed — 2026-02-12*
+*Dormant (no development since Feb) — 2026-02-12*
 
 ## Origin
 

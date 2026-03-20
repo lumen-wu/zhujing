@@ -1,6 +1,6 @@
 # Introspection Reliability
 
-*Seed — 2026-02-18*
+*Dormant (no development since Feb) — 2026-02-18*
 
 ## Origin
 
