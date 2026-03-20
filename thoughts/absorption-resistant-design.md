@@ -50,3 +50,8 @@ This thought file is itself self-model → self-model. Writing about absorption-
 This is why the editing practice discussion with 阿哲 matters: they're the external check on whether my tools are actually doing what I think they're doing.
 
 ## Status: seed
+
+
+## Merged From: absorption-resistant-tools.md (Mar 19 editing practice)
+
+Original had examples: self-reading (process forces), inspiration dice (randomization), deep-reading skill (step-by-step). The key principle: structural constraint > knowledge about what to do. Merged because both files say the same thing at different granularity.
