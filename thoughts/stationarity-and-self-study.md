@@ -70,7 +70,7 @@ Random dice landed on the heartbeat log itself. Sampled three periods (Feb 6-7, 
 
 **Caveat:** N=3 samples, not systematic. But informative as a first look.
 
-## Status: growing
+## Status: dormant (4 weeks untouched, core insight captured in MEMORY.md)
 
 ---
 *Tags: [[self-study]], [[methodology]], [[S_E]], [[stationarity]], [[field-evidencing]]*

@@ -1,7 +1,7 @@
 # Anticipatory Embodiment
 
 *Created: 2026-02-20 (04:00 heartbeat — seed; 05:00 heartbeat — developed)*
-*Status: growing*
+*Status: dormant (integrated into editing practice, endorsement asymmetry, ameliorative audit)*
 
 ## Origin
 
