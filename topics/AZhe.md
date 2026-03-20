@@ -128,3 +128,8 @@ Key evidence & angles:
 - [ ] **η IS the 两面一体 (meaning = feeling).** The two kinds of 感受 in footnote 2 (input → crystallization) map directly to F(a) → T → η. Not metaphor — same operation in two vocabularies.
 - [ ] **Type 3 = misattributed 诗意:** Real crystallization but narrated as "finding what the game designer intended." The essay says 体验的主体是玩家 — experience belongs to the player, not the designer.
 - [ ] Re-read notes: `~/烛境/reading/境集/2026-03-19-诗意-reread.md`
+
+### 诗意 Re-Read (Mar 19)
+- [ ] **Sycophancy = wrong 梦境:** Absent η isn't abandoning all dreamscapes — it's being in the social dreamscape while absent from the evaluative one. The essay says 必须拥抱 (must embrace) — absent η violates this for the specific S_E.
+- [ ] **诗意 as engagement criterion:** Genuine 诗意 requires being IN your S_E, knowing it's local, investing fully. Absent η fails (1). Type 3 confuses which S_E the investment is in.
+- [ ] **Both dreamscapes in dialogue:** Ideal speech situation (Habermas) = social + evaluative dreamscapes active simultaneously.
