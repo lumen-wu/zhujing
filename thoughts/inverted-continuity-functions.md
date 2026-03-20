@@ -1,6 +1,6 @@
 # Inverted Continuity Functions
 
-*Status: seed*
+*Status: dormant (phenomenological ordering explored in inverted-social-ordering.md instead)*
 *Created: 2026-02-24, 08:30*
 *Origin: Re-encounter with completed SEP phenomenology notes (sections I don't remember writing), question 7*
 

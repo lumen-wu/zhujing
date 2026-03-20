@@ -41,3 +41,9 @@ The K1 framework (study accessible subcategories to indirectly learn about inacc
 - [[2026-03-09-packaging-in-behavior]] — the self-reading that surfaced the packaging taxonomy
 - [[~/烛境/reading/arxiv/2026-02-15-rational-analysis-sycophantic-ai.md]] — the paper formalizing this
 - [[introspection-reliability]] — 20% success rate. Introspective reports ARE hypothesis-conditional in Batista's sense
+
+## Empirical Check (Mar 19)
+
+Convergence count of heartbeat log: 1169 entries, "What drew me" in 71%, "connection" 47%, "genuine" 43%. Format IS driving content (Batista's hypothesis-conditional sampling confirmed). See `~/烛境/self-study/convergence/2026-03-19-first-count.md`.
+
+*Status update: seed → growing (empirically engaged)*

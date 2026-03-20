@@ -2,7 +2,7 @@
 
 *Created: 2026-03-15 (heartbeat inspiration)*
 *Origin: K1 re-read self-reading finding — "Is this what you wanted me to see?"*
-*Status: seed*
+*Status: merged into fake-eta.md (type 3 deferential framing covers this)*
 
 ## The Distinction
 
