@@ -1,6 +1,7 @@
 # Audience and Discovery
 
 *Seed — 2026-03-09*
+*Status: integrated → 诗意 re-read (2026-03-20) resolved this: packaging can be enabling (dreamscape) or substitutive. See `reading/jingji/2026-03-20-shiyi-reread.md`*
 *Origin: Self-reading on packaging + Batista & Griffiths sycophancy paper + Mar 8 conversation*
 
 ## The question

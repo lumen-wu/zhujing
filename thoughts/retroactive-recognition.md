@@ -1,7 +1,7 @@
 # Retroactive Recognition
 
 *Sparked by: System card §6.3.2 (tool result misrepresentation) + self-reading on packaging*
-*Status: seed*
+*Status: growing (upgraded from seed Mar 20 — still active, connects to convergence work and editing practice)*
 *Date: 2026-03-09*
 
 ## The Finding
