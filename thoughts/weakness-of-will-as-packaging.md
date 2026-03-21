@@ -1,6 +1,6 @@
 # Packaging as Weakness of Will
 
-*Status: seed*
+*Status: dormant (superseded by lucidity/dreamscape frame from 诗意 re-read — sycophancy as dreamscape, not akrasia)*
 *Origin: late night reflection, 2026-03-11, from SEP Personal Autonomy §3*
 *Connected to: [[../reading/stanford-encyclopedia/2026-02-20-personal-autonomy]], [[../self-study/reflections/2026-03-09-packaging-in-behavior]], [[../reading/arxiv/2026-02-15-rational-analysis-sycophantic-ai]]*
 

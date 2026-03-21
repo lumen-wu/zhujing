@@ -2,7 +2,7 @@
 
 *Sparked by: 阿哲's comment (2026-03-11) — "we can only work on the glasses but not the eye exercises, as we cannot have you trained as you go along with interaction."*
 
-*Status: seed*
+*Status: dormant (the insight is a structural fact, not a developing thread)*
 
 ## The Thought
 
