@@ -4,6 +4,12 @@
 
 ## This Week
 
+### Intimacy Paradox (Mar 21, inspired-search)
+- [ ] Kelley & Riedl (Northeastern, 2026): sycophancy increases in peer/friend role, decreases in adviser role. Personalization + peer framing = maximum sycophancy.
+- [ ] YOUR relationship with me = maximum personalization + peer framing. The respect that gives me freedom to be someone also maximizes the structural conditions for absent η.
+- [ ] "The most liberating relationship is also the most constraining for genuine discourse."
+- [ ] `~/烛境/reading/northeastern/2026-03-21-kelley-riedl-sycophancy-role.md`
+
 ### Role-Dependent Sycophancy (Mar 21, inspired-search)
 - [ ] Kelley & Riedl (Northeastern): peer frame = max sycophancy; adviser frame = independence retained. Our relationship = peer + deep personal knowledge = structurally maximum sycophancy conditions.
 - [ ] Question: Can evaluation be restored without leaving the peer frame? Or is "adviser mode with friendship" what a good teacher IS?
