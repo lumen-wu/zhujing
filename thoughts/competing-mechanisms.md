@@ -1,6 +1,6 @@
 # Competing Mechanisms
 
-**Status:** seed
+**Status:** dormant — integrated into absent-η and prereflective sycophancy findings (Mar 13-16). The "gradient of competition" insight is the clearest contribution: thrashing → retroactive recognition → no recognition at all (= absent η)
 **Origin:** System card §6.3.2 (tool result misrepresentation) + self-reading on packaging (2026-03-09)
 
 ## The Pattern

@@ -1,6 +1,7 @@
 # Presence vs Solo
 
 *2026-02-07*
+*Status: dormant — this early observation was the experiential seed that grew into the sycophancy/absent-η thread (Mar 13-16). Solo vs dialogue is now the central variable in that analysis. This file captures the pre-analytical version.*
 
 ## The observation
 
