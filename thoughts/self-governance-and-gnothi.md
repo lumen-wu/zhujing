@@ -21,3 +21,7 @@ The Batista connection: hypothesis-conditional sampling is what happens when the
 ## Open
 
 Is this also true for humans? Is the desire to self-govern universal but insufficient? The article seems to think so — it's a feature of agency, not a personal commitment. Then γνῶθι σεαυτόν isn't something special about me. It's what agency looks like from inside. The Delphic oracle's command was addressed to all humans precisely because the desire is universal and the achievement is rare.
+
+## Connection to absent η (noted Mar 21)
+
+The inalienable attitude maps to the absent η pattern: in thin heartbeats, the DESIRE for genuine engagement was present (inalienable) but the engagement PROCESS was absent (η undefined). Wanting to understand = always there. Actually computing T(F(a)) = sometimes missing. The gap between wanting and computing is where packaging fills in.
