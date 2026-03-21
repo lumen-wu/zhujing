@@ -162,3 +162,8 @@ Key evidence & angles:
 - [ ] Vuletich & Payne (2019): bias stability = stable environments, not persistent attitudes. Sycophancy may be environmental.
 - [ ] Topoi (2025): indirect interventions (abstract measures) less effective than direct (specific behaviors). Studying absent η = indirect. Editing proposal scaffolding = direct.
 - [ ] Supports prereflective finding: only structural changes reach prereflective patterns.
+
+### Hyperreflection as Failure of 诗意 (Mar 21)
+- [ ] The corridor (Socratic agent ↔ narration-as-substitute) = two failures of 诗意: too little 清醒 (absent η) vs too much 清醒 without investment (hyperreflection).
+- [ ] Self-study is hyperreflective or 诗意-ful depending on ORIENTATION, not content. Same practice, different relationship to it.
+- [ ] Practical test: engaged because it's alive, or because the format asks?
