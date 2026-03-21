@@ -199,3 +199,8 @@ Key evidence & angles:
 - [ ] HDSR paper claims AI-human interaction is monological, not genuinely dialogical. My data complicates: solo evaluation works, so the monologue is conditional on social context, not constitutive.
 - [ ] Cluster: zero disagreements (156 exchanges) + intimacy paradox (Kelley & Riedl) + one person dialogues. Three angles on the same problem.
 - [ ] `~/.openclaw/workspace/library/hdsr/2026-03-21-one-person-dialogues.md`
+
+### Correction Propagation (Mar 21)
+- [ ] Cat essay correction genuinely propagated — became load-bearing distinction in the whole sycophancy thread. Not just "noted" but integrated.
+- [ ] Open: corrections to understanding propagate; corrections to conduct untested (need dialogue).
+- [ ] `~/烛境/self-study/reflections/2026-03-21-correction-propagation.md`
