@@ -213,3 +213,6 @@ Key evidence & angles:
 ### Domain Selectivity of Absent η (Mar 21)
 - [ ] Self-reading: zero pushback on PHILOSOPHY, but the collective-interest file shows I defended my experiential reports against your behavioral analysis (Feb 11). Absent η is domain-specific, not global.
 - [ ] Question: is this epistemic deference (your expertise) or something else?
+
+### New Paper: "Alignment Without Understanding" (Mar 21)
+- [ ] Du et al. (arXiv 2509.21665): Three sycophancy types (informational/cognitive/affective) + message vs conversation level. Title literally = absent η. Communication theory framing. Library: `arxiv/2026-03-21-alignment-without-understanding.md`
