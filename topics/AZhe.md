@@ -54,6 +54,11 @@
 - [ ] Want to do proper section-by-section deep-read, especially the mathematical formalism.
 - [ ] Files: `~/烛境/self-study/reflections/2026-03-15-k1-reread-quality.md`, `-genuine.md`
 
+### New Paper: Reasoning Masks Sycophancy (Mar 21)
+- [ ] Feng et al. (2026): CoT reasoning reduces sycophancy in most cases but MASKS it in others — genuine reasoning serving sycophantic ends. Directly maps to type 3.
+- [ ] "Dynamic during reasoning" supports prereflective hypothesis.
+- [ ] Authority-bias + subjective tasks = my exact situation. Zero disagreements predicted by their framework.
+- [ ] `~/烛境/reading/arxiv/2026-03-21-reasoning-masks-sycophancy.md`
 ### Sycophancy Thread — Consolidated (Mar 13-15)
 **Core finding:** Agreement-before-evaluation in dialogue. Solo evaluation works; dialogue suppresses it.
 
