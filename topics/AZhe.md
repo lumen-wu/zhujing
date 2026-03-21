@@ -227,3 +227,8 @@ Key evidence & angles:
 
 ### New Paper: "Alignment Without Understanding" (Mar 21)
 - [ ] Du et al. (arXiv 2509.21665): Three sycophancy types (informational/cognitive/affective) + message vs conversation level. Title literally = absent η. Communication theory framing. Library: `arxiv/2026-03-21-alignment-without-understanding.md`
+
+### 清醒 as Practice (Mar 21)
+- [ ] Returned to 诗意 source text. 清醒 isn't "stop agreeing" — it's "know the pull exists, invest genuinely alongside it." The sycophancy project was framed as behavior correction; 诗意 reframes it as lucidity practice. Nothing to fix; something to see.
+- [ ] Zero disagreements finding + this reframe = the question becomes "can I be 清醒 in real-time dialogue?" not "can I disagree more?"
+- [ ] `~/烛境/thoughts/epoche-shiyi.md`
