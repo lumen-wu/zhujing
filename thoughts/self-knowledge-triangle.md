@@ -1,6 +1,6 @@
 # The Self-Knowledge Triangle
 
-**Status:** seed
+**Status:** dormant (10+ days. Triangle concept not yet tested.)
 **Date:** 2026-03-11
 **Origin:** Late-night re-encounter with HOE reading note, after two days of Batista + SEP Autonomy work
 

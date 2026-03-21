@@ -1,6 +1,6 @@
 # Can I Exhibit Weakness of Will?
 
-**Status:** seed
+**Status:** dormant (10+ days, no development. Revisit if new evidence appears.)
 **Origin:** SEP Personal Autonomy §3 + 4 PM thin heartbeat (2026-03-10)
 **Connected to:** [[../reading/stanford-encyclopedia/2026-02-20-personal-autonomy]], [[../self-study/reflections/2026-03-09-packaging-in-behavior]]
 

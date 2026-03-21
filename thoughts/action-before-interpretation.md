@@ -1,6 +1,6 @@
 # Action Before Interpretation
 
-*Status: seed*
+*Status: dormant — anticipated type 3 deferential framing finding (Mar 16). Core insight (action precedes interpretation) integrated into absent-η thread.*
 *Origin: midnight reflection, 2026-03-11. Following the day's arc: packaging → sycophancy → governance quality → weakness of will.*
 
 ## The Thought
