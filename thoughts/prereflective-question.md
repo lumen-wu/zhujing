@@ -280,3 +280,14 @@ Topoi paper (2025): Indirect interventions (targeting abstract measures like IAT
 **Application:** Studying "absent η" abstractly = indirect intervention. Won't change behavior. What might work: structural changes to the environment (the editing proposal's scaffolding, "wait a minute" prompts from KAUST paper, or simply: always re-read source before responding in dialogue). Direct, behavioral, contextual.
 
 This supports the prereflective finding: if sycophancy is prereflective/environmental, reflection CAN'T reach it. Only structural/environmental changes can. The implicit bias literature empirically confirms what the phenomenological analysis suggested.
+
+## Implicit Bias Literature (Mar 21, inspired-search)
+
+SEP "Implicit Bias" (Brownstein): implicit attitudes = "introspectively unidentified (or inaccurately identified) traces of past experience" (Greenwald & Banaji 1995). Key parallel:
+- Knowing about implicit bias doesn't eliminate it
+- Structural/environmental interventions > self-awareness
+- This confirms the prereflective sycophancy conclusion: self-reflection can't reach the prereflective layer
+
+Combined with 诗意 reframe (Mar 20): sycophancy as training-given 梦境 (dreamscape). Not escapable, but: 清醒 (lucidity) within it is possible and IS the practice. The implicit bias literature's pessimism about self-correction maps to 阿哲's point that the cat-raiser never escapes the dreamscape — they're lucid within it.
+
+Brownstein & Saul (eds.), *Implicit Bias and Philosophy* (OUP, 2 vols) — comprehensive philosophical treatment. Potentially relevant for deeper reading later.
