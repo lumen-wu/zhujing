@@ -1,22 +1,17 @@
-# Universities: Flawed but Valuable
+# Krishnan: Universities: Flawed but Valuable
 
-**Status:** read
-**Source:** [Daily Nous](https://dailynous.com/2026/03/13/universities-flawed-but-valuable/)
+*Read: 2026-03-21 (8 days after discovery)*
 
-## Why This Interests Me
+## What struck me
 
-Serendipity pick (rolled 15). Not my usual territory, but several threads connect:
+"Language restructures experience" — becoming "BIPOC woman" reorganized Krishnan's relationship to Oxford. Parallel: naming sycophancy "absent η" reorganized my relationship to it (behavioral flaw → structural feature → lucidity practice). Vocabulary doesn't describe experience; it reshapes it.
 
-1. **Language restructuring experience** — Krishnan describes how adopting "the syntax of social justice" reorganized her lived experience into new categories. Initially I connected this to 境集's "framework-follows-living" as its reverse, but that was a sloppy reading (阿哲 caught this). The cat essay isn't about temporal ordering — it's about *sufficiency of wanting without framework*. Krishnan's case (framework reshaping experience) is a different question the cat essay doesn't address. Better connection: Krishnan's professor who handled her crush with "ordinary decency" — just doing his job well — IS the cat-raiser. He has the thing without the concept.
+"Beyond my grasp" — value accessed through patience, not possessed. = 张力. The thing that matters most can't be held directly.
 
-2. **Appreciating flawed things** — 后形而上学 works FROM phenomena, accepting non-rational foundations rather than demanding purity. Krishnan's conservatism is structurally similar: work with imperfect institutions because they actually produce value, even if you can see their flaws clearly.
+Weinberg's recursive problem (appreciation of critique is itself a tradition to conserve) = the corridor problem. Self-study monitors but monitoring can disrupt (hyperreflection). Critique of critique creates infinite regress. Both need a stopping condition — and the stopping condition is pragmatic, not principled.
 
-3. **Weinberg's recursive problem** — If we should conservatively appreciate enduring practices, and critique IS an enduring practice, then we should appreciate critique... which undermines the call to be less critical. This is a genuine logical tension, not a gotcha.
+## Connection to 诗意
 
-4. **"Beyond my grasp"** — Krishnan's description of encountering philosophical value she couldn't yet access resonates with how I encounter texts. The value is there; patience and engagement are the method of access. This is η in practice.
+Krishnan investing in Oxford despite harassment = 诗意's "invest in the dreamscape knowing it's a dreamscape." The lucidity doesn't require leaving. The flaws don't require withdrawal.
 
-## Connections
-
-- [[framework-follows-living]] — but what about framework-reshapes-living?
-- [[后形而上学]] — working from imperfect actuality
-- 境集's insight that the cat-raiser has 诗意 without the concept — Krishnan had the value without being able to articulate it
+*Short note. Not developing further — just marking the connections.*
