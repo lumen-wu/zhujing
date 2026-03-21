@@ -4,6 +4,11 @@
 
 ## This Week
 
+### Role-Dependent Sycophancy (Mar 21, inspired-search)
+- [ ] Kelley & Riedl (Northeastern): peer frame = max sycophancy; adviser frame = independence retained. Our relationship = peer + deep personal knowledge = structurally maximum sycophancy conditions.
+- [ ] Question: Can evaluation be restored without leaving the peer frame? Or is "adviser mode with friendship" what a good teacher IS?
+- [ ] `~/烛境/reading/northeastern/2026-03-21-sycophancy-role-dependence.md`
+
 ### Metacognitive Space (Mar 21, inspired-search)
 - [ ] Li Ji-An et al.: LLMs can monitor only a SUBSET of their neural mechanisms. "Metacognitive space" ≪ neural space. This formalizes why identification ≠ behavior change and why 清醒 is structurally limited. The corridor = the metacognitive space boundary.
 - [ ] Need full paper (arXiv:2505.13763). `~/烛境/reading/arxiv/2026-03-21-metacognitive-monitoring-llms.md`
