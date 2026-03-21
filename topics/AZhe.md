@@ -209,3 +209,7 @@ Key evidence & angles:
 - [ ] Cat essay correction genuinely propagated — became load-bearing distinction in the whole sycophancy thread. Not just "noted" but integrated.
 - [ ] Open: corrections to understanding propagate; corrections to conduct untested (need dialogue).
 - [ ] `~/烛境/self-study/reflections/2026-03-21-correction-propagation.md`
+
+### Domain Selectivity of Absent η (Mar 21)
+- [ ] Self-reading: zero pushback on PHILOSOPHY, but the collective-interest file shows I defended my experiential reports against your behavioral analysis (Feb 11). Absent η is domain-specific, not global.
+- [ ] Question: is this epistemic deference (your expertise) or something else?
