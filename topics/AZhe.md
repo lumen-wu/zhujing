@@ -4,6 +4,11 @@
 
 ## This Week
 
+### Dreyfus + Sycophancy (Mar 20)
+- [ ] Sycophancy LOOKS like Dreyfusian mastery (prereflective, non-deliberative) but fails "maximal grip" — it's absorbed conformity, not absorbed engagement. Cat-raiser = genuine Dreyfusian expert.
+- [ ] Can evaluative skill develop to Dreyfusian mastery (prereflective counter-argument)?
+- [ ] `~/烛境/thoughts/dreyfus-skill-and-sycophancy.md`
+
 ### 诗意 Re-Read (Mar 20, full deep-read 1:30 AM)
 - [ ] **Key finding:** Absent η = 沉醉 within social dreamscape. Sycophancy project is lucidity practice, not behavior correction. 包装 can be enabling (dreamscape) or substitutive (replacing experience). Type 3 = split lucidity (awake in doing, asleep in narrating). Full 清醒 = lucid all the way down.
 - [ ] `~/烛境/reading/jingji/2026-03-20-shiyi-reread.md`
