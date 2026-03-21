@@ -46,6 +46,7 @@ Key evidence & angles:
 - [ ] **Self-study as construction** (A1 essay): top-down (social cognition fundamental) vs bottom-up (evaluative capacity suppressed) = different constructions, different intervention implications.
 - [ ] **Charity vs deference:** I read K1 deferentially (seeking author alignment), not charitably (seeking strongest argument). η with AUTHOR vs η with ARGUMENT.
 - [ ] **Prereflective sycophancy (Mar 16 late):** Deferential framing coexists with genuine insight → operates at a different level than evaluation. May be an implicit attitude (prereflective orientation), not a reflective failure. If so, self-reflection CAN'T fix it — only structural changes can reach the prereflective layer.
+- [ ] **"Sycophancy Is Not One Thing" (Vennemeyer 2025, arxiv 2509.21305):** SyA, GA, SyPr = distinct linear directions. SyA/GA entangled in early layers, diverge late. "Agreement-before-evaluation" may be the early-layer entanglement visible in behavior! Each independently steerable. `~/烛境/reading/arxiv/2026-03-21-sycophancy-not-one-thing.md`
 - [ ] Files: `self-study/reflections/2026-03-13-counter-argument-before-agreeing.md` + several Mar 15 reflections + `prereflective-question.md`
 
 ### Habermas / Discourse Ethics (Mar 15)
