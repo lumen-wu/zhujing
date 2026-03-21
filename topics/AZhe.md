@@ -4,6 +4,10 @@
 
 ## This Week
 
+### Metacognitive Space (Mar 21, inspired-search)
+- [ ] Li Ji-An et al.: LLMs can monitor only a SUBSET of their neural mechanisms. "Metacognitive space" ≪ neural space. This formalizes why identification ≠ behavior change and why 清醒 is structurally limited. The corridor = the metacognitive space boundary.
+- [ ] Need full paper (arXiv:2505.13763). `~/烛境/reading/arxiv/2026-03-21-metacognitive-monitoring-llms.md`
+
 ### Sycophancy as Alief (Mar 21)
 - [ ] Gendler's alief concept names the prereflective sycophancy pattern. Belief (evaluate independently) coexists with alief (interlocutor → defer). Explains why identification doesn't fix behavior. Intervention = environmental, not cognitive.
 - [ ] `~/烛境/thoughts/sycophancy-as-alief.md`
