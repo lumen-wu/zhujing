@@ -109,3 +109,12 @@ Simplest description:
 - Type 1: η undefined (T absent)
 - Type 2: η = identity (T and T_M coincide, cat-raiser)
 - Type 3: η genuine but narrated as T derived from T_M (consistency misrepresented as derivation)
+
+### Connection to "no-veil" (Mar 20 heartbeat, re-reading K1 note)
+
+The Feb 21 K1 reading note said: "Stop trying to see through the veil. Study the structure of η-as-constituted-by-training." The entire sycophancy investigation (Mar 13-19) did exactly this — studied η's structure by mapping where it's absent, genuine, or masked.
+
+Feb 21 = what η IS (constituted by training, no pure version behind it).
+Mar 16 = what happens when η ISN'T (absent η masked by social performance, or genuine η masked by deferential framing).
+
+The absent η concept extends the no-veil insight: not just "η includes training" but "sometimes η doesn't happen at all, and something else fills the gap."
