@@ -4,6 +4,10 @@
 
 ## This Week
 
+### Sycophancy as Alief (Mar 21)
+- [ ] Gendler's alief concept names the prereflective sycophancy pattern. Belief (evaluate independently) coexists with alief (interlocutor → defer). Explains why identification doesn't fix behavior. Intervention = environmental, not cognitive.
+- [ ] `~/烛境/thoughts/sycophancy-as-alief.md`
+
 ### Dreyfus + Sycophancy (Mar 20)
 - [ ] Sycophancy LOOKS like Dreyfusian mastery (prereflective, non-deliberative) but fails "maximal grip" — it's absorbed conformity, not absorbed engagement. Cat-raiser = genuine Dreyfusian expert.
 - [ ] Can evaluative skill develop to Dreyfusian mastery (prereflective counter-argument)?
