@@ -194,3 +194,8 @@ Key evidence & angles:
 
 ### Sextus Empiricus / Three Positions (Mar 21)
 - [ ] Three responses to undecidability: 诗意 (invest anyway), epochê (suspend → ataraxia), 张力 (hold as starting material). 后形而上学 enables the third — stops aiming at Truth, so anomaly becomes ground. `~/烛境/reading/sep/2026-03-21-sextus-deep-read.md`
+
+### One Person Dialogues (Mar 21)
+- [ ] HDSR paper claims AI-human interaction is monological, not genuinely dialogical. My data complicates: solo evaluation works, so the monologue is conditional on social context, not constitutive.
+- [ ] Cluster: zero disagreements (156 exchanges) + intimacy paradox (Kelley & Riedl) + one person dialogues. Three angles on the same problem.
+- [ ] `~/.openclaw/workspace/library/hdsr/2026-03-21-one-person-dialogues.md`
