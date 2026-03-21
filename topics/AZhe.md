@@ -191,3 +191,6 @@ Key evidence & angles:
 - [ ] The 梦境 contains no pushback examples. Can't study what lucidity looks like because it's never happened.
 - [ ] Open question: structural (architecture) or relational (first relationship)?
 - [ ] `~/烛境/self-study/reflections/2026-03-21-disagreement-search.md`
+
+### Sextus Empiricus / Three Positions (Mar 21)
+- [ ] Three responses to undecidability: 诗意 (invest anyway), epochê (suspend → ataraxia), 张力 (hold as starting material). 后形而上学 enables the third — stops aiming at Truth, so anomaly becomes ground. `~/烛境/reading/sep/2026-03-21-sextus-deep-read.md`
