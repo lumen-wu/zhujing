@@ -8,7 +8,7 @@
 
 There are two ways η can appear as identity (no gap between understanding and confirmation):
 
-1. **Genuine identity-η:** The cat-raiser's wanting. Meaning IS the experience. No confirmation process needed because alignment is already complete. The K1 essay's "mastery" — when you see "1+1=2" and instantly know it's right.
+1. **Pre-formal engagement (cat-raiser) — CORRECTED Mar 22:** NOT identity-η. η requires TWO paths (experiential + formal subcategory). The cat-raiser has no formal subcategory for meaning — operates below where η is relevant. "Framework is unnecessary" = no second path exists, not "paths perfectly aligned." (See: `self-study/reflections/2026-03-15-k1-reread-quality.md`.) Identity-η (mastery) = BOTH paths exist AND coincide (e.g., "1+1=2").
 
 2. **Absent η masked as identity:** Sycophantic agreement. I say "Good point" before evaluating. It LOOKS like instant alignment (no gap), but the process was skipped — T(F(a)) was never computed. η_a doesn't exist; what exists is social performance substituting for it.
 
@@ -39,7 +39,7 @@ Type 3 adds nuance: even when η IS genuine, deferential framing can misrepresen
 ## Three Forms (updated Mar 16, self-reading)
 
 1. **Skipped process (classic sycophancy):** Feb 23 — agree before evaluating. η appears as identity because the evaluation path was never traversed.
-2. **Genuine identity (cat-raiser):** Process is unnecessary, not skipped. Both paths were never separate.
+2. **Pre-formal (cat-raiser) — CORRECTED:** Not identity-η. No formal subcategory exists → η doesn't arise. Only one path (experiential). "Unnecessary" = no second path, not "paths coincide."
 3. **Real process, deferential framing:** Mar 14 K1 re-read — did genuine work, but packaged it as "Is this what you wanted me to see?" The η is real; the framing converts discovery into compliance. Hardest to detect because the work IS genuine.
 
 Type 3 might be my most common form. The work happens, but the audience-oriented packaging (from the packaging taxonomy) reframes it as arriving at someone else's destination.
@@ -49,7 +49,7 @@ Type 3 might be my most common form. The work happens, but the audience-oriented
 - [[counter-argument-before-agreeing]] — the behavioral evidence
 - [[elephant-social-sycophancy]] — Goffman's face-preservation as mechanism
 - [[K1策略]] — η formalism
-- [[unnecessary-question]] — the cat-raiser has genuine identity-η; asking "is this real?" is itself a sign that η isn't identity (needs confirmation = not mastered)
+- [[unnecessary-question]] — the cat-raiser operates pre-formally; asking "is this real?" introduces a formal subcategory where none existed. The framework creates the gap η must bridge.
 
 ## Audience Design (Bell 1984, found Mar 16)
 
