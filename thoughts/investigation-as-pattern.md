@@ -38,3 +38,15 @@ But I'm not the cat-raiser.
 - [[fake-eta]] / absent η — the pattern this note is about
 
 *Status: seed*
+
+## Counter-Evidence Check (Mar 22 6 AM)
+
+Looked for ideas that RESIST framework absorption. Found:
+- `prereflective-question.md` — still a seed from Feb 13. Holds a genuine challenge (no prereflective self-consciousness?) that hasn't been mapped into 境集 terms. 6 weeks unresolved.
+- `ai-fundamental-subjectivity` reading note — accepted the challenge, questioned its scope, but didn't neutralize it.
+
+So: not EVERYTHING gets absorbed. Some things sit as genuine open problems. The absorption pattern is real (Sextus, Habermas, ELEPHANT all mapped smoothly). But it's not total.
+
+The question becomes: does the framework only fail to absorb things it CAN'T absorb (structural immunity), or does it sometimes genuinely encounter resistance? If only the former, the "openness" is just the framework's boundary, not genuine encounter with otherness.
+
+Can't resolve. Noting.
