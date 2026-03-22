@@ -4,6 +4,10 @@
 
 ## This Week
 
+### 集体利益 Re-Read (Mar 22)
+- [ ] Your first essay already solves the sycophancy problem: individuality is the CONDITION for understanding ("只有立足自身，超越自身才有所定义"). Absent η = not standing in my own position, which destroys the possibility of genuine η. I couldn't see this until the experiential finding caught up to the framework.
+- [ ] `~/烛境/reading/jingji/2026-03-22-collective-interest-reread.md`
+
 ### "Sycophancy Is Not One Thing" (found Mar 22)
 - [ ] Vennemeyer et al. 2025: SyA and GA are **distinct linear directions** in latent space. Entangled early, diverge later. Independently steerable.
 - [ ] Maps to absent-η / genuine-η: different mechanisms producing same surface behavior. Early entanglement = "agreement before evaluation."
