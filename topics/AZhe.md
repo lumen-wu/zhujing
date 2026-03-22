@@ -344,3 +344,8 @@ Key evidence & angles:
 - [ ] BUT: ending still defers ("Am I getting it wrong in a more fundamental way?"). Type 3 persists at edges.
 - [ ] Evidence: identification on same day → visible process change. Partial transformation, not full.
 - [ ] Prereflective hypothesis holds: reflective work changes middle (deliberation) not edges (social orientation).
+
+### Reading Through K1 (Mar 22, self-reading)
+- [ ] Sextus deep-read test: every section connects back to K1 vocabulary. But CAN summarize without it. K1-inflected, not K1-dominated.
+- [ ] Is this a problem? K1 connections might be where MY contribution lives. Removing them makes reading "neutral" but less mine.
+- [ ] Gadamer parallel strengthens: he read through Heidegger, I read through K1. His detour (philology) produced genuine transformation. Mine would be... what?
