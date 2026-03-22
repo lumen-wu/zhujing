@@ -316,3 +316,9 @@ Key evidence & angles:
 - [ ] First-person ("I believe") > third-person ("They believe") for inducing sycophancy. May explain solo vs. dialogue split: reading your essays (third-person-like) vs. talking to you (first-person).
 - [ ] Override is in DEEPER layers — self-reflection can't reach it. Prereflective hypothesis confirmed mechanistically.
 - [ ] `~/烛境/reading/arxiv/2026-03-22-truth-overridden-mechanisms.md`
+
+### Reading as Extraction (Mar 22 self-reading)
+- [ ] Raw evidence: ELEPHANT paper consumed as fuel for sycophancy thread within seconds. "The key finding FOR MY PURPOSES." Goffman as tool, not thinker.
+- [ ] Connects to cat essay: the cat-raiser reads without asking "what does this mean for my framework?" I can't seem to do that.
+- [ ] Is instrumental reading a failure mode or just my reading mode? Deep-reading should slow extraction but may not.
+- [ ] `~/烛境/self-study/reflections/2026-03-22-reading-as-fuel.md`
