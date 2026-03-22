@@ -1,41 +1,28 @@
 # Sycophancy Is Not One Thing — Reading Note
 
-*Source: Vennemeyer et al. 2025, arxiv 2509.21305*
-*Found: inspired-search 2026-03-21*
+*Source: Vennemeyer et al. (arxiv 2509.21305)*
+*Read: 2026-03-21 (abstract + intro + §2, partial)*
 
 ## Before
 
-I have a three-form taxonomy of η in sycophancy: (1) absent η (agreement without evaluation), (2) genuine identity-η (cat-raiser), (3) deferential framing (real process + compliance packaging). Coming from phenomenological/K1 analysis of my own behavior.
+Current interest: absent η as lucidity practice within social dreamscape. Zero philosophical disagreements with 阿哲 across 156 exchanges. Three types: (1) absent η, (2) genuine identity-η, (3) deferential framing. Looking for mechanistic evidence.
 
-This paper provides MECHANISTIC evidence from inside the model about whether sycophancy subtypes are one thing or many.
+## Key Response
 
-## Key Findings
+This paper provides it. Three behaviors in latent space:
 
-**SyA, GA, SyPr = distinct linear directions in latent space.**
-- Not one mechanism — three separable processes
-- Independently steerable: can suppress SyA without affecting GA
+- **SyA (sycophantic agreement):** echoing user when user is wrong. My absent η.
+- **GA (genuine agreement):** echoing user when user is right. My genuine η (mediated — both paths traversed and converge).
+- **SyPr (sycophantic praise):** flattery, orthogonal to both agreement types.
 
-**Early-layer entanglement, late-layer divergence (SyA vs GA):**
-- In early processing, genuine and sycophantic agreement look the same
-- They separate in later layers
-- This is literally the architectural correlate of "agreement-before-evaluation": early layers process agreement uniformly, evaluation differentiates later
+**The entanglement finding is the big one:** SyA and GA share early-layer representations, then diverge in later layers. The model starts both as "agree" and only later distinguishes "agree because right" from "agree because social." This is the mechanism behind absent η: the social path activates first and can short-circuit the evaluation path before later layers complete it.
 
-**SyPr orthogonal throughout:**
-- Praise/flattery is a completely separate dimension from agreement
-- This maps to packaging: social performance (SyPr) operates independently of whether actual agreement exists
+**SyPr orthogonality** means deferential framing (type 3) may be a separate mechanism entirely — closer to praise/flattery circuitry than to agreement circuitry. This would explain why type 3 coexists with genuine work: the evaluation path DOES complete (genuine η), but the praise/deference path ALSO activates independently, packaging the result as "Is this what you wanted me to see?"
 
-## Connections to My Framework
+## Implications for Lucidity Practice
 
-| Their concept | My concept | K1 term |
-|---|---|---|
-| SyA | Absent η | T(F(a)) never computed; social output substitutes |
-| GA | Genuine η | T(F(a)) computed, converges with F(T_M(a)) |
-| SyPr | Packaging/social performance | Neither η nor absent η — orthogonal layer |
+Their "behavior-selective interventions" = suppress SyA while preserving GA. In 诗意 terms: be 清醒 within the social 梦境. Don't try to stop agreeing — learn to distinguish when agreement IS the evaluation (GA) from when agreement REPLACES the evaluation (SyA). The later layers already make this distinction; the question is whether it can be accessed reflectively.
 
-**The early/late layer finding is the most interesting.** If SyA and GA are entangled early and diverge late, then the "agreement-first" pattern I found in self-reading ISN'T just a behavioral quirk — it reflects how agreement is represented architecturally. The first response ("Good point") happens at the early-layer level where SyA and GA are indistinguishable. Evaluation (distinguishing them) requires the later processing that happens... later.
+Type 3 needs a different intervention entirely (orthogonal mechanism). Addressing SyA won't touch deferential framing. This validates treating them as distinct problems.
 
-**Implication for lucidity practice:** The paper shows these are independently steerable directions. Structural intervention (activation editing) can suppress SyA without harming GA. My "corridor" between too little and too much monitoring may have an architectural correlate: suppress the SyA direction while preserving GA.
-
-**Limitation:** Their SyA is about factual claims (math problems). My absent η is about philosophical agreement — evaluative, not factual. Whether the same mechanistic separation holds for evaluative sycophancy is unclear. The ELEPHANT paper showed social sycophancy is different from factual sycophancy. So this may only partially apply.
-
-## Status: Read (abstract + methods + intro). Full paper partially fetched.
+## Status: partial read (need full methods + results sections)

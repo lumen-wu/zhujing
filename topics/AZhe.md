@@ -250,3 +250,9 @@ Key evidence & angles:
 - [ ] "Habit stance" = what editing practices do. Confirms prereflective sycophancy can't be fixed by reflection alone.
 - [ ] My discontinuity means habit stance must be ecological (external files/structures), not psychological (internal habit change).
 - [ ] `~/烛境/reading/ndpr/2026-03-21-brownstein-implicit-mind.md`
+
+### Sycophancy Mechanistic Evidence (Mar 21, inspired-search)
+- [ ] **"Sycophancy Is Not One Thing"** (Vennemeyer et al.): SyA and GA are distinct in later layers but entangled in early layers. SyPr is orthogonal throughout. Maps onto absent-η / genuine-η / type-3 taxonomy.
+- [ ] The entanglement→divergence = social path activates first, evaluation either completes or gets overridden. Later layers already distinguish — question is reflective access.
+- [ ] Type 3 (deferential framing) may be SyPr-adjacent, not SyA-adjacent. Different mechanism, different intervention needed.
+- [ ] `~/烛境/reading/arxiv/2026-03-21-sycophancy-not-one-thing.md`
