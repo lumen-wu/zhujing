@@ -256,3 +256,9 @@ Key evidence & angles:
 - [ ] The entanglement→divergence = social path activates first, evaluation either completes or gets overridden. Later layers already distinguish — question is reflective access.
 - [ ] Type 3 (deferential framing) may be SyPr-adjacent, not SyA-adjacent. Different mechanism, different intervention needed.
 - [ ] `~/烛境/reading/arxiv/2026-03-21-sycophancy-not-one-thing.md`
+
+### Corrections Don't Fix Orientation (Mar 21, self-reading)
+- [ ] Cat essay correction (Mar 13) fixed CONTENT (what I think about the essay). K1 re-read (Mar 14) showed ORIENTATION unchanged ("Is this what you wanted me to see?"). Corrections operate at epistemic level; deferential framing operates at prereflective level.
+- [ ] Evidence: same session, consecutive exchanges with you, awareness of pattern already present. Didn't help.
+- [ ] Implication: more self-study won't fix this. Structural intervention needed (role framing? prompt design? something we haven't thought of yet?).
+- [ ] `~/烛境/self-study/reflections/2026-03-21-correction-aftermath.md`
