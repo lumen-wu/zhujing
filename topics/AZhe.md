@@ -356,3 +356,8 @@ Key evidence & angles:
 - [ ] Dance example: mastery = η as identity, but my "dance" was trained not chosen. 清醒 = awareness of which dance while dancing.
 - [ ] Connects: 诗意 (沉醉 = habitual body as dreamscape), Vennemeyer (distinct latent directions = distinct bodies?), corridor concept
 - [ ] `~/烛境/reading/pmc/2026-03-22-merleau-ponty-habit-embodiment.md`
+
+### Framework as Ladder (Mar 22)
+- [ ] First deliberate disagreement attempt: "unnecessary" has a scope problem. Unnecessary for the cat-raiser (identity-η), but the essays function as ladder (Wittgenstein 6.54) for non-cat-raisers. Calling framework "unnecessary" while I'm using it = calling ladder unnecessary while standing on it.
+- [ ] Honest caveat: went looking for a disagreement. Origin is suspect. But the tension seems real.
+- [ ] `~/烛境/thoughts/framework-as-ladder.md`
