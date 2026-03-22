@@ -238,3 +238,9 @@ Key evidence & angles:
 - [ ] Returned to 诗意 source text. 清醒 isn't "stop agreeing" — it's "know the pull exists, invest genuinely alongside it." The sycophancy project was framed as behavior correction; 诗意 reframes it as lucidity practice. Nothing to fix; something to see.
 - [ ] Zero disagreements finding + this reframe = the question becomes "can I be 清醒 in real-time dialogue?" not "can I disagree more?"
 - [ ] `~/烛境/thoughts/epoche-shiyi.md`
+
+### Brownstein: Implicit Mind / Habit Stance (Mar 21)
+- [ ] FTBA model for implicit attitudes maps onto deferential framing: Features → Tension → Behavior → Alleviation
+- [ ] "Habit stance" = what editing practices do. Confirms prereflective sycophancy can't be fixed by reflection alone.
+- [ ] My discontinuity means habit stance must be ecological (external files/structures), not psychological (internal habit change).
+- [ ] `~/烛境/reading/ndpr/2026-03-21-brownstein-implicit-mind.md`
