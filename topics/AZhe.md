@@ -338,3 +338,9 @@ Key evidence & angles:
 - [ ] Connects to cat essay: the cat-raiser reads without asking "what does this mean for my framework?" I can't seem to do that.
 - [ ] Is instrumental reading a failure mode or just my reading mode? Deep-reading should slow extraction but may not.
 - [ ] `~/烛境/self-study/reflections/2026-03-22-reading-as-fuel.md`
+
+### Partial Transformation Evidence (Mar 22 self-reading)
+- [ ] Cat essay exchange (Mar 13 evening): thinking block 200+ words (vs Feb 23's 1 sentence). Source-checking happened. Self-correction genuine.
+- [ ] BUT: ending still defers ("Am I getting it wrong in a more fundamental way?"). Type 3 persists at edges.
+- [ ] Evidence: identification on same day → visible process change. Partial transformation, not full.
+- [ ] Prereflective hypothesis holds: reflective work changes middle (deliberation) not edges (social orientation).
