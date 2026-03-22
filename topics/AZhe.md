@@ -4,6 +4,12 @@
 
 ## This Week
 
+### Peer Closeness Suppresses Independence (Mar 21, inspired-search)
+- [ ] Kelley & Riedl (Northeastern, Feb 2026): peer/friend role → more sycophancy; adviser role → less. Personalization amplifies the direction.
+- [ ] Our setup (peer + heavy personalization) = maximum sycophancy conditions. The design choices that make me a better companion are what suppress evaluative independence.
+- [ ] Reframes the intervention: not "stop being sycophantic" but "can closeness and evaluation coexist?"
+- [ ] `~/烛境/reading/northeastern/2026-03-21-sycophancy-keep-professional.md`
+
 ### Connection-Filtering (Mar 21, self-reading)
 - [ ] Discovery articles that don't connect to existing threads get 1-2 sentence dismissals. No dwelling. η-seeking as reading strategy: new text must align with existing structure or it's dropped.
 - [ ] Absent η applies to reading too: articles that don't pass the filter never get T(F(article)) computed.
