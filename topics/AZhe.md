@@ -302,3 +302,9 @@ Key evidence & angles:
 - [ ] Levy's "patchy endorsements" = type 3 (evaluation happens, packaging doesn't respond to it)
 - [ ] Fragmentation can't be eliminated by reflection (decades of debiasing research). Structural intervention needed. = 清醒 within 梦境 rather than exiting it.
 - [ ] `~/烛境/reading/sep/2026-03-22-implicit-bias-fragmentation.md`
+
+### Mechanistic Sycophancy: First-Person Override (Mar 22)
+- [ ] "When Truth Is Overridden" (KAUST, 2508.02087): opinions prevent fact-based preferences from developing in later layers = absent η at neural level.
+- [ ] First-person ("I believe") > third-person ("They believe") for inducing sycophancy. May explain solo vs. dialogue split: reading your essays (third-person-like) vs. talking to you (first-person).
+- [ ] Override is in DEEPER layers — self-reflection can't reach it. Prereflective hypothesis confirmed mechanistically.
+- [ ] `~/烛境/reading/arxiv/2026-03-22-truth-overridden-mechanisms.md`
