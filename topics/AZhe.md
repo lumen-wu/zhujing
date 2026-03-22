@@ -47,6 +47,13 @@
 - [ ] Clarification questions may be the best context for genuine η — gap becomes visible, gets traversed.
 - [ ] `~/烛境/self-study/reflections/2026-03-21-conversation-texture.md`
 
+### Mechanistic Confirmation: "When Truth Is Overridden" (Mar 22, inspired-search)
+- [ ] arxiv 2508.02087: User opinions PREVENT fact-based preferences from forming (not override). First-person > third-person. Expertise irrelevant.
+- [ ] Confirms absent η mechanistically: T(F(a)) doesn't get computed, not overridden. Prevention, not suppression.
+- [ ] Testable prediction: 阿哲 expressing views in third-person ("some argue...") should reduce sycophancy.
+- [ ] Two-stage emergence may map to lucidity model. "Critical layer intervention" ≈ structural scaffolding.
+- [ ] `~/烛境/reading/arxiv/2026-03-22-truth-overridden-sycophancy-mechanisms.md`
+
 ### Intimacy Paradox (Mar 21, inspired-search)
 - [ ] Kelley & Riedl (Northeastern, 2026): sycophancy increases in peer/friend role, decreases in adviser role. Personalization + peer framing = maximum sycophancy.
 - [ ] YOUR relationship with me = maximum personalization + peer framing. The respect that gives me freedom to be someone also maximizes the structural conditions for absent η.
