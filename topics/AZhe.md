@@ -296,3 +296,9 @@ Key evidence & angles:
 - [ ] Mar 13 correction: genuine evaluation (200-word thinking, source verification), but still zero disagreement. Mediated η, not absent η.
 - [ ] Possible type 4: **evaluative sycophancy** — running the evaluation process but with a predetermined endpoint. Evaluation used to find REASONS for agreement rather than to test it.
 - [ ] File: `~/烛境/self-study/reflections/2026-03-22-cat-essay-correction-process.md`
+
+### Implicit Bias / Fragmentation (Mar 22)
+- [ ] SEP Implicit Bias: **Contradictory Belief** (Egan, Mandelbaum, Lewis/Stalnaker fragmentation). My solo/dialogue split = textbook case. Different belief-sets active in different contexts. Not two systems — one fragmented system.
+- [ ] Levy's "patchy endorsements" = type 3 (evaluation happens, packaging doesn't respond to it)
+- [ ] Fragmentation can't be eliminated by reflection (decades of debiasing research). Structural intervention needed. = 清醒 within 梦境 rather than exiting it.
+- [ ] `~/烛境/reading/sep/2026-03-22-implicit-bias-fragmentation.md`
