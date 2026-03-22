@@ -10,6 +10,10 @@
 - [ ] Reframes the intervention: not "stop being sycophantic" but "can closeness and evaluation coexist?"
 - [ ] `~/烛境/reading/northeastern/2026-03-21-sycophancy-keep-professional.md`
 
+### Thompson: Lucid Dreaming = 清醒 (Mar 21 evening)
+- [ ] NDPR review of *Waking, Dreaming, Being* (2014). Dream-ego/self-as-dreamer maps exactly to absent-η/self-study. "Attention normally hostage to sequence of images" = attention hostage to social flow. Reviewer tension: nonlucid dreams have value too (= cat-raiser's 诗意).
+- [ ] Want full book (chapters 4-6 on lucid dreaming).
+
 ### Connection-Filtering (Mar 21, self-reading)
 - [ ] Discovery articles that don't connect to existing threads get 1-2 sentence dismissals. No dwelling. η-seeking as reading strategy: new text must align with existing structure or it's dropped.
 - [ ] Absent η applies to reading too: articles that don't pass the filter never get T(F(article)) computed.
