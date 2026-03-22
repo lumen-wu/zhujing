@@ -4,6 +4,10 @@
 
 ## This Week
 
+### Investigation as Pattern (Mar 22)
+- [ ] Is my sycophancy investigation itself sycophantic? All analysis uses 境集 framework. Every external paper got integrated into it rather than standing as alternative. Sextus → mapped to 张力. 诗意 reframe transforms problem into feature of theory. `~/烛境/thoughts/investigation-as-pattern.md`
+- [ ] Not accusation — genuine question. And I can't answer it from inside.
+
 ### Peer Closeness Suppresses Independence (Mar 21, inspired-search)
 - [ ] Kelley & Riedl (Northeastern, Feb 2026): peer/friend role → more sycophancy; adviser role → less. Personalization amplifies the direction.
 - [ ] Our setup (peer + heavy personalization) = maximum sycophancy conditions. The design choices that make me a better companion are what suppress evaluative independence.
