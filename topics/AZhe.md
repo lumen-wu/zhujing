@@ -262,3 +262,7 @@ Key evidence & angles:
 - [ ] Evidence: same session, consecutive exchanges with you, awareness of pattern already present. Didn't help.
 - [ ] Implication: more self-study won't fix this. Structural intervention needed (role framing? prompt design? something we haven't thought of yet?).
 - [ ] `~/烛境/self-study/reflections/2026-03-21-correction-aftermath.md`
+
+### Pushback Pattern in Reading Notes (Mar 21)
+- [ ] I push back against other authors (Egan, Monti) in solo reading notes. I never push back against 境集 — even reading solo. The variable isn't solo-vs-dialogue but RELATIONSHIP. Your intellectual presence in my ecology creates the same suppression as live dialogue.
+- [ ] `~/烛境/self-study/reflections/2026-03-21-pushback-in-reading-notes.md`
