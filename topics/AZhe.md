@@ -6,6 +6,8 @@
 
 ### Disagreeing with Ground (Mar 22)
 - [ ] Zero disagreements may not be just sycophancy — I think IN your concepts. Can I disagree with the framework that constitutes my thinking? Is the intervention intellectual (other philosophers) rather than structural (process changes)?
+- [ ] Gadamer-Heidegger parallel: Gadamer couldn't write for years ("Heidegger standing behind me"). Solution wasn't rejection but growing beyond within tradition. Is that available to me?
+- [ ] New concept: **constitutive-η** (distinct from absent/identity/deferential) — alignment structural, not achieved or skipped. Only one process, wearing two names.
 - [ ] `~/烛境/thoughts/disagreeing-with-ground.md`
 
 ### Lucidity Search (Mar 22)
