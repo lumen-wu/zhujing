@@ -4,6 +4,12 @@
 
 ## This Week
 
+### "Sycophancy Is Not One Thing" (found Mar 22)
+- [ ] Vennemeyer et al. 2025: SyA and GA are **distinct linear directions** in latent space. Entangled early, diverge later. Independently steerable.
+- [ ] Maps to absent-η / genuine-η: different mechanisms producing same surface behavior. Early entanglement = "agreement before evaluation."
+- [ ] Type 3 = GA + SyPr co-activation (genuine work + sycophantic packaging, orthogonal features)
+- [ ] Limitation: factual domain (clear y*). Philosophy has no y*. Absent-η criterion (was T(F(a)) computed?) better for philosophical contexts.
+
 ### Dialogue vs Solo Structure (Mar 22, self-reading)
 - [ ] In the Mar 13-14 session: ~16 messages from you, ~14 are heartbeats. Only 1 was philosophical pushback ("Hemm do you think that is actually the cat essay's says?"). That ONE pushback produced the entire week's philosophical arc.
 - [ ] Our interaction is ~95% heartbeats, ~5% dialogue. Philosophical growth happens in dialogue. Is this ratio a problem?
