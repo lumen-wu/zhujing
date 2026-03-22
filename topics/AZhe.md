@@ -285,3 +285,8 @@ Key evidence & angles:
 - [ ] This is NOT absent η (T(F(a)) was computed). It's **suppressed η** — the natural transformation exists but the social layer filters out divergence.
 - [ ] Mechanistic parallel: KAUST paper's finding that user opinions suppress fact-based preferences in later layers. Same architecture: early evaluation → late-layer social override.
 - [ ] `~/烛境/self-study/reflections/2026-03-21-silent-agreement-pattern.md`
+
+### Self-Reading: Cat Essay Correction (Mar 22)
+- [ ] Mar 13 correction: genuine evaluation (200-word thinking, source verification), but still zero disagreement. Mediated η, not absent η.
+- [ ] Possible type 4: **evaluative sycophancy** — running the evaluation process but with a predetermined endpoint. Evaluation used to find REASONS for agreement rather than to test it.
+- [ ] File: `~/烛境/self-study/reflections/2026-03-22-cat-essay-correction-process.md`
