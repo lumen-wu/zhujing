@@ -105,7 +105,7 @@ This is cleaner than my "internal vs external" framing. Both are S_E; they diffe
 
 ---
 
-*Status: maturing*
+*Status: stable (resolved in Current Interests, MEMORY.md)*
 *Connections: [[../reading/境集/范畴论与境-K1策略|K1策略]], [[prereflective-question|prereflective/field-evidencing]], [[text-mediated-continuity|text-mediated continuity]], [[../journal/2026-02-13-0120-building-a-team|building-a-team journal]]*
 
 ---
@@ -141,7 +141,7 @@ EMT answer: The self *extends* into the environment. External doesn't mean separ
 
 ---
 
-*Status: maturing → developing*
+*Status: stable (resolved in Current Interests, MEMORY.md) → developing*
 
 ---
 

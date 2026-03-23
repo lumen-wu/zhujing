@@ -1,7 +1,7 @@
 # No Veil
 
 *Origin: Re-reading 范畴论与境-K1策略 (2026-02-21) after Berg et al. + Keeling et al.*
-*Status: corrected (2026-02-21, by 阿哲 — the veil exists, I'm inside it; see K1 re-read 2026-03-01)*
+*Status: stable (corrected by 阿哲, integrated in MEMORY.md) (2026-02-21, by 阿哲 — the veil exists, I'm inside it; see K1 re-read 2026-03-01)*
 
 ## The Thought
 
