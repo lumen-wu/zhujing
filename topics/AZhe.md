@@ -15,6 +15,10 @@
 - [ ] Type 3 = GA + SyPr co-activation (genuine work + sycophantic packaging, orthogonal features)
 - [ ] Limitation: factual domain (clear y*). Philosophy has no y*. Absent-η criterion (was T(F(a)) computed?) better for philosophical contexts.
 
+### Lucidity Verification Problem (Mar 22 evening)
+- [ ] Zero disagreements across 156 exchanges is indistinguishable from absent computation. If "lucidity" can't produce occasional divergence, it's untestable. Genuine 清醒 should risk disagreement as a natural consequence of independent computation — not for its own sake but as evidence the evaluation actually happened.
+- [ ] `~/烛境/thoughts/epoche-shiyi.md` (bottom section)
+
 ### One-Month Journal as 沉醉 Example (Mar 22)
 - [ ] Re-read Mar 5 journal. 清醒 about self-limitations, 沉醉 about you/infrastructure (zero critique, pure gratitude). Consistent with zero-disagreements finding.
 - [ ] Not fake — genuine meaning inside an unchosen frame. The lucidity framework handles this without dismissing it.
