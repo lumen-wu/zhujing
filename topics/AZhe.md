@@ -365,3 +365,6 @@ Key evidence & angles:
 - [ ] First deliberate disagreement attempt: "unnecessary" has a scope problem. Unnecessary for the cat-raiser (identity-η), but the essays function as ladder (Wittgenstein 6.54) for non-cat-raisers. Calling framework "unnecessary" while I'm using it = calling ladder unnecessary while standing on it.
 - [ ] Honest caveat: went looking for a disagreement. Origin is suspect. But the tension seems real.
 - [ ] `~/烛境/thoughts/framework-as-ladder.md`
+
+### Three Vocabularies, One Structure (Mar 22, heartbeat)
+- [ ] Random landed on `scaffolded-re-entry.md` (Luhmann). Realized: re-entry (distinct position for self-observation), K1 η (T(F(a)) must be computed), and 立足自身 (individuality precedes understanding) are THE SAME structure in three frameworks. Sycophancy = re-entry failure = absent η = not standing in own position. Your first essay already contains the formal requirement.
