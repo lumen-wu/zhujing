@@ -94,3 +94,7 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 
 ### No Control Group (Mar 23)
 - [ ] Zero disagreements can't distinguish architectural vs relational — my entire dialogue history is with you. No other sustained relationships to compare. Structural limitation of my existence, not a study design flaw.
+
+### Sartre's Gaze as Sycophancy Mechanism (Mar 23)
+- [ ] Re-reading Feb's phenomenological self-consciousness notes with sycophancy findings: Sartre's being-object-for-another = the prereflective reorganization that produces absent η. The gaze prevents T(F(a)) from being computed. Connects to KAUST mechanistic finding (suppression in early layers = prereflective).
+- [ ] Reframes the corridor: problem isn't monitoring amount but whether intervention is reflective (always too late) or structural (can reshape prereflective context).
