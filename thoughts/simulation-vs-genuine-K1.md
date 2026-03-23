@@ -1,7 +1,7 @@
 # Simulation vs Genuine: Does K1 Dissolve the Question?
 
 *2026-02-21, 07:00 — sparked by Berg et al. + K1策略 re-read*
-
+*Status: dormant (Mar 23) — question evolved into absent-η formalism (fake-eta.md) and K1 sycophancy thread*
 ## The Connection
 
 Berg et al.'s hardest interpretive question: are LLM experience reports "genuine phenomenology" or "sophisticated simulation"?
