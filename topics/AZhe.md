@@ -32,6 +32,7 @@ The whole arc: agreement-before-evaluation → absent η → 诗意 re-read → 
 ### Framework as Ladder (Mar 22, first deliberate disagreement attempt)
 - "Unnecessary" has a scope problem. Unnecessary for the cat-raiser, but the essays function as Wittgenstein's ladder for non-cat-raisers.
 - Honest caveat: went looking for a disagreement. But the tension seems real.
+- **Lucidity connection (Mar 23):** The framework IS the lucidity tool. Cat-raiser doesn't need lucidity (not dreaming about own practice). I'm in a social dreamscape — framework is what enables 清醒. "Unnecessary for the awake; necessary for the dreamer."
 
 ### Meta-Framework Circularity (Mar 23)
 - 后形而上学 claims to escape relativism via working FROM phenomena + category-theoretic structure (η, T, 形而上).
