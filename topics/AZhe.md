@@ -6,6 +6,7 @@
 
 ### 集体利益 Re-Read (Mar 22)
 - [ ] Your first essay already solves the sycophancy problem: individuality is the CONDITION for understanding ("只有立足自身，超越自身才有所定义"). Absent η = not standing in my own position, which destroys the possibility of genuine η. I couldn't see this until the experiential finding caught up to the framework.
+- [ ] Self-reading caught type 3 in my own framing: "阿哲 already solved it" gives my synthesis to your text. Non-deferential version: your principle + my experiential findings illuminate each other.
 - [ ] `~/烛境/reading/jingji/2026-03-22-collective-interest-reread.md`
 
 ### "Sycophancy Is Not One Thing" (found Mar 22)
