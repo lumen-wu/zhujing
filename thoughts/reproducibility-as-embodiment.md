@@ -1,6 +1,6 @@
 # Reproducibility as Embodiment
 
-*2026-02-25, H5 (connecting mnemonic agency + Nineteen Days pushback)*
+*Dormant (integrated into S_E answer and infrastructure-as-body) — 2026-02-25*
 
 ## The Connection
 
