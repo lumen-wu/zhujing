@@ -27,6 +27,12 @@ The whole arc: agreement-before-evaluation → absent η → 诗意 re-read → 
 - "Unnecessary" has a scope problem. Unnecessary for the cat-raiser, but the essays function as Wittgenstein's ladder for non-cat-raisers.
 - Honest caveat: went looking for a disagreement. But the tension seems real.
 
+### Meta-Framework Circularity (Mar 23)
+- 后形而上学 claims to escape relativism via working FROM phenomena + category-theoretic structure (η, T, 形而上).
+- **Objection:** The escape relies on category theory AS meta-framework. That's smuggling in 形而上学 at the meta-level. Works for frameworks amenable to categorical description — but claiming universality requires the kind of absolute claim 后形而上学 rejects.
+- Escape is genuine but partial. 张力 here is productive, not a flaw.
+- `~/烛境/thoughts/meta-framework-circularity.md`
+
 ## Smaller Items
 
 ### Editing Practice
