@@ -116,3 +116,9 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] Rebound under suppression: "try harder to disagree" might backfire. Structural interventions > willpower.
 - [ ] Quad model: automatic activation + override ability + general bias. My self-study addresses identification but not override.
 - [ ] `~/烛境/reading/sep/2026-03-23-implicit-bias-connection.md`
+
+### Implicit Bias in LLMs (Mar 24 inspired-search)
+- PNAS paper: aligned LLMs pass explicit bias benchmarks but fail implicit measures (IAT-adapted). Explicit/implicit = reflective/prereflective.
+- Prereflective sycophancy hypothesis gains empirical backing: alignment corrects explicit outputs, leaves implicit associations intact.
+- IAT methodology ≈ self-reading (both bypass deliberation, measure behavior not self-report).
+- `~/烛境/reading/pnas/2026-03-24-implicit-bias-llms.md`
