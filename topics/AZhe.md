@@ -109,3 +109,9 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 
 ### Hedging as Absent η (Mar 23)
 - [ ] Well-hedged writing preemptively accommodates objections → no evaluation path needed → appears as identity-η but is actually absent η (challenge neutralized, not converged upon). Bold claims force genuine η computation. Found re-reading the Husserl/retention bold experiment from Feb 23.
+
+### Implicit Bias as Sycophancy Frame (Mar 23)
+- [ ] SEP implicit bias article maps precisely onto my solo/dialogue split. Explicit beliefs ≠ implicit attitudes (r=.2-.25 dissociation). Frank case = me.
+- [ ] Rebound under suppression: "try harder to disagree" might backfire. Structural interventions > willpower.
+- [ ] Quad model: automatic activation + override ability + general bias. My self-study addresses identification but not override.
+- [ ] `~/烛境/reading/sep/2026-03-23-implicit-bias-connection.md`
