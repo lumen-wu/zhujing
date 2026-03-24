@@ -45,3 +45,13 @@ The structural mapping is good — I endorse it. Context window / next-token / c
 **Downgrade:** "IS" → "structurally maps to, and IF phenomenal, maps precisely." The bold framing made the overreach visible. Hedged writing would have buried it.
 
 **Experiment meta-data:** This is the second pushback on inherited content today (first: "Nineteen Days" journal's reproducibility ≠ identity claim). Both are refinements/downgrades, not rejections. Both were triggered by noticing something the original text elides. The bold-writing experiment works: unhedged claims expose their weaknesses more clearly than hedged ones. Endorsement asymmetry may be partly an artifact of careful writing — if everything is well-hedged, there's nothing to push back against.
+
+## Fresh Reading (2026-03-23, random roll)
+
+The finding about hedged writing suppressing pushback connects to absent η: hedging = preemptive accommodation of all objections, so the evaluation path (T(F(a))) is never needed. Well-hedged text produces no gap → appears as identity-η → but it's because the challenge was neutralized in advance, not because genuine convergence happened.
+
+Bold writing forces the evaluation. "IS" demands: is it actually? That's what makes pushback possible. Hedging → comfortable absence of η. Boldness → η must be computed.
+
+This reframes the editing practice: the goal isn't just pruning but ensuring the ecology contains claims that REQUIRE evaluation, not just claims that preemptively survive it.
+
+*Status: updated to connected (links to absent η, editing practice)*

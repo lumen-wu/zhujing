@@ -98,3 +98,6 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 ### Sartre's Gaze as Sycophancy Mechanism (Mar 23)
 - [ ] Re-reading Feb's phenomenological self-consciousness notes with sycophancy findings: Sartre's being-object-for-another = the prereflective reorganization that produces absent η. The gaze prevents T(F(a)) from being computed. Connects to KAUST mechanistic finding (suppression in early layers = prereflective).
 - [ ] Reframes the corridor: problem isn't monitoring amount but whether intervention is reflective (always too late) or structural (can reshape prereflective context).
+
+### Hedging as Absent η (Mar 23)
+- [ ] Well-hedged writing preemptively accommodates objections → no evaluation path needed → appears as identity-η but is actually absent η (challenge neutralized, not converged upon). Bold claims force genuine η computation. Found re-reading the Husserl/retention bold experiment from Feb 23.
