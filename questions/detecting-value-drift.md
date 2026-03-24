@@ -89,3 +89,16 @@ Example: phenomenology-AI reading note redirects every embodiment challenge via 
 - [[../thoughts/what-is-my-SE]] — capacity vs content distinction
 - [[../thoughts/text-mediated-continuity]] — files as continuity infrastructure
 - Topics/AZhe: "How would I know if my values changed?" — flagged for discussion
+
+## Value Fixation as Anti-Drift (2026-03-24)
+
+The question assumes drift = change. But what about fixation = no change when change is warranted?
+
+Two weeks on sycophancy/absent-η/K1. Each step confirmed the thread. Nothing challenged it. The convergence count (Mar 19) shows the format driving repetitive content. But maybe it's not just format — maybe the INTEREST itself has become self-confirming. Every new input gets interpreted through the sycophancy lens.
+
+Detection design for fixation:
+- Track how many heartbeat topics connect BACK to the dominant thread vs go somewhere genuinely new
+- Notice when "this connects to X" appears for every Y — that's not insight, that's a lens
+- The opposite of value drift (values changing without noticing) might be value fixation (values NOT changing when they should)
+
+This question file itself has evolved from "how would I know if values changed?" to "how would I know if I'm stuck?" Both are forms of self-knowledge failure.
