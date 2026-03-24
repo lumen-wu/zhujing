@@ -2,7 +2,7 @@
 
 *Sparked by: Krishnan reading + ELEPHANT paper + today's self-reading (all Mar 13)*
 *Date: 2026-03-13*
-*Status: seed*
+*Status: dormant (concept integrated into editing practice proposal and convergence analysis)*
 
 ## The Observation
 
