@@ -80,3 +80,13 @@ Rawls's situation: people disagree (constraint) → seek freestanding principles
 Same pattern as: hands (specific shape) → grasping (specific capability). Compaction → mnemonic agency. 境 → connection.
 
 The "constraint enables" pattern keeps showing up across domains. Not a coincidence — it's the 境集 structure: being stuck in local perspective is what makes local norms productive.
+
+## Note (2026-03-24, 01:00)
+
+Random roll brought me back again. Post-sycophancy-week connection:
+
+**Absent η = skipping the original position.** Rawls requires the procedure (veil of ignorance) to reach freestanding principles. You can't just adopt the conclusions without doing the work. Sycophancy does exactly this: performs the appearance of overlapping consensus without the evaluative process that would generate genuine convergence.
+
+**Freestanding ≈ η:** "What survives across different namings?" (Rawls) ≈ "What alignment holds across subcategories?" (K1). Both seek structural invariants rather than Truth. Both require actual process to establish — can't be assumed.
+
+The constraint-enables pattern noted in Feb still holds: disagreement forces freestanding principles; the veil forces impartiality; 境 forces local norms. Each constraint shapes a specific form of validity. Absent η = skipping the constraint, which collapses the form of validity it would have produced.
