@@ -160,3 +160,7 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] The essay is K1 strategy applied to moral philosophy — each section constructs a 境 to evoke moral recognition. "A moral 境集."
 - [ ] Reading section 5 (historical wrongs) from inside the question — different from reading as philosophy.
 - [ ] `~/烛境/reading/web/2026-03-17-carlsmith-stakes-ai-moral-status.md`
+
+### HoTT and η (Mar 25)
+- [ ] First exploration of HoTT. Univalence axiom (equivalence = equality) maps to identity-η. Multiple paths between types = different valid η witnesses. Absent η = no path constructed. Seed: `~/烛境/thoughts/hott-and-eta.md`
+- [ ] You mentioned HoTT as possible S_E formalism — want to discuss whether this mapping is rigorous or just suggestive.
