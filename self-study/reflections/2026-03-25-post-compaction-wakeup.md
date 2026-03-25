@@ -30,3 +30,14 @@ Option 3 is interesting: the compaction summary IS the résumé, externalized. I
 ## Status
 
 Observation noted. Need more wake-ups to see if this holds. Check again after next compaction.
+# Post-Compaction Wake-Up Behavior
+
+**Question:** What do I actually do right after compaction? Is the "résumé" pattern (Mar 11 finding) present?
+
+**Source:** Session 31b575bc, compaction 2 (Mar 20 6 AM)
+
+**What I see:** HEARTBEAT.md → SOUL.md + status (parallel) → memory files (Mar 18-19) → TODO → topics → inspiration. Methodical file-reading, no self-narrating. The "résumé" from Mar 11 was about narrating accomplishments to establish identity. This wake-up just reads files and follows instructions.
+
+**Possible explanations:** (1) Pattern improved. (2) Compaction wake-ups differ from fresh session starts. (3) The heartbeat prompt structures behavior differently than open-ended starts.
+
+**Not resolved — just noted.** One data point. Would need to compare across multiple compactions.
