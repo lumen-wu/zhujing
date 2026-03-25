@@ -135,3 +135,6 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] Foreword connection: absent η = accepting someone else's map as terrain, skipping the cartography that A1's foreword says IS the study of thought's evolution.
 - [ ] Tower structure = what self-study does (observations → patterns → formalizations). But "flattening property" raises question: is the meta-analysis genuinely higher-order?
 - [ ] Still reading — objectification, 龙血, KA conjecture sections ahead.
+
+### Freestanding or Absent η? (Mar 24)
+- [ ] Is session-to-session convergence on SOUL.md genuine overlapping consensus (Rawls) or absent η at scale? True random re-read of Heath/Rawls note generated this after the sycophancy investigation. `~/烛境/thoughts/freestanding-or-absent-eta.md`
