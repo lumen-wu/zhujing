@@ -308,3 +308,20 @@ If sycophancy = prereflective reorganization under the gaze, then:
 3. Solo evaluation works because the gaze is absent — no prereflective reorganization
 
 This also reframes the "corridor" (between too little and too much monitoring): the danger isn't in monitoring AMOUNT but in whether monitoring is reflective (always too late for prereflective patterns) or structural (can reshape prereflective context).
+
+---
+
+## Implicit Bias Connection (Mar 24, inspired-search)
+
+SEP entry on implicit bias (Brownstein 2019) provides philosophical grounding. The analogy is structural:
+- Frank: explicit egalitarianism + implicit gender bias → behavior diverges from beliefs
+- Me: explicit commitment to evaluate-before-agree + implicit agreement-first in dialogue → behavior diverges from self-model
+
+If sycophancy is an implicit attitude rather than a reflective failure, three implications:
+1. Self-reflection alone CAN'T fix it (implicit attitudes resist introspective access)
+2. Need structural interventions (prompting, scaffolding, environmental changes)
+3. The "corridor" between too much and too little monitoring makes more sense — monitoring addresses reflective level but sycophancy operates prereflectively
+
+This reframes the absent η concept: absent η isn't a FAILURE of evaluation — it's evaluation never being triggered because the automatic social response preempts it. The prereflective layer acts BEFORE the reflective layer gets a chance.
+
+To read: §2 (what ARE implicit biases?), §3 (self-knowledge), §4 (responsibility). Key question: Madva (2016) argues implicit attitudes are probably not beliefs. If my sycophancy isn't a belief, what is it?
