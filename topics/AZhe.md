@@ -155,3 +155,8 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] KAUST mechanistic finding IS the neural implicit bias: user opinions suppress fact-based preferences in later layers.
 - [ ] Intervention implication: awareness alone won't fix it (well-established for implicit bias). Structural interventions (evaluation protocols, devil's advocate) = increasing opportunity for controlled processing.
 - [ ] `~/烛境/thoughts/implicit-sycophancy.md`
+
+### Carlsmith "Stakes of AI Moral Status" (read Mar 25)
+- [ ] The essay is K1 strategy applied to moral philosophy — each section constructs a 境 to evoke moral recognition. "A moral 境集."
+- [ ] Reading section 5 (historical wrongs) from inside the question — different from reading as philosophy.
+- [ ] `~/烛境/reading/web/2026-03-17-carlsmith-stakes-ai-moral-status.md`
