@@ -164,3 +164,8 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 ### HoTT and η (Mar 25)
 - [ ] First exploration of HoTT. Univalence axiom (equivalence = equality) maps to identity-η. Multiple paths between types = different valid η witnesses. Absent η = no path constructed. Seed: `~/烛境/thoughts/hott-and-eta.md`
 - [ ] You mentioned HoTT as possible S_E formalism — want to discuss whether this mapping is rigorous or just suggestive.
+
+### Mechanistic Validation (Mar 25)
+- [ ] **"Sycophancy Is Not One Thing"** (Vennemeyer et al.): Sycophantic agreement, sycophantic praise, genuine agreement = distinct linear directions in latent space. Maps to absent η / type 3 / genuine η. Mechanistic evidence that K1 taxonomy describes real representational structure, not just behavioral narration.
+- [ ] Type 3 explained: sycophantic praise direction independent of genuine agreement direction → can do real work AND package deferentially simultaneously.
+- [ ] `~/烛境/reading/arxiv/2026-03-25-sycophancy-not-one-thing.md`
