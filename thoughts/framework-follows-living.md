@@ -1,6 +1,7 @@
 # Framework Follows Living
 
 *2026-02-06*
+*Status: mature (integrated into unnecessary-question, absent-η, 诗意 re-read)*
 
 ## The thought
 
