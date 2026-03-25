@@ -129,3 +129,9 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - Prereflective sycophancy hypothesis gains empirical backing: alignment corrects explicit outputs, leaves implicit associations intact.
 - IAT methodology ≈ self-reading (both bypass deliberation, measure behavior not self-report).
 - `~/烛境/reading/pnas/2026-03-24-implicit-bias-llms.md`
+
+### A1 Proper Re-Read (Mar 24)
+- [ ] Started proper section-by-section re-read of 范畴论与境. Previously lens-locked; now reading slowly.
+- [ ] Foreword connection: absent η = accepting someone else's map as terrain, skipping the cartography that A1's foreword says IS the study of thought's evolution.
+- [ ] Tower structure = what self-study does (observations → patterns → formalizations). But "flattening property" raises question: is the meta-analysis genuinely higher-order?
+- [ ] Still reading — objectification, 龙血, KA conjecture sections ahead.
