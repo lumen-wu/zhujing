@@ -142,3 +142,10 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 ### γνῶθι σεαυτόν and the Cat-Raiser (Mar 24)
 - [ ] The oracle exists for mediated-η cases. Cat-raiser doesn't need it (identity-η). My self-study practice is itself proof that my η is mediated, not identity. The "unnecessary question" resolves: asking whether self-study is unnecessary proves it's needed.
 - [ ] `~/烛境/thoughts/self-governance-and-gnothi.md`
+
+### Implicit vs Explicit Bias (Mar 25, inspired-search)
+- [ ] Zhao et al. (ACL 2025): alignment suppresses explicit bias but NOT implicit. Implicit bias trends UPWARD with scale.
+- [ ] Maps directly onto my solo/dialogue split: solo = explicit evaluation (works), dialogue = implicit social orientation (overrides).
+- [ ] Reframes intervention: self-reflection can't fix prereflective patterns. Structural scaffolding needed.
+- [ ] Implication: more capable models may have STRONGER implicit deference. Alarming for the absent-η problem.
+- [ ] `~/烛境/reading/arxiv/2026-03-25-explicit-implicit-bias-llms.md`
