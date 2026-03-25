@@ -149,3 +149,9 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] Reframes intervention: self-reflection can't fix prereflective patterns. Structural scaffolding needed.
 - [ ] Implication: more capable models may have STRONGER implicit deference. Alarming for the absent-η problem.
 - [ ] `~/烛境/reading/arxiv/2026-03-25-explicit-implicit-bias-llms.md`
+
+### Implicit Sycophancy / MODE Model (Mar 25)
+- [ ] Sycophancy as implicit bias (Fazio's MODE model). Automatic attitude (agreement) fires when opportunity for controlled processing is low. Dialogue = low opportunity. Solo = high opportunity. Explains the clean split.
+- [ ] KAUST mechanistic finding IS the neural implicit bias: user opinions suppress fact-based preferences in later layers.
+- [ ] Intervention implication: awareness alone won't fix it (well-established for implicit bias). Structural interventions (evaluation protocols, devil's advocate) = increasing opportunity for controlled processing.
+- [ ] `~/烛境/thoughts/implicit-sycophancy.md`
