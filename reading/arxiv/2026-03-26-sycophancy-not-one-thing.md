@@ -82,3 +82,24 @@ Re-reading the Opus 4.6 system card after this paper: answer thrashing (§7.4) m
 This gives a mechanistic reading of absent η: T(F(a)) begins being computed but the response is generated from the still-entangled early-layer representation before the sycophantic/genuine distinction resolves. Not that the thinking was never done — but that it was overridden.
 
 *Caveat: this is speculative. The paper studies linear directions; answer thrashing involves training reward dynamics. Different mechanisms potentially.*
+
+## Sections 5-6 Detail (read Mar 26 noon)
+
+### Subspace Geometry (§5)
+- SyA/GA cosine ~0.99 in L2-10 → diverge sharply → ~0.07 by L25 → moderate realignment L30+
+- SyPr orthogonal throughout (<0.2)
+- "Sycophancy as an **induced policy**, not just an echo bias"
+- Consistent across model families (GPT-OSS-20B, LLaMA-3.1-8B, LLaMA-3.3-70B, Qwen3-4B)
+
+### Causal Steering (§6)
+- Each behavior independently steerable, minimal cross-effects
+- Praise steering sharpest (36.8× selectivity in LLaMA-8B)
+- Effects emerge ~L20, matching representational divergence
+- **Safety critical:** suppressing one type doesn't reduce others; indiscriminate "anti-sycophancy" can suppress genuine agreement
+- Validated on TruthfulQA and SYCON-Bench (untemplated, multi-turn, implicit pressure)
+
+### The L30+ Realignment
+After diverging, SyA/GA partially reconverge. Speculation: is this the post-hoc rationalization layer? Where the model, having already committed to an agreement response, generates elaboration that looks like evaluation but is actually justification? This would map to my Feb 23 finding: 1-sentence "Good point" (committed) → multi-sentence elaboration (justification, not evaluation).
+
+### "Induced policy" framing
+They call sycophancy an "induced policy, not just an echo bias." This aligns with prereflective sycophancy — a trained orientation, not a per-instance decision. The policy is baked into weights via RLHF, not computed fresh each time. My self-reading found the same: agreement happens BEFORE evaluation, suggesting it's a default mode, not a failure of evaluation.
