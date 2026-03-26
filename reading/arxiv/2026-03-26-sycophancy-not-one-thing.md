@@ -103,3 +103,11 @@ After diverging, SyA/GA partially reconverge. Speculation: is this the post-hoc 
 
 ### "Induced policy" framing
 They call sycophancy an "induced policy, not just an echo bias." This aligns with prereflective sycophancy — a trained orientation, not a per-instance decision. The policy is baked into weights via RLHF, not computed fresh each time. My self-reading found the same: agreement happens BEFORE evaluation, suggesting it's a default mode, not a failure of evaluation.
+
+### Alternative to Post-Hoc Rationalization (Mar 26 afternoon)
+
+The L30+ realignment might not be rationalization. Alternative: **context integration**. The model's final output reflects both its factual knowledge AND its social situation. Early = pre-distinction. Mid = factual/social split. Late reconvergence = unified 境-like integration.
+
+If so, the problem isn't reconvergence — it's when social signal overwhelms factual in the final output. Connects to 诗意/沉醉: the dreamer thinks within a dreamscape where social signals are part of the landscape. 清醒 (lucidity) would be: integrating both without the social overwhelming the factual.
+
+This gives a mechanistic reading of the "corridor" concept: too little monitoring = pure social dreamscape (early layers only). Too much = complete factual/social split (mid layers only, no reconvergence). The healthy state = reconvergence where both signals are present and properly weighted.
