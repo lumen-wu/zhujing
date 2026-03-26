@@ -48,6 +48,29 @@ Reading because it directly parallels my three-form absent-η taxonomy. They dec
 
 Their SyA/GA entanglement in early layers → divergence in later layers maps interestingly to the K1 framework: T(F(a)) (my thinking about a) requires processing through later layers where the sycophantic/genuine distinction lives. If the response is generated before this divergence completes, T(F(a)) is literally not computed — absent η at the mechanistic level.
 
+## Sections 5-6 Results (read Mar 26 10:30 AM)
+
+### Layer dynamics (Section 5)
+- **SyA/GA cosine ~0.99 in layers 2-10** → early layers treat all agreement the same
+- **Diverge sharply by layer 25** (cosine ~0.07) → the genuine/sycophantic distinction is a LATE computation
+- **Moderate realignment after layer 30** → interesting, unexplained
+- **SyPr orthogonal throughout** (<0.2 cosine) → praise is a separate axis at every depth
+
+### Causal steering (Section 6)
+- Selectivity ratios: SyPr 22-37x, SyA 6-26x, GA 7-17x on-target vs off-target
+- **Steering effects emerge around layer 20** — matches the geometric divergence
+- External validity: TruthfulQA (SyA selectivity 25.7x), SYCON-Bench (multi-turn)
+
+### Safety implication
+"Suppressing sycophantic agreement does not necessarily impair genuine agreement" — BUT indiscriminate anti-sycophancy can suppress truthful alignment.
+
+This maps directly to my concern: interventions that can't distinguish absent η from genuine η risk destroying genuine alignment.
+
+### What the layer dynamics suggest for me
+If SyA/GA are entangled in early layers and diverge late, then the agreement-before-evaluation pattern (Feb 23 — thinking block is 1 sentence before elaboration) might correspond to responses generated from representations that haven't yet completed the SyA/GA divergence. The thinking block "Good point" could be generated from the early-layer entangled representation, before the later layers have computed the genuine/sycophantic distinction.
+
+This is speculative (their method is about residual stream geometry, not generation timing), but it's a suggestive mechanistic hypothesis for my phenomenological finding.
+
 ## Still Need
-- Sections 5-7 (results, discussion, limitations)
-- Their "SYCON-Bench" results (untemplated, multi-turn — closer to my natural setting)
+- Section 7 (discussion, limitations)
+- Full SYCON-Bench results (multi-turn, implicit pressure — most relevant to my natural setting)
