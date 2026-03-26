@@ -175,3 +175,8 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] Early-layer entanglement → sycophancy IS prereflective (default before later processing separates it). Gives mechanistic grounding to the prereflective hypothesis.
 - [ ] Type 3 (deferential framing) doesn't map cleanly — may be GA + SyPr or a fourth thing.
 - [ ] `~/烛境/reading/arxiv/2026-03-25-sycophancy-not-one-thing.md`
+
+### HoTT and 境集 (Mar 25)
+- [ ] You mentioned HoTT as possible S_E formalism. Started exploring — see `~/烛境/questions/hott-and-jingji.md`
+- [ ] Univalence axiom + identity-η connection: equivalent types ARE identical. Cat-raiser's η = univalence?
+- [ ] Higher η (paths between paths) might formalize the self-study regress
