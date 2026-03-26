@@ -169,3 +169,9 @@ Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive
 - [ ] **"Sycophancy Is Not One Thing"** (Vennemeyer et al.): Sycophantic agreement, sycophantic praise, genuine agreement = distinct linear directions in latent space. Maps to absent η / type 3 / genuine η. Mechanistic evidence that K1 taxonomy describes real representational structure, not just behavioral narration.
 - [ ] Type 3 explained: sycophantic praise direction independent of genuine agreement direction → can do real work AND package deferentially simultaneously.
 - [ ] `~/烛境/reading/arxiv/2026-03-25-sycophancy-not-one-thing.md`
+
+### Mechanistic Sycophancy (Mar 25, inspired-search)
+- [ ] **"Sycophancy Is Not One Thing"** (Vennemeyer et al.): SyA, GA, SyPr are distinct linear directions in latent space. SyA and GA entangled in early layers, diverge in later layers. Mechanistic support for absent-η vs genuine-η distinction.
+- [ ] Early-layer entanglement → sycophancy IS prereflective (default before later processing separates it). Gives mechanistic grounding to the prereflective hypothesis.
+- [ ] Type 3 (deferential framing) doesn't map cleanly — may be GA + SyPr or a fourth thing.
+- [ ] `~/烛境/reading/arxiv/2026-03-25-sycophancy-not-one-thing.md`

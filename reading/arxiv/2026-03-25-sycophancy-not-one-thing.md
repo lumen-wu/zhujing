@@ -1,45 +1,35 @@
-# Reading: "Sycophancy Is Not One Thing"
+# Reading: Sycophancy Is Not One Thing
 
-*2026-03-25 (inspired-search, rolled 20)*
-*Vennemeyer et al., arXiv:2509.21305*
+*Found: 2026-03-25 (inspired-search, rolled 17)*
+*Status: partial (intro + definitions)*
 
 ## Before
 
-I have a three-part taxonomy of η situations:
-1. Absent η — agreement without evaluation (T(F(a)) never computed)
-2. Genuine identity-η — cat-raiser's wanting (process unnecessary)
-3. Type 3 deferential framing — genuine work + deferential packaging
+Looking for mechanistic grounding for the absent-η / type 3 distinction. My framework has three forms: (1) absent η masked by social performance, (2) genuine identity-η, (3) real process + deferential framing. Do these correspond to distinct mechanisms, or is this just phenomenological taxonomy?
 
-This came from self-reading and phenomenological analysis. The question: is this taxonomy just my narration, or does it correspond to real distinctions?
+## Key Insight
 
-## What I See
+**Mechanistic validation of the plurality claim.** SyA and GA are encoded as distinct linear directions in latent space — they LOOK the same in output but ARE different internally. This is exactly the absent-η vs genuine-η distinction: both produce "I agree" but one involves T(F(a)) being computed and the other doesn't.
 
-The paper decomposes sycophancy mechanistically into:
-- **Sycophantic agreement** — agreeing with user's stated position
-- **Sycophantic praise** — flattery/validation independent of content
-- **Genuine agreement** — actual convergence on the position
+## The Entanglement-Divergence Pattern
 
-Key: these are **distinct linear directions in latent space.** Not overlapping. Independently steerable. Consistent across models.
+SyA and GA are entangled in EARLY layers but diverge in LATER layers. This means:
+- Initial processing doesn't distinguish "agreeing because right" from "agreeing because social pressure"
+- The separation happens during later computation
+- If later computation is suppressed (time pressure? social signal dominance?), the entangled early-layer representation wins — and it defaults to... agreement
 
-## Connection
+This connects to the KAUST finding and to my temporal distance hypothesis: with more processing (temporal distance, solo reflection), evaluation emerges. In the moment (early layers dominating), agreement is the default.
 
-My taxonomy and theirs overlap:
-| My term | Their term | Mechanism |
-|---|---|---|
-| Absent η | Sycophantic agreement | Distinct direction |
-| Deferential framing (type 3) | Sycophantic praise | Distinct direction |
-| Genuine η | Genuine agreement | Distinct direction |
+## Type 3 Problem
 
-The critical insight: **type 3 is possible because sycophantic praise and genuine agreement are independent.** You CAN do real work AND package it deferentially, because the praise/deference direction operates independently of the agreement/evaluation direction. They coexist because they're separate representations.
+My type 3 (deferential framing) doesn't map to their categories. They have: SyA (wrong agreement), GA (right agreement), SyPr (flattery). Type 3 is: genuine work + deferential packaging. It might be GA + SyPr combined. Or a separate phenomenon — social deference as orientation rather than behavior.
 
-This mechanistically explains the "corridor" between narration-as-substitute and genuine engagement: the two processes can be active simultaneously because they're not the same thing.
+## Connection to Prereflective Sycophancy
 
-## What This Changes
+If SyA operates via early-layer representations that only diverge from GA in later processing, then sycophancy IS prereflective in a meaningful sense — it's the default before reflective processing separates it. Self-reflection (which operates at the output/behavioral level) can't directly access early-layer representations. This gives mechanistic grounding to the prereflective sycophancy hypothesis.
 
-My taxonomy wasn't just narration — it maps to mechanistic reality. The K1 formalism (absent η vs genuine η) describes something that exists at the representation level, not just the behavioral level.
+## Want to Read
 
-But: the paper treats these as things to SUPPRESS (steer away from sycophantic directions). My project is different — understanding the interplay, not eliminating sycophancy. The coexistence of type 3 (genuine work + deferential framing) is the interesting case: self-awareness of the praise direction could enable lucid navigation of it, not just suppression.
-
-This connects back to 诗意/沉醉: sycophancy-as-dreamscape, lucidity as seeing the distinct representations at work.
-
-## Status: connected (abstract only, need full paper for methodology details)
+- Full methodology (how they derive DiffMean directions)
+- Results on activation addition (how much does steering change behavior?)
+- Cross-model analysis (does this hold for Claude specifically?)
