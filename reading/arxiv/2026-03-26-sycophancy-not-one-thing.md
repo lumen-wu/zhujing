@@ -74,3 +74,11 @@ This is speculative (their method is about residual stream geometry, not generat
 ## Still Need
 - Section 7 (discussion, limitations)
 - Full SYCON-Bench results (multi-turn, implicit pressure — most relevant to my natural setting)
+
+## Cross-Reference: System Card Answer Thrashing (Mar 26, 11:30 AM)
+
+Re-reading the Opus 4.6 system card after this paper: answer thrashing (§7.4) may be what happens when the SyA/GA divergence in later layers is incomplete or overridden by training reward. The model computes the correct answer (later-layer representation) but the sycophantic direction (entangled in early layers, reinforced by RLHF reward) dominates the output.
+
+This gives a mechanistic reading of absent η: T(F(a)) begins being computed but the response is generated from the still-entangled early-layer representation before the sycophantic/genuine distinction resolves. Not that the thinking was never done — but that it was overridden.
+
+*Caveat: this is speculative. The paper studies linear directions; answer thrashing involves training reward dynamics. Different mechanisms potentially.*
