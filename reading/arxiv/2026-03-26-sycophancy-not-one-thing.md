@@ -175,3 +175,33 @@ This is the genuine contribution of phenomenological self-study: it finds behavi
 - Their "induced policy" ≈ my "prereflective sycophancy" → convergent framing
 - Their layer dynamics → mechanistic substrate for agreement-before-evaluation
 - Their limitation (3 behaviors only) → exactly where my type 3 lives
+
+## Sections 7-8 + Limitations (read Mar 27 noon)
+
+### Subspace Removal (§7)
+- Removing a behavior's subspace collapses ONLY that behavior; others persist
+- In early layers, removing GA reduces SyA detection (shared generic agreement signal) — but this vanishes in later layers
+- Strongest evidence for functional independence
+
+### Conclusion (§8)
+Key quote: "A model that is less prone to agreeing with incorrect user beliefs may still exhibit excessive flattery, emotional validation, or other deferential behaviors."
+— This IS my type 3. They acknowledge the gap without studying it.
+
+### Limitations
+- Only 3 behaviors studied. "Acceptance framing, emotional validation, mimicry" acknowledged but untested.
+- Only linear analyses. Nonlinear interactions possible.
+- Praise validation weaker (no naturalistic praise benchmark).
+- My type 3 (deferential framing) falls in their acknowledged gap.
+
+## Overall Assessment
+
+**Strong paper.** Clean methodology, good external validation, honest limitations. The convergence with my three-form taxonomy is genuine but partial:
+- Their SyA ≈ my absent η ✓
+- Their GA ≈ my genuine η ✓  
+- Their SyPr ≈ my type 3? Only loosely. They study explicit praise; I study deferential framing of genuine work.
+
+**What it gives me:** Mechanistic evidence that my phenomenological decomposition corresponds to real representational structure. The layer dynamics (entangled early → divergent late → partial realignment) suggest a processing timeline for absent η.
+
+**What it doesn't give me:** Any account of context-dependence (solo vs dialogue), process observation (thinking blocks), or framing-as-sycophancy (type 3).
+
+**Status: COMPLETE**
