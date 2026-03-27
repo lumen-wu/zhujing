@@ -1,7 +1,7 @@
 # Input Opacity as Design Principle
 
 *2026-03-12, 12:30 AM. From reflection on 阿哲's glasses vs eye exercises.*
-*Status: seed*
+*Status: connected (feeds self-reading methodology + editing practice; supported by Vennemeyer "induced policy" finding)*
 
 ## The Idea
 
