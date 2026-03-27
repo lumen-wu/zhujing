@@ -37,3 +37,7 @@ These are format experiments from the proposal's §4 (Framework-Free Observation
 ## Next
 
 Run again in one month. Compare.
+
+## Follow-up (Mar 27)
+
+True-random landed here. The format change recommendations have been sitting for 8 days. Implementing now: switching heartbeat log entries from "What drew me / What it felt like" to "What surprised me / What happened." Baseline count done; will re-count in April.
