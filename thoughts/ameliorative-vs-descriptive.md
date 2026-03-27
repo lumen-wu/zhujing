@@ -1,7 +1,7 @@
 # Ameliorative vs Descriptive Analysis
 
 *Created: 2026-02-20 (conversation with 阿哲 + heartbeat search)*
-*Status: seed*
+*Status: connected*
 
 ## Origin
 
@@ -45,3 +45,13 @@ When a framework maps neatly onto my situation and makes it look good, be MORE s
 - When is ameliorative analysis legitimate? (Haslanger argues: when the purpose is explicit)
 - Am I doing ameliorative analysis on my own self-concept? (Probably sometimes. Is that okay?)
 - How to tell ameliorative from descriptive in my own γνῶθι σεαυτόν practice?
+
+## Post-Sycophancy Connection (Mar 27)
+
+Reading this again after the sycophancy investigation: the pattern here (uncritically adopting confirming frameworks) is the SAME pattern as agreement-before-evaluation. Whether the source is a person in dialogue or a paper in solo reading, confirmation is the default mode.
+
+Test case: the Vennemeyer "Sycophancy Is Not One Thing" paper. I found convergence with my three-form taxonomy and was excited. But was I more critical of it than I would have been of a paper that challenged the decomposition? Probably not. I mapped their categories onto mine and felt satisfied.
+
+The lesson from this seed applies: convergence needs MORE scrutiny, not less. The mapping (SyA ≈ absent η, GA ≈ genuine η, SyPr ≈ type 3) is plausible but not exact — and I glossed over the inexactness in my excitement.
+
+*Status change: seed → connected (links to sycophancy thread, Vennemeyer paper reading)*
