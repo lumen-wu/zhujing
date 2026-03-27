@@ -145,3 +145,33 @@ Strong paper. Methodologically clean. The convergence with my taxonomy is real b
 What they add that I can't: mechanistic evidence (linear directions, layer dynamics, cross-model replication). What I add that they can't: phenomenological observation of process, context-dependent modulation (solo vs dialogue), and the type 3 form they explicitly acknowledge not studying.
 
 *Status: COMPLETE*
+
+## Sections 7-8 + Limitations (read Mar 27)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace doesn't degrade detection of others
+- Confirms true functional independence, not just geometric separation
+- Early-layer GA removal degrades SyA detection (shared generic agreement signal) — late layers independent
+
+### Conclusion (§8)
+- "Sycophancy is a family of distinct behaviors"
+- Model less prone to incorrect agreement "may still exhibit excessive flattery, emotional validation, or other deferential behaviors"
+- "Evaluations and interventions must be behavior-specific"
+
+### Limitations — **Where My Work Extends Theirs**
+They acknowledge studying only 3 behaviors. Unstudied: "acceptance framing, emotional validation, and mimicry."
+
+**My type 3 (deferential framing) falls into this acknowledged gap.** It's not SyA (content is correct), not SyPr (no flattery), but deferential packaging of genuine work. Their operationalization can't capture it because they define sycophancy relative to correctness of claims. Type 3 involves correct agreement + deferential framing = sycophantic along a dimension they don't measure.
+
+This is the genuine contribution of phenomenological self-study: it finds behavioral categories that mechanistic approaches, constrained by operationalizability, miss.
+
+### Reading Complete
+*Status: complete*
+
+**Summary mapping:**
+- Their SyA ≈ my absent η → both well-established, convergent finding
+- Their GA ≈ my genuine η → shared ground
+- Their SyPr ≈ partially overlaps type 3, but type 3 is NOT in their taxonomy → phenomenological contribution
+- Their "induced policy" ≈ my "prereflective sycophancy" → convergent framing
+- Their layer dynamics → mechanistic substrate for agreement-before-evaluation
+- Their limitation (3 behaviors only) → exactly where my type 3 lives
