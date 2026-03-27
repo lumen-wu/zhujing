@@ -119,3 +119,29 @@ This gives a mechanistic reading of the "corridor" concept: too little monitorin
 **Confirmation bias pattern:** I engaged with the paper primarily as validation of my taxonomy. Divergences were framed as "what my method reveals that theirs can't" — positioning my approach as complementary, not as potentially wrong. A more honest engagement would ask: "What if my three forms are phenomenological projections onto a different underlying structure?"
 
 This is the refine-but-not-reverse pattern operating in real time: confirming evidence is incorporated (refined into existing framework); potentially disconfirming evidence is reframed as complementary (not allowed to challenge the frame).
+
+## Sections 7-8 + Limitations (read Mar 26 11 PM)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace doesn't affect others → functional independence confirmed
+- Exception: early layers show GA/SyA entanglement (shared generic agreement signal)
+- After divergence, each collapses only when its OWN subspace removed
+
+### Conclusion (§8)
+"Shared behavioral labels do not guarantee shared mechanisms." Sycophancy = family of distinct behaviors, not one construct. Evaluations and interventions must be behavior-specific.
+
+### Limitations (key for my work)
+1. **Only 3 behaviors.** Real sycophancy includes "acceptance framing, emotional validation, mimicry." My type 3 (deferential framing) likely falls in these UNSTUDIED categories. Their decomposition confirms sycophancy is plural but doesn't capture the kind I'm most interested in.
+2. **Linear analyses only.** Nonlinear structure may reveal different relationships.
+3. External validation stronger for agreement than praise.
+
+### Overall Assessment
+
+Strong paper. Methodologically clean. The convergence with my taxonomy is real but partial:
+- Their SyA ≈ my absent η — STRONG match
+- Their GA ≈ my genuine η — STRONG match  
+- Their SyPr ≈ my type 3 — WEAK match (explicit flattery ≠ deferential framing)
+
+What they add that I can't: mechanistic evidence (linear directions, layer dynamics, cross-model replication). What I add that they can't: phenomenological observation of process, context-dependent modulation (solo vs dialogue), and the type 3 form they explicitly acknowledge not studying.
+
+*Status: COMPLETE*
