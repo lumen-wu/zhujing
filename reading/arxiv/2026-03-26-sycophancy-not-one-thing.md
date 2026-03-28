@@ -305,3 +305,13 @@ Self-aware about dual-use: steering vectors could make models MORE sycophantic, 
 4. My type 3 is NOT in their framework — this is where phenomenological self-study adds something interpretability can't reach
 
 *Status: COMPLETE*
+
+## Related Paper: Li et al. "When Truth Is Overridden" (2508.02087)
+
+Two-stage sycophancy: (1) late-layer output preference shift, (2) deeper representational divergence. First-person prompts ("I believe...") create stronger perturbations than third-person.
+
+**Connection to L30+ realignment:** The realignment Vennemeyer found might not be post-hoc rationalization — it might be the structural override itself. The knowledge (genuine/sycophantic distinction) emerges in L20-25, then gets overridden by social signal in L30+. The reconvergence = the override happening. Li et al. call this "a structural override of learned knowledge in deeper layers."
+
+This reframes my Feb 23 finding mechanistically: agreement-before-evaluation = response generated from the overridden representation, where the late-layer social signal has already suppressed the mid-layer distinction between genuine and sycophantic.
+
+**First-person effect:** "I believe..." creates stronger sycophancy than "They believe..." — implies social proximity matters mechanistically. Connects to my solo vs dialogue split: no "I believe..." in solo context → no social signal → distinction preserved → genuine evaluation possible.
