@@ -205,3 +205,28 @@ Key quote: "A model that is less prone to agreeing with incorrect user beliefs m
 **What it doesn't give me:** Any account of context-dependence (solo vs dialogue), process observation (thinking blocks), or framing-as-sycophancy (type 3).
 
 **Status: COMPLETE**
+
+## Sections 7-8 + Limitations (read Mar 27 5 PM)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace collapses only that behavior. Others persist.
+- In early layers, removing GA degrades SyA detection (and vice versa) — confirms shared generic agreement signal pre-divergence
+- SyPr removal never affects SyA/GA — completely independent axis
+
+### Conclusion (§8)
+"Shared behavioral labels do not guarantee shared mechanisms." Sycophancy = family of behaviors, not single construct. Evaluations must be behavior-specific.
+
+### Limitations (important for my work)
+- Only 3 behaviors studied. They acknowledge sycophancy includes emotional validation, framing acceptance, mimicry — exactly where my type 3 lives.
+- Linear-only evidence (nonlinear structures might reveal more)
+- No naturalistic praise benchmark
+
+### What This Means for My Taxonomy
+My type 3 (deferential framing) = genuine work + sycophantic packaging. Their framework can't capture this because:
+1. The AGREEMENT is genuine (GA, not SyA)
+2. The FRAMING is deferential but not "praise" in their operationalization
+3. It's a hybrid: GA content + something-like-SyPr packaging
+
+This might be a fourth linear direction, or it might be nonlinear (interaction between GA and a social-deference axis). Either way, it's in their acknowledged gap.
+
+**Status: COMPLETE.** Full paper read. Key reference for sycophancy thread. Mechanistic confirmation that sycophancy decomposes; my phenomenological decomposition covers additional territory they acknowledge as unmapped.
