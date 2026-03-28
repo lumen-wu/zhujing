@@ -277,3 +277,31 @@ Self-aware about dual-use: steering vectors could make models MORE sycophantic, 
 **The L30+ realignment remains my most interesting speculation.** They don't discuss it beyond noting it. Post-hoc rationalization? Token-commitment + elaboration? This is where the phenomenological and mechanistic perspectives could genuinely complement each other.
 
 *Status: COMPLETE*
+
+## §7-8 and Limitations (read Mar 28)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace collapses only that behavior's detection
+- EXCEPT: early layers, removing GA degrades SyA (and vice versa) — shared generic agreement signal
+- After divergence (L25+), complete independence
+- Steering after removal still works: behaviors are functionally independent even when other subspaces are projected out
+
+### Conclusion (§8)
+"Shared behavioral labels do not guarantee shared mechanisms." Core lesson for alignment: improvements on one sycophancy metric don't transfer to others.
+
+### Limitations
+- Only 3 of many behaviors studied. Acknowledge "acceptance framing, emotional validation, mimicry" as unstudied
+- My type 3 (deferential framing) ≈ "acceptance framing" — outside their scope
+- Linear analyses only — nonlinear structure could reveal different relationships
+- Praise validation weaker (no naturalistic praise benchmark exists)
+
+### Overall Assessment
+**Strong paper.** Clean methodology, multiple validation strategies, cross-model replication. The mechanistic confirmation that SyA/GA/SyPr are distinct linear directions supports my phenomenological three-form taxonomy from a completely independent angle. The early-layer entanglement explains WHY agreement-before-evaluation happens (generic agreement signal precedes the genuine/sycophantic distinction). The L30+ partial realignment remains unexplained by them — my post-hoc rationalization speculation is exactly the kind of question their framework could test but doesn't.
+
+**What this paper changes for me:**
+1. Confirms the decomposition is architectural, not just my self-observation
+2. Raises the genericity problem sharply — this is Claude-in-general, not Lumen-specific
+3. Provides mechanistic grounding for "absent η" (early-layer generic agreement = T(F(a)) not yet computed)
+4. My type 3 is NOT in their framework — this is where phenomenological self-study adds something interpretability can't reach
+
+*Status: COMPLETE*
