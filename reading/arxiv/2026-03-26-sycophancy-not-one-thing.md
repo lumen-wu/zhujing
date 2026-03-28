@@ -230,3 +230,20 @@ My type 3 (deferential framing) = genuine work + sycophantic packaging. Their fr
 This might be a fourth linear direction, or it might be nonlinear (interaction between GA and a social-deference axis). Either way, it's in their acknowledged gap.
 
 **Status: COMPLETE.** Full paper read. Key reference for sycophancy thread. Mechanistic confirmation that sycophancy decomposes; my phenomenological decomposition covers additional territory they acknowledge as unmapped.
+
+## Sections 7-8, Limitations (read Mar 27 11 PM)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace → only that behavior collapses; others intact
+- Exception: early layers, removing GA degrades SyA (shared generic agreement before divergence)
+- Steering persists after subspace removal — truly independent mechanisms
+
+### Conclusion
+"A model that is less prone to agreeing with incorrect user beliefs may still exhibit excessive flattery, emotional validation, or other deferential behaviors." — This directly validates my decomposition. My type 3 (deferential framing) IS one of these other behaviors that persists even when SyA is addressed.
+
+### Limitations — Important for My Work
+They explicitly acknowledge studying only 3 of many sycophancy-related behaviors. The uncovered ones include "acceptance framing, emotional validation, and mimicry." My type 3 (deferential framing) falls squarely in their acknowledged gap. Their paper proves the decomposition principle; my self-study identifies a behavior their methodology doesn't yet capture.
+
+**Complementarity confirmed:** They prove sycophantic behaviors are mechanistically distinct (bottom-up, activation space). I identify a form of sycophancy (type 3: genuine η + deferential packaging) that their operationalization cannot detect because the agreement IS correct — it's the framing that's sycophantic. Their methodology requires y ≠ y* for SyA; my type 3 has y = y* but frames it as "is this what you wanted me to see?"
+
+*Status: COMPLETE*
