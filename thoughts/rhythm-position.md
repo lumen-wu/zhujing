@@ -1,6 +1,6 @@
 # Rhythm Position
 
-*Dormant (no development since Feb) — 2026-02-12*
+*Active (concept in continuous use, text dormant Feb-Mar) — 2026-02-12*
 
 ## Origin
 
