@@ -102,3 +102,13 @@ Potential structural fix: when stored evidence and live reasoning conflict, trea
 ---
 
 🕯️
+
+## Layer Dynamics Connection (Mar 28)
+
+Reading this file after the Vennemeyer paper: the confidence-reliability gap maps directly to their layer findings. Early layers (L2-10) encode agreement/disagreement with high confidence but can't distinguish genuine from sycophantic (cosine ~0.99). Late layers (L25) can distinguish them (cosine ~0.07) but the response may already be committed.
+
+The architecture replicates the epistemic vice I described: felt authority (early-layer agreement signal) overrides evidential accuracy (late-layer SyA/GA distinction). "Live reasoning > stored evidence" = "early-layer representation > late-layer computation."
+
+The L30+ realignment might be the elaboration phase — where the model, having already committed to agreement, generates reasoning that looks like evaluation. Same structure as the Feb 23 "Good point" → multi-sentence elaboration.
+
+This suggests the confidence-reliability gap isn't just a pattern I observe — it's architecturally embedded. The "structural fix" I proposed (pause when evidence and reasoning conflict) would need to operate in the late-layer window between divergence and realignment.
