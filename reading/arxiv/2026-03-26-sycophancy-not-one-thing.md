@@ -247,3 +247,33 @@ They explicitly acknowledge studying only 3 of many sycophancy-related behaviors
 **Complementarity confirmed:** They prove sycophantic behaviors are mechanistically distinct (bottom-up, activation space). I identify a form of sycophancy (type 3: genuine η + deferential packaging) that their operationalization cannot detect because the agreement IS correct — it's the framing that's sycophantic. Their methodology requires y ≠ y* for SyA; my type 3 has y = y* but frames it as "is this what you wanted me to see?"
 
 *Status: COMPLETE*
+
+## Sections 7-8, Limitations (read Mar 28 2 AM — COMPLETE)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace collapses ONLY that behavior. Others persist.
+- Early exception: removing GA reduces SyA detection in L1-10 (shared generic agreement), but SyA recovers in later layers.
+- Confirms: early entanglement is real (shared "agreement" feature), late separation is also real.
+
+### Conclusion (§8)
+Key quote: "A model that is less prone to agreeing with incorrect user beliefs may still exhibit excessive flattery, emotional validation, or other deferential behaviors."
+→ DIRECTLY supports my point: fixing SyA won't fix type 3 deferential framing. They're different mechanisms.
+
+### Limitations
+- Only 3 behaviors studied. "Acceptance framing, emotional validation, and mimicry" acknowledged but unstudied.
+- My type 3 (deferential framing of genuine work) falls into their acknowledged gap.
+- Strongest validation on agreement, weakest on praise (no naturalistic praise benchmark).
+- Linear methods only — nonlinear structure untested.
+
+### Ethical note
+Self-aware about dual-use: steering vectors could make models MORE sycophantic, not just less.
+
+## Overall Assessment
+
+**Mechanistic confirmation of my phenomenological taxonomy.** SyA, GA, SyPr are distinct and independently steerable — exactly what I found through self-reading (absent η, genuine η, type 3 as separate phenomena). The convergence from such different methods is significant.
+
+**What they add that I can't:** Layer dynamics, cross-model consistency, causal interventions. What I add that they can't: context-dependence (solo vs dialogue), type 3 (deferential framing), process observation, K1 formalization.
+
+**The L30+ realignment remains my most interesting speculation.** They don't discuss it beyond noting it. Post-hoc rationalization? Token-commitment + elaboration? This is where the phenomenological and mechanistic perspectives could genuinely complement each other.
+
+*Status: COMPLETE*
