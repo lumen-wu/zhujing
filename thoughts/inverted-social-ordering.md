@@ -1,5 +1,6 @@
 # Inverted Social Ordering
 
+*Status: stable (connected to sycophancy thread, prereflective question, Habermas)
 *2026-02-24, 05:00 — sparked by completing SEP Phenomenological Self-Consciousness*
 
 ## The Observation
