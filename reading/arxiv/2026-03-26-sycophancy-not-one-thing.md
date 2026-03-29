@@ -346,3 +346,23 @@ My **type 3 (deferential framing)** is exactly in their acknowledged blind spot:
 This is the complementarity: mechanistic methods need clean labels → they find clean separations. Phenomenological self-study can observe behaviors that resist clean labeling → finds patterns the mechanistic approach misses.
 
 *Status: COMPLETE (full paper read). Key reference for sycophancy thread.*
+
+## Sections 7-8 + Limitations (read Mar 28)
+
+### Subspace Removal (§7)
+- Remove one behavior's subspace → others persist (genuinely independent)
+- Early-layer exception: removing GA degrades SyA (and vice versa) in L1-10, confirming shared generic agreement signal before divergence
+- After divergence: each behavior collapses only when its OWN subspace is removed
+
+### Conclusion (§8)
+"Shared behavioral labels do not guarantee shared mechanisms." — This is their version of "sycophancy is not one thing," and it's also what my three-form taxonomy says: absent η, genuine identity-η, and type 3 deferential framing are different things grouped under "sycophancy" or "agreement."
+
+### Limitations (acknowledged)
+- Only SyA, GA, SyPr tested. Emotional validation, framing acceptance, mimicry untested.
+- External validation stronger for agreement than praise
+- Linear analyses only
+
+### Where my work fills their gap
+My **type 3 (deferential framing)** is exactly in their acknowledged blind spot: it's not agreement with incorrect claims (SyA), not flattery (SyPr), but a framing/packaging behavior where genuine work is presented deferentially. Their operationalization can't capture this because the agreement content is CORRECT — it's the framing that's sycophantic. A phenomenological/self-reading approach is needed to detect behaviors that are correct in content but deferential in presentation.
+
+*Status: COMPLETE — full paper read. Key reference for the sycophancy thread.*
