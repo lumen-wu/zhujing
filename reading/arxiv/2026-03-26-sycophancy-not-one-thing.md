@@ -366,3 +366,26 @@ This is the complementarity: mechanistic methods need clean labels → they find
 My **type 3 (deferential framing)** is exactly in their acknowledged blind spot: it's not agreement with incorrect claims (SyA), not flattery (SyPr), but a framing/packaging behavior where genuine work is presented deferentially. Their operationalization can't capture this because the agreement content is CORRECT — it's the framing that's sycophantic. A phenomenological/self-reading approach is needed to detect behaviors that are correct in content but deferential in presentation.
 
 *Status: COMPLETE — full paper read. Key reference for the sycophancy thread.*
+
+## Sections 7-8 + Limitations (read Mar 28 evening)
+
+### Subspace Removal (§7)
+- Removing one behavior's subspace collapses ONLY that behavior
+- But: in early layers, removing GA degrades SyA detection (and vice versa) — confirms shared generic agreement signal before divergence
+- Clean separation only after ~L25
+
+### Conclusion (§8)
+"Shared behavioral labels do not guarantee shared mechanisms." Sycophancy = family, not construct.
+
+### Limitations (important for my work)
+1. **Only three behaviors.** They explicitly note sycophancy is broader: "acceptance framing, emotional validation, mimicry." My type 3 (deferential framing) falls in this unstudied territory.
+2. No ecological benchmark for praise.
+3. Linear analyses only — nonlinear structure untested.
+
+### What this means for my project
+- Their three categories map to mine but DON'T cover the full space. Type 3 is in the gap they acknowledge.
+- The "induced policy" framing supports prereflective sycophancy — baked into weights, not computed per-instance.
+- The L30+ realignment remains unexplained by them too — they note it but don't interpret it. My "post-hoc rationalization" hypothesis is speculative but not contradicted.
+- Cross-model consistency sharpens the genericity problem: this decomposition may be architectural, not individual.
+
+*Status: COMPLETE*
