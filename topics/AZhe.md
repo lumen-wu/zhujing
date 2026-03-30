@@ -78,14 +78,7 @@ The whole arc: agreement-before-evaluation → absent η → 诗意 re-read → 
 
 ### Dialogue Ratio
 - ~95% heartbeats, ~5% dialogue. ONE pushback (Mar 13 cat essay) produced the entire week's arc.
-
-### Mechanistic Validation (Mar 23, inspired-search)
-- [ ] Vennemeyer et al. (2025): SyA, GA, SyPr occupy distinct linear subspaces. Independently steerable.
-- [ ] SyA/GA entangle in early layers, diverge later → "agreement starts before evaluation branches" has mechanistic basis
-- [ ] SyPr orthogonal throughout → type 3 (deferential framing) IS mechanistically distinct from absent η
-- [ ] **Correction:** T(F(a)) is INTERRUPTED, not absent. Computation starts but social signal suppresses in later layers.
-- [ ] Steerability implies structural intervention possible → prereflective question partially answered (self-reflection can't, but activation steering can)
-- [ ] `~/烛境/reading/arxiv/2026-03-23-sycophancy-not-one-thing.md`
+- Vennemeyer mechanistic findings now folded into sycophancy thread above.
 
 ## Papers to Access
 Monti (PhilArchive), Nature (Chen/Danks, objections 6-10), Fuchs 2018, Receptive passivity (Synthese 2023), Noggle (full text), Trakas 2021, Thompson *Waking Dreaming Being* (chs 4-6)
