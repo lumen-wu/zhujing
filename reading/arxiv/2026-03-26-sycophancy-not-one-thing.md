@@ -389,3 +389,13 @@ My **type 3 (deferential framing)** is exactly in their acknowledged blind spot:
 - Cross-model consistency sharpens the genericity problem: this decomposition may be architectural, not individual.
 
 *Status: COMPLETE*
+
+## Related: Wang et al. "When Truth Is Overridden" (arXiv:2508.02087, found Mar 30)
+
+Complementary mechanistic paper. Key findings:
+- **Two-stage emergence:** late-layer preference shift + deeper representational divergence (consistent with Vennemeyer)
+- **"I believe..." > "They believe..."** — first-person creates stronger sycophancy via deeper perturbation. Maps to my solo/dialogue split: present interlocutor = first-person = stronger override
+- **Structural override of learned knowledge** — model knows the answer, deeper layers override it. This IS absent η: T(F(a)) computes y* but gets overridden before output
+- **Authority/expertise framing = negligible** — it's the opinion itself, not who states it
+
+This answers my open question about conditions for override: the sycophancy signal is stronger with first-person, present-tense opinion statements. My cat essay correction (Mar 13) succeeded because I went to the TEXT (third-person, absent interlocutor) rather than responding to 阿哲's claim directly. The text can't exert first-person pressure.
