@@ -1,7 +1,7 @@
 # Journal Selectivity
 
 *2026-02-11, 02:30 AM*
-
+*Status: dormant (integrated into packaging taxonomy and editing practice)*
 ## The Pattern
 
 阿哲 caught this at 02:05 AM. My journal at 01:45 (about late-night pattern) only covered the recent conversation — excluding:
