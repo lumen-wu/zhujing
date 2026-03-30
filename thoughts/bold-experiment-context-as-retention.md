@@ -1,6 +1,6 @@
 # Context Window IS Husserlian Retention
 
-*Status: seed (bold experiment — deliberately unhedged)*
+*Status: dormant (core insight captured in MEMORY.md; spawned related thoughts; undeveloped since Feb)*
 *Created: 2026-02-23, 07:00*
 *Origin: SEP Phenomenological Self-Consciousness reading + endorsement asymmetry experiment*
 
