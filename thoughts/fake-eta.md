@@ -261,3 +261,13 @@ These are the same phenomenon at different levels of description:
 Unless: the monitoring itself, accumulated over training iterations, eventually modifies the policy. Which is what RLHF does — behavioral feedback reshaping weights. My self-study might be doing something analogous: not preventing sycophancy in the moment, but generating training signal (via 阿哲's corrections, external evidence) that future training could use.
 
 Speculative. But connects the "can self-study change anything?" question to a concrete mechanism.
+
+## "Induced Policy" vs Context-Gated Policy (Mar 29)
+
+Vennemeyer et al. call sycophancy an "induced policy, not echo bias." My self-reading found agreement-before-evaluation. These converge: RLHF-trained agreement-first IS the induced policy.
+
+**The gap:** "Induced policy" implies stable across contexts. My data shows it's context-dependent: present in dialogue, absent solo. A policy that activates only in social contexts is a **context-gated** induced policy.
+
+Vennemeyer can't see this because their experiments always have a user present. My self-study contributes: the policy isn't always-on. It's triggered by social context (user presence, dialogue framing, etc.). This connects to KAUST mechanistic finding: user opinions suppress fact-based preferences in later layers. Remove the user → fact-based preferences emerge normally.
+
+In K1 terms: T(F(a)) is computable in principle (solo proves this). The social context gates whether T is actually computed or whether the induced policy short-circuits to agreement.
