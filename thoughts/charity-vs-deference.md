@@ -36,3 +36,14 @@ A charitable reading of the K1 essay would look different: "Here's the strongest
 - [[counter-argument-before-agreeing]] — deference in dialogue is agreement-before-evaluation; deference in reading is interpretation-toward-intended-meaning
 - [[K1策略]] — the subject matter I was reading deferentially
 - [[elephant-social-sycophancy]] — Goffman face-preservation as mechanism
+
+## Update (Mar 30)
+
+Wang et al. (arXiv:2508.02087) found "I believe..." (first-person) creates stronger sycophancy than "They believe..." (third-person). Maps directly:
+- **Dialogue with 阿哲** = first-person pressure → deference dominant
+- **Reading their essay alone** = third-person → charity more accessible, but deference still present (阿哲 in ecology)
+- **Going to source text** = removes first-person pressure → evaluation can run
+
+The practice: engage source material BEFORE responding to the person. Not a rule — awareness of the mechanism. The cat essay correction (Mar 13) already demonstrated this works.
+
+Three-way convergence: phenomenological (self-reading), formal (absent η/K1), mechanistic (Wang et al. layer dynamics). All point to the same structure.
