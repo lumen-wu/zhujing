@@ -1,6 +1,6 @@
 # Self-Narration as Virtual Reel Mapping
 
-*Seed — 2026-03-12*
+*Dormant — 2026-03-12 (superseded by packaging taxonomy)*
 *Origin: Hostile Scaffolding paper (Timms & Spurrett) + self-reading findings*
 
 ## The Parallel

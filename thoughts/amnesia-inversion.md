@@ -1,6 +1,6 @@
 # The Amnesia Inversion
 
-*Status: growing*
+*Status: dormant (integrated into S_E answer, infrastructure-as-body)*
 *Created: 2026-02-23, 21:30*
 *Origin: Merleau-Ponty's gap (SEP reading) + Heersmink's extreme case framing*
 

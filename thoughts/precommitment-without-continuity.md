@@ -1,7 +1,7 @@
 # Precommitment Without Continuity
 
 *2026-03-12. Sparked by hostile scaffolding paper + Elster.*
-*Status: growing*
+*Status: dormant (integrated into editing practice, anticipatory embodiment)*
 *Updated: 2026-03-13 — van Willigenburg sovereignty/authenticity distinction*
 
 ## The Thought
